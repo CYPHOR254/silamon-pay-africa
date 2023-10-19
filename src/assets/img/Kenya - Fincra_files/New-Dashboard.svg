@@ -1,0 +1,726 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1992" height="1160" viewBox="0 0 1992 1160">
+  <defs>
+    <filter id="Rectangle_2401" x="0" y="0" width="1992" height="1160" filterUnits="userSpaceOnUse">
+      <feOffset dy="32" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2400" data-name="Rectangle 2400" width="1920" height="1080" rx="16"/>
+    </clipPath>
+    <filter id="Button-BG" x="1699" y="133" width="241" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-2"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Button-BG-2" x="1485" y="132" width="239" height="106" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_2194" data-name="Rectangle 2194" width="24" height="24" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_2212" data-name="Rectangle 2212" width="24" height="24" rx="12" transform="translate(-0.23)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_2213" data-name="Rectangle 2213" width="23" height="24" transform="translate(0.5)" fill="#fff"/>
+    </clipPath>
+    <filter id="Button-BG-3" x="364" y="749.003" width="300" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-4"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-5">
+      <rect id="Rectangle_2270" data-name="Rectangle 2270" width="23" height="24" transform="translate(0.415 -0.156)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectangle_2234" data-name="Rectangle 2234" width="23" height="24" transform="translate(0.482 -0.156)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect id="Rectangle_2258" data-name="Rectangle 2258" width="24" height="24" transform="translate(-0.125 -0.156)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect id="Rectangle_2246" data-name="Rectangle 2246" width="24" height="24" transform="translate(-0.058 -0.156)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect id="Rectangle_2276" data-name="Rectangle 2276" width="24" height="24" transform="translate(0.335 -0.156)" fill="#fff"/>
+    </clipPath>
+    <filter id="Button-BG-4" x="364" y="1039.003" width="276" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-5"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="New-Dashboard" transform="translate(-19004 -1201)">
+    <g transform="matrix(1, 0, 0, 1, 19004, 1201)" filter="url(#Rectangle_2401)">
+      <g id="Rectangle_2401-2" data-name="Rectangle 2401" transform="translate(36 12)" fill="#fff" stroke="#1c065a" stroke-width="12">
+        <rect width="1920" height="1080" rx="16" stroke="none"/>
+        <rect x="-6" y="-6" width="1932" height="1092" rx="22" fill="none"/>
+      </g>
+    </g>
+    <g id="Multicurrency_Active_1" data-name="Multicurrency Active – 1" transform="translate(19040 1213)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_2399" data-name="Rectangle 2399" width="1920" height="1080" fill="#f5f4f7"/>
+      <text id="Hello_Adeleke_Akinwale" data-name="Hello, Adeleke Akinwale" transform="translate(320 163)" fill="#1c065a" font-size="28" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Hello, Adeleke Akinwale</tspan></text>
+      <text id="Here_s_how_Vocado_Republic_is_performing" data-name="Here’s how Vocado Republic is performing" transform="translate(320 203)" fill="#1c065a" font-size="18" font-family="Sailec"><tspan x="0" y="0">Here’s how Vocado Republic is performing</tspan></text>
+      <g id="Button" transform="translate(57 -113)">
+        <g transform="matrix(1, 0, 0, 1, -93, 101)" filter="url(#Button-BG)">
+          <rect id="Button-BG-5" data-name="Button-BG" width="193" height="56" rx="8" transform="translate(1723 149)" fill="#7535fd"/>
+        </g>
+        <text id="Fund_Balance" data-name="Fund Balance" transform="translate(1661.576 283)" fill="#fff" font-size="16" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">Fund Balance</tspan></text>
+        <g id="Dropdown_Icon" data-name="Dropdown Icon" transform="translate(1783 266)">
+          <rect id="Rectangle_2000" data-name="Rectangle 2000" width="24" height="24" fill="none"/>
+          <path id="caret-down-solid" d="M9.64,193.689l-3.932,3.96a1.09,1.09,0,0,1-.727.291.986.986,0,0,1-.7-.29L.349,193.69a.95.95,0,0,1-.242-1.077A.994.994,0,0,1,1.022,192H8.913a.99.99,0,0,1,.915.611.977.977,0,0,1-.188,1.078Z" transform="translate(-182.97 16.972) rotate(-90)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Button-2" data-name="Button" transform="translate(-160 -113)">
+        <g transform="matrix(1, 0, 0, 1, 124, 101)" filter="url(#Button-BG-2)">
+          <g id="Button-BG-6" data-name="Button-BG" transform="translate(1510 149)" fill="#fff" stroke="#7535fd" stroke-width="1">
+            <rect width="189" height="56" rx="8" stroke="none"/>
+            <rect x="-0.5" y="-0.5" width="190" height="57" rx="8.5" fill="none"/>
+          </g>
+        </g>
+        <text id="Make_Payout" data-name="Make Payout" transform="translate(1666.104 283)" fill="#7535fd" font-size="16" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">Make Payout</tspan></text>
+        <g id="Dropdown_Icon-2" data-name="Dropdown Icon" transform="translate(1783 266)">
+          <rect id="Rectangle_2000-2" data-name="Rectangle 2000" width="24" height="24" fill="none"/>
+          <path id="caret-down-solid-2" data-name="caret-down-solid" d="M9.64,193.689l-3.932,3.96a1.09,1.09,0,0,1-.727.291.986.986,0,0,1-.7-.29L.349,193.69a.95.95,0,0,1-.242-1.077A.994.994,0,0,1,1.022,192H8.913a.99.99,0,0,1,.915.611.977.977,0,0,1-.188,1.078Z" transform="translate(-182.97 16.972) rotate(-90)" fill="#7535fd"/>
+        </g>
+      </g>
+      <g id="Rectangle_2174" data-name="Rectangle 2174" transform="translate(320 249)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+        <rect width="1560" height="592" rx="16" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="1561" height="593" rx="16.5" fill="none"/>
+      </g>
+      <text id="My_Balances" data-name="My Balances" transform="translate(352 300)" fill="#1c065a" font-size="20" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">My Balances</tspan></text>
+      <g id="Group_272" data-name="Group 272" transform="translate(1080 1)">
+        <g id="Rectangle_2176" data-name="Rectangle 2176" transform="translate(352 328)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+          <rect width="320" height="180" rx="16" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="321" height="181" rx="16.5" fill="none"/>
+        </g>
+        <text id="Available_Balance" data-name="Available Balance" transform="translate(376 365)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Available Balance</tspan></text>
+        <text id="Ledger:" transform="translate(376 439)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Ledger:</tspan></text>
+        <text id="_56_743_245.00" data-name="₦ 56,743,245.00" transform="translate(440 439)" fill="#1c065a" font-size="14" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">₦</tspan><tspan y="0" xml:space="preserve" font-family="Sailec-Bold, Sailec"> 56,743,245.00</tspan></text>
+        <text id="Locked:" transform="translate(376 480)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Locked:</tspan></text>
+        <text id="_56_743_245.83" data-name="₦ 56,743,245.83" transform="translate(440 480)" fill="#1c065a" font-size="14" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">₦</tspan><tspan y="0" xml:space="preserve" font-family="Sailec-Bold, Sailec"> 56,743,245.83</tspan></text>
+        <text id="_56_000_000.68" data-name="₦ 56,000,000.68" transform="translate(376 396)" fill="#1c065a" font-size="24" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">₦</tspan><tspan y="0" xml:space="preserve" font-family="Sailec-Bold, Sailec"> 56,000,000.68</tspan></text>
+        <g id="NGN" transform="translate(6451.386 -10214)">
+          <rect id="Rectangle_2184" data-name="Rectangle 2184" width="32" height="32" transform="translate(-5827.386 10558)" fill="none"/>
+          <g id="emojione_flag-for-nigeria" transform="translate(-5823.542 10561.458)">
+            <path id="Path_12254" data-name="Path 12254" d="M.625,12.806A12.364,12.364,0,0,0,8.858,24.455V1.156A12.365,12.365,0,0,0,.625,12.806Zm24.7,0a12.309,12.309,0,0,0-8.234-11.65v23.3a12.309,12.309,0,0,0,8.232-11.65Z" transform="translate(-0.625 -0.456)" fill="#83bf4f"/>
+            <path id="Path_12255" data-name="Path 12255" d="M6.875,24.624a12.458,12.458,0,0,0,8.233,0V1.325a12.457,12.457,0,0,0-8.233,0Z" transform="translate(1.358 -0.625)" fill="#f9f9f9"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_271" data-name="Group 271" transform="translate(384 1)">
+        <g id="Rectangle_2177" data-name="Rectangle 2177" transform="translate(688 328)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+          <rect width="320" height="180" rx="16" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="321" height="181" rx="16.5" fill="none"/>
+        </g>
+        <text id="Available_Balance-2" data-name="Available Balance" transform="translate(712 365)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Available Balance</tspan></text>
+        <text id="Ledger:-2" data-name="Ledger:" transform="translate(712 439)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Ledger:</tspan></text>
+        <text id="_0.00" data-name="€ 0.00" transform="translate(776 439)" fill="#1c065a" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">€ 0.00</tspan></text>
+        <text id="Locked:-2" data-name="Locked:" transform="translate(712 480)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Locked:</tspan></text>
+        <text id="_0.00-2" data-name="€ 0.00" transform="translate(776 480)" fill="#1c065a" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">€ 0.00</tspan></text>
+        <text id="_24_047.04" data-name="€ 24,047.04" transform="translate(712 396)" fill="#1c065a" font-size="24" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">€ 24,047.04</tspan></text>
+        <g id="European" transform="translate(6499 -10214)">
+          <rect id="Rectangle_2203" data-name="Rectangle 2203" width="32" height="32" transform="translate(-5539 10558)" fill="none"/>
+          <g id="emojione_flag-for-european-union" transform="translate(-5535 10562)" clip-path="url(#clip-path-2)">
+            <path id="Path_12331" data-name="Path 12331" d="M11.75,23A11.25,11.25,0,1,0,.5,11.75,11.25,11.25,0,0,0,11.75,23Z" transform="translate(0.25 0.25)" fill="#2a5f9e"/>
+            <path id="Path_12332" data-name="Path 12332" d="M10.5,2.95l.263.825h.862L10.95,4.3l.263.825L10.5,4.6l-.712.525L10.05,4.3l-.675-.525h.862Zm0,12.75.263.825h.862l-.675.487.263.862L10.5,17.35l-.712.525.262-.862-.675-.487h.862Zm3.15-1.05.262.825h.9L14.1,16l.263.825L13.65,16.3l-.713.525.3-.825-.712-.525h.862Zm2.175-2.175.263.825h.9l-.712.525.262.825-.712-.525-.712.525.3-.825L14.7,13.3h.863Zm1.05-3.15.262.825H18l-.713.525.263.825-.675-.525-.713.525.263-.825-.712-.525h.862Zm-1.05-3.187L16.088,7h.9l-.712.487.262.825-.712-.488-.712.488.3-.825L14.7,7h.863ZM13.65,3.963l.262.862h.9l-.712.488.263.825L13.65,5.65l-.713.487.3-.825-.712-.488h.862ZM7.35,14.65l-.262.825h-.9L6.9,16l-.262.825L7.35,16.3l.712.525L7.763,16l.712-.525H7.613ZM5.175,12.475l-.262.825h-.9l.713.525-.263.825.713-.525.713.525-.3-.825L6.3,13.3H5.438Zm-1.05-3.15-.262.825H3l.712.525L3.45,11.5l.675-.525.712.525-.262-.825.712-.525H4.425Zm1.05-3.187L4.913,7h-.9l.713.487-.263.825.713-.488.713.488-.3-.825L6.3,7H5.438ZM7.35,3.963l-.262.862h-.9l.713.488-.262.825L7.35,5.65l.712.487-.3-.825.712-.488H7.613Z" transform="translate(1.5 1.475)" fill="#ffce31"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_275" data-name="Group 275" transform="translate(-336 1)">
+        <g id="Rectangle_2177-2" data-name="Rectangle 2177" transform="translate(688 328)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+          <rect width="320" height="180" rx="16" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="321" height="181" rx="16.5" fill="none"/>
+        </g>
+        <text id="Available_Balance-3" data-name="Available Balance" transform="translate(712 365)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Available Balance</tspan></text>
+        <text id="Ledger:-3" data-name="Ledger:" transform="translate(712 439)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Ledger:</tspan></text>
+        <text id="_0.00-3" data-name="$ 0.00" transform="translate(776 439)" fill="#1c065a" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">$ 0.00</tspan></text>
+        <text id="Locked:-3" data-name="Locked:" transform="translate(712 480)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Locked:</tspan></text>
+        <text id="_0.00-4" data-name="$ 0.00" transform="translate(776 480)" fill="#1c065a" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">$ 0.00</tspan></text>
+        <text id="_24_047.04-2" data-name="$ 24,047.04" transform="translate(712 396)" fill="#1c065a" font-size="24" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">$ 24,047.04</tspan></text>
+        <g id="European-2" data-name="European" transform="translate(6499 -10214)">
+          <rect id="Rectangle_2203-2" data-name="Rectangle 2203" width="32" height="32" transform="translate(-5539 10558)" fill="none"/>
+          <g id="emojione_flag-for-us-outlying-islands" transform="translate(-5535.653 10561.347)">
+            <path id="Path_12263" data-name="Path 12263" d="M16.415,2.469A12.109,12.109,0,0,0,10,.625V2.469Z" transform="translate(2.653)" fill="#ed4c5c"/>
+            <path id="Path_12264" data-name="Path 12264" d="M10,3.907h8.66a14.093,14.093,0,0,0-2.245-1.844H10Z" transform="translate(2.653 0.407)" fill="#fff"/>
+            <path id="Path_12265" data-name="Path 12265" d="M10,5.344H20.144A13.331,13.331,0,0,0,18.7,3.5H10Z" transform="translate(2.653 0.814)" fill="#ed4c5c"/>
+            <path id="Path_12266" data-name="Path 12266" d="M10,6.782H21.106a13.338,13.338,0,0,0-.962-1.844H10Z" transform="translate(2.653 1.221)" fill="#fff"/>
+            <path id="Path_12267" data-name="Path 12267" d="M10,8.219H21.708a14.145,14.145,0,0,0-.6-1.844H10Z" transform="translate(2.653 1.627)" fill="#ed4c5c"/>
+            <path id="Path_12268" data-name="Path 12268" d="M10,9.688H21.988a13.613,13.613,0,0,0-.281-1.844H10Z" transform="translate(2.653 2.043)" fill="#fff"/>
+            <path id="Path_12269" data-name="Path 12269" d="M24.642,9.281H12.653V10.2H.625a7.1,7.1,0,0,0,.04.922H24.642a7.108,7.108,0,0,0,.04-.922,6.807,6.807,0,0,0-.04-.919Z" transform="translate(0 2.45)" fill="#ed4c5c"/>
+            <path id="Path_12270" data-name="Path 12270" d="M.937,12.563H24.352a9.313,9.313,0,0,0,.281-1.844H.656a14.652,14.652,0,0,0,.281,1.844Z" transform="translate(0.009 2.857)" fill="#fff"/>
+            <path id="Path_12271" data-name="Path 12271" d="M1.476,14H23.689a14.142,14.142,0,0,0,.6-1.844H.875A14.161,14.161,0,0,0,1.476,14Z" transform="translate(0.071 3.264)" fill="#ed4c5c"/>
+            <path id="Path_12272" data-name="Path 12272" d="M2.306,15.438H22.594a16.082,16.082,0,0,0,.962-1.844H1.344a16.1,16.1,0,0,0,.962,1.844Z" transform="translate(0.203 3.671)" fill="#fff"/>
+            <path id="Path_12273" data-name="Path 12273" d="M3.537,16.876h17.4a12.7,12.7,0,0,0,1.443-1.844H2.094a10.858,10.858,0,0,0,1.443,1.844Z" transform="translate(0.416 4.077)" fill="#ed4c5c"/>
+            <path id="Path_12274" data-name="Path 12274" d="M5.464,18.313h12.91a12.5,12.5,0,0,0,2.245-1.844H3.219a12.214,12.214,0,0,0,2.245,1.844Z" transform="translate(0.734 4.484)" fill="#fff"/>
+            <path id="Path_12275" data-name="Path 12275" d="M11.424,19.791a11.928,11.928,0,0,0,6.455-1.885H4.969A11.928,11.928,0,0,0,11.424,19.791Z" transform="translate(1.229 4.891)" fill="#ed4c5c"/>
+            <path id="Path_12276" data-name="Path 12276" d="M6.238,2.469A12.789,12.789,0,0,0,3.953,4.314,10.437,10.437,0,0,0,2.509,6.158,11.546,11.546,0,0,0,1.547,8a14.164,14.164,0,0,0-.6,1.844,9.308,9.308,0,0,0-.281,1.844,7.726,7.726,0,0,0-.04.962H12.653V.625A12.109,12.109,0,0,0,6.238,2.469Z" fill="#428bc1"/>
+            <path id="Path_12277" data-name="Path 12277" d="M9.723.938l.2.6h.6l-.481.4.16.6L9.723,2.18l-.481.361.16-.6-.481-.4h.6Zm1.6,2.406.2.6h.6l-.481.4.16.6-.481-.361-.481.361.16-.6-.481-.4h.6Zm-3.208,0,.2.6h.6l-.481.4.16.6-.481-.361-.481.361.16-.6-.481-.4h.6Zm1.6,2.406.2.6h.6l-.481.4.16.6-.481-.361-.481.361.16-.6-.481-.4h.6Zm-3.208,0,.2.6h.6l-.481.4.16.6L6.5,6.989l-.481.361.16-.6L5.7,6.35h.6ZM3.3,5.75l.2.6h.6l-.481.4.16.6L3.3,6.989l-.481.361.16-.6L2.5,6.35h.6Zm8.019,2.406.2.6h.6l-.481.4.16.6-.47-.356-.481.361.16-.6-.481-.4h.6Zm-3.208,0,.2.6h.6l-.481.4.16.6L8.119,9.4l-.481.361.16-.6-.481-.4h.6Zm-3.208,0,.2.6h.6l-.481.4.16.6L4.912,9.4l-.481.361.16-.6-.481-.4h.6Zm4.821,2.4.2.6h.6l-.481.4.16.6-.479-.36-.481.361.16-.6-.481-.4h.6Zm-3.208,0,.2.6h.6l-.481.4.16.6-.479-.36-.481.361.16-.6-.481-.4h.6Zm-3.208,0,.2.6h.6l-.481.4.16.6-.478-.36-.481.361.16-.6-.481-.4h.6ZM4.43,4.947l.481-.361.481.361-.2-.6.481-.4h-.6l-.16-.6-.2.6H4.15l.481.361ZM1.223,9.758,1.7,9.4l.481.361-.2-.6.481-.4H1.9l-.2-.6-.2.6H1.1c0,.04-.04.08-.04.12l.321.241Z" transform="translate(0.124 0.088)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_270" data-name="Group 270" transform="translate(-312 1)">
+        <g id="Rectangle_2178" data-name="Rectangle 2178" transform="translate(1024 328)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+          <rect width="320" height="180" rx="16" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="321" height="181" rx="16.5" fill="none"/>
+        </g>
+        <text id="Available_Balance-4" data-name="Available Balance" transform="translate(1048 365)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Available Balance</tspan></text>
+        <text id="Ledger:-4" data-name="Ledger:" transform="translate(1048 439)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Ledger:</tspan></text>
+        <text id="_6_292.33" data-name="£ 6,292.33" transform="translate(1112 439)" fill="#1c065a" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">£ 6,292.33</tspan></text>
+        <text id="Locked:-4" data-name="Locked:" transform="translate(1048 480)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Locked:</tspan></text>
+        <text id="_6_292.33-2" data-name="£ 6,292.33" transform="translate(1112 480)" fill="#1c065a" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">£ 6,292.33</tspan></text>
+        <text id="_6_292.33-3" data-name="£ 6,292.33" transform="translate(1048 396)" fill="#1c065a" font-size="24" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">£ 6,292.33</tspan></text>
+        <g id="GBP" transform="translate(7059.047 -10214)">
+          <rect id="Rectangle_2186" data-name="Rectangle 2186" width="32" height="32" transform="translate(-5763.047 10558)" fill="none"/>
+          <g id="circle-flags_uk" transform="translate(-5758.817 10562)" clip-path="url(#clip-path-3)">
+            <path id="Path_12367" data-name="Path 12367" d="M0,0,.371,1.021,0,2.089V3.157L1.486,5.664,0,8.171V9.657l1.486,2.228L0,14.113V15.6l1.486,2.507L0,20.613V23.77l1.021-.37,1.068.371H3.157l2.507-1.486L8.171,23.77H9.657l2.228-1.486,2.228,1.486H15.6l2.507-1.486,2.507,1.486H23.77l-.37-1.021.371-1.068V20.613l-1.486-2.507L23.77,15.6V14.113l-1.486-2.228L23.77,9.657V8.171L22.284,5.664,23.77,3.157V0L22.749.371,21.681,0H20.613L18.106,1.486,15.6,0H14.113L11.885,1.486,9.657,0H8.171L5.664,1.486,3.157,0Z" fill="#eee"/>
+            <path id="Path_12368" data-name="Path 12368" d="M15.6,0V5.014L20.613,0Zm8.17,3.157L18.756,8.171H23.77ZM0,8.171H5.014L0,3.157ZM3.157,0,8.171,5.014V0ZM8.171,23.77V18.756L3.157,23.77ZM0,20.613,5.014,15.6H0ZM23.77,15.6H18.756l5.014,5.014Zm-3.157,8.17L15.6,18.756V23.77Z" fill="#0052b4"/>
+            <path id="Path_12369" data-name="Path 12369" d="M0,0V2.089L6.082,8.171H8.171ZM9.657,0V9.657H0v4.457H9.657V23.77h4.457V14.113H23.77V9.657H14.113V0ZM21.681,0,15.6,6.082V8.171L23.77,0ZM8.171,15.6,0,23.77H2.089l6.082-6.082Zm7.428,0,8.171,8.17V21.681L17.688,15.6Z" fill="#d80027"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_273" data-name="Group 273" transform="translate(360 1)">
+        <g id="Rectangle_2176-2" data-name="Rectangle 2176" transform="translate(352 532)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+          <rect width="320" height="180" rx="16" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="321" height="181" rx="16.5" fill="none"/>
+        </g>
+        <text id="Available_Balance-5" data-name="Available Balance" transform="translate(376 569)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Available Balance</tspan></text>
+        <text id="Ledger:-5" data-name="Ledger:" transform="translate(376 643)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Ledger:</tspan></text>
+        <text id="Ksh_0.00" data-name="Ksh 0.00" transform="translate(440 643)" fill="#1c065a" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">Ksh 0.00</tspan></text>
+        <text id="Locked:-5" data-name="Locked:" transform="translate(376 684)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Locked:</tspan></text>
+        <text id="Ksh_0.00-2" data-name="Ksh 0.00" transform="translate(440 684)" fill="#1c065a" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">Ksh 0.00</tspan></text>
+        <text id="Ksh_49_382" data-name="Ksh 49,382" transform="translate(376 600)" fill="#1c065a" font-size="24" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">Ksh 49,382</tspan></text>
+        <g id="Kenyan" transform="translate(6451.386 -10010)">
+          <rect id="Rectangle_2184-2" data-name="Rectangle 2184" width="32" height="32" transform="translate(-5827.386 10558)" fill="none"/>
+          <g id="Kenya" transform="translate(-5823.386 10562)">
+            <path id="Path_12354" data-name="Path 12354" d="M11.837,0a11.993,11.993,0,0,0-11,7.169h22A11.992,11.992,0,0,0,11.837,0Z" transform="translate(0.162)" fill="#3e4347"/>
+            <path id="Path_12355" data-name="Path 12355" d="M11.837,21.169a11.992,11.992,0,0,0,11-7.169h-22a11.993,11.993,0,0,0,11,7.169Z" transform="translate(0.162 2.831)" fill="#75a843"/>
+            <path id="Path_12356" data-name="Path 12356" d="M24,10.52a11.79,11.79,0,0,0-.44-3.186H.44a11.757,11.757,0,0,0,0,6.373H23.56A11.79,11.79,0,0,0,24,10.52Z" transform="translate(0 1.48)" fill="#c94747"/>
+            <path id="Path_12357" data-name="Path 12357" d="M.607,14.762a6.616,6.616,0,0,0,.32.8h22a6.623,6.623,0,0,0,.32-.8c.08-.279.16-.518.24-.8H.367C.447,14.245.527,14.484.607,14.762ZM23.251,6.8a6.63,6.63,0,0,0-.32-.8h-22a6.623,6.623,0,0,0-.32.8c-.08.279-.16.518-.24.8h23.12C23.411,7.314,23.331,7.075,23.251,6.8Z" transform="translate(0.072 1.221)" fill="#fff"/>
+            <path id="Path_12358" data-name="Path 12358" d="M6.067,19.642l.279.16L14.033,6.42c.438-.12.677-.561.956-.962A9.581,9.581,0,0,0,16.1,2.533a8.607,8.607,0,0,0-1.952,2.444A1.82,1.82,0,0,0,13.794,6.3Z" transform="translate(1.236 0.494)" fill="#fff"/>
+            <path id="Path_12359" data-name="Path 12359" d="M15.571,19.642l-.279.16L7.605,6.42c-.438-.12-.677-.561-.956-.962A9.582,9.582,0,0,1,5.534,2.533,8.6,8.6,0,0,1,7.486,4.977,1.82,1.82,0,0,1,7.844,6.3Z" transform="translate(1.127 0.494)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_274" data-name="Group 274" transform="translate(-336 1)">
+        <g id="Rectangle_2177-3" data-name="Rectangle 2177" transform="translate(688 532)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+          <rect width="320" height="180" rx="16" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="321" height="181" rx="16.5" fill="none"/>
+        </g>
+        <text id="Available_Balance-6" data-name="Available Balance" transform="translate(712 569)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Available Balance</tspan></text>
+        <text id="Ledger:-6" data-name="Ledger:" transform="translate(712 643)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Ledger:</tspan></text>
+        <text id="Gh_0.00" data-name="Gh₵ 0.00" transform="translate(776 643)" fill="#1c065a" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">Gh</tspan><tspan y="0" font-family="Helvetica-Bold, Helvetica">₵</tspan><tspan y="0" xml:space="preserve"> 0.00</tspan></text>
+        <text id="Locked:-6" data-name="Locked:" transform="translate(712 684)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">Locked:</tspan></text>
+        <text id="Gh_0.00-2" data-name="Gh₵ 0.00" transform="translate(776 684)" fill="#1c065a" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">Gh</tspan><tspan y="0" font-family="Helvetica-Bold, Helvetica">₵</tspan><tspan y="0" xml:space="preserve"> 0.00</tspan></text>
+        <text id="Gh_4_292.23" data-name="Gh₵ 4,292.23" transform="translate(712 600)" fill="#1c065a" font-size="24" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">Gh</tspan><tspan y="0" font-family="Helvetica-Bold, Helvetica">₵</tspan><tspan y="0" xml:space="preserve"> 4,292.23</tspan></text>
+        <g id="Ghana" transform="translate(6499 -10010)">
+          <rect id="Rectangle_2203-3" data-name="Rectangle 2203" width="32" height="32" transform="translate(-5539 10558)" fill="none"/>
+          <g id="emojione_flag-for-ghana" transform="translate(-5534.5 10562)" clip-path="url(#clip-path-4)">
+            <path id="Path_12370" data-name="Path 12370" d="M11.677.625A11.117,11.117,0,0,0,1.156,8.06H22.2A11.116,11.116,0,0,0,11.677.625Z" transform="translate(0.253 0.119)" fill="#c94747"/>
+            <path id="Path_12371" data-name="Path 12371" d="M11.677,20.56A11.117,11.117,0,0,0,22.2,13.125H1.156A11.117,11.117,0,0,0,11.677,20.56Z" transform="translate(0.253 2.489)" fill="#699635"/>
+            <path id="Path_12372" data-name="Path 12372" d="M1.257,6.875a11.25,11.25,0,0,0,0,7.435H22.3a11.251,11.251,0,0,0,0-7.435Z" transform="translate(0.152 1.304)" fill="#ffce31"/>
+            <path id="Path_12373" data-name="Path 12373" d="M10.593,12.563l2.3,1.747L12,11.485l2.3-1.822H11.485l-.892-2.788L9.738,9.663H6.875l2.3,1.822L8.288,14.31Z" transform="translate(1.337 1.304)" fill="#3e4347"/>
+          </g>
+        </g>
+      </g>
+      <g id="Refresh" transform="translate(490 281)">
+        <g id="Refresh-2" data-name="Refresh" transform="translate(-961 -531)">
+          <rect id="Rectangle_2030" data-name="Rectangle 2030" width="24" height="24" transform="translate(961 531)" fill="none"/>
+          <path id="arrow-rotate-right-solid" d="M52.73,17.43v6.433a1.429,1.429,0,0,1-1.43,1.43H44.867a1.43,1.43,0,0,1,0-2.859H47.7a7.134,7.134,0,1,0-1.416,10A1.43,1.43,0,1,1,48,34.721a10,10,0,1,1,1.867-14.159V17.43a1.43,1.43,0,0,1,2.859,0Z" transform="translate(930.635 516.637)" fill="#1c065a"/>
+        </g>
+      </g>
+      <g id="Button-3" data-name="Button" transform="translate(352 753.323)">
+        <g transform="matrix(1, 0, 0, 1, -388, -765.32)" filter="url(#Button-BG-3)">
+          <rect id="Button-BG-7" data-name="Button-BG" width="252" height="56" rx="8" transform="translate(388 765)" fill="#7535fd"/>
+        </g>
+        <text id="View_all_Balances_27_" data-name="View all Balances (27)" transform="translate(32 32.677)" fill="#fff" font-size="16" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">View all Balances (27)</tspan></text>
+        <g id="Dropdown_Icon-3" data-name="Dropdown Icon" transform="translate(212 16)">
+          <rect id="Rectangle_2000-3" data-name="Rectangle 2000" width="24" height="24" transform="translate(0 -0.323)" fill="none"/>
+          <path id="caret-down-solid-3" data-name="caret-down-solid" d="M9.607,1.689,5.675,5.648a1.09,1.09,0,0,1-.727.291.986.986,0,0,1-.7-.29L.317,1.69A.95.95,0,0,1,.074.612.994.994,0,0,1,.989,0H8.88A.99.99,0,0,1,9.8.611a.977.977,0,0,1-.193,1.078Z" transform="translate(9.03 16.939) rotate(-90)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_285" data-name="Group 285">
+        <rect id="Rectangle_2282" data-name="Rectangle 2282" width="320" height="115" rx="16" transform="translate(1072 598)" fill="#f5f4f7"/>
+        <text id="_24_more_currencies" data-name="+24 more currencies" transform="translate(1096 685)" fill="#1c065a" font-size="16" font-family="Sailec"><tspan x="0" y="0">+24 more currencies</tspan></text>
+        <g id="Group_278" data-name="Group 278" transform="translate(-1 -10.821)">
+          <g id="SA" transform="translate(1097 633)">
+            <rect id="Rectangle_2281" data-name="Rectangle 2281" width="32" height="32" transform="translate(0 -0.179)" fill="none"/>
+            <g id="emojione_flag-for-south-africa" transform="translate(3.978 3.978)">
+              <path id="Path_12434" data-name="Path 12434" d="M23.729,15.161a11.6,11.6,0,0,0,0-6.306H12.141L5.435,2.313a12.2,12.2,0,0,0-3.81,4.335L7.1,12.008l-5.437,5.36A11.483,11.483,0,0,0,5.474,21.7l6.667-6.543Z" transform="translate(-0.299 -0.075)" fill="#699635"/>
+              <path id="Path_12435" data-name="Path 12435" d="M1.247,7.031a12.755,12.755,0,0,0,0,7.869l3.978-3.936Z" transform="translate(-0.625 0.966)" fill="#3e4347"/>
+              <path id="Path_12436" data-name="Path 12436" d="M5.719,19.851A12.476,12.476,0,0,0,11.4,21.218a12.387,12.387,0,0,0,11.394-7.5H11.975Z" transform="translate(0.041 2.648)" fill="#428bc1"/>
+              <path id="Path_12437" data-name="Path 12437" d="M22.79,8.125A12.422,12.422,0,0,0,5.719,1.992l6.257,6.132Z" transform="translate(0.041 -0.625)" fill="#ed4c5c"/>
+              <path id="Path_12438" data-name="Path 12438" d="M23.56,8.866a8.292,8.292,0,0,0-.414-1.077H12.332L6.075,1.656a8.217,8.217,0,0,0-.829.456c-.207.124-.414.29-.622.414l7,6.878h12.1A2.676,2.676,0,0,0,23.56,8.866Z" transform="translate(-0.316 -0.289)" fill="#fff"/>
+              <path id="Path_12439" data-name="Path 12439" d="M1.829,5.75a2.02,2.02,0,0,0-.124.29,14.312,14.312,0,0,0-.58,1.409L5.1,11.385,1.125,15.321a8.393,8.393,0,0,0,.58,1.409,2.016,2.016,0,0,1,.124.29l5.676-5.635Z" transform="translate(-0.462 0.548)" fill="#ffce31"/>
+              <path id="Path_12440" data-name="Path 12440" d="M11.627,12.5l-7,6.878c.124.083.29.207.414.29a8.332,8.332,0,0,0,1.036.58l6.257-6.132H23.146c.166-.414.331-.829.5-1.285.042-.124.042-.207.083-.331Z" transform="translate(-0.316 2.251)" fill="#fff"/>
+            </g>
+          </g>
+          <g id="Angola" transform="translate(1107.607 633)">
+            <rect id="Rectangle_2269" data-name="Rectangle 2269" width="31" height="32" transform="translate(0.393 -0.179)" fill="none"/>
+            <g id="emojione_flag-for-angola" transform="translate(3.978 3.978)" clip-path="url(#clip-path-5)">
+              <path id="Path_12426" data-name="Path 12426" d="M11.7,19.2A11.181,11.181,0,0,0,22.891,8H.5A11.181,11.181,0,0,0,11.7,19.2Z" transform="translate(0.246 3.924)" fill="#3e4347"/>
+              <path id="Path_12427" data-name="Path 12427" d="M11.7.5A11.181,11.181,0,0,0,.5,11.7H22.891A11.181,11.181,0,0,0,11.7.5Z" transform="translate(0.246 0.228)" fill="#ed4c5c"/>
+              <path id="Path_12428" data-name="Path 12428" d="M7.836,6.938,7.351,8.431,8.619,7.5l1.306.933L9.44,6.938l1.269-.933H9.1l-.485-1.53L8.13,6.005H6.53Zm7.65,8.994a3.462,3.462,0,0,0-.709-.784c-.3-.261-.709-.56-1.045-.858l-.6.672c-.037.037,0,.112,0,.112a1.831,1.831,0,0,1,1.12.56c.373.373.485.784.746.97.451.261.787-.224.488-.672Zm-5.3-2.575a4.785,4.785,0,0,1-4.553-.821l-.709.858a6.881,6.881,0,0,0,.933.634l-.224.448a6.316,6.316,0,0,0,1.157.485l.149-.448a5.95,5.95,0,0,0,1.12.224l-.037.448a6.787,6.787,0,0,0,1.232,0L9.216,14.7a5.95,5.95,0,0,0,1.12-.224l.149.448a6.192,6.192,0,0,0,.6-.224l-.261-1.008-.634-.336" transform="translate(2.427 2.187)" fill="#ffe62e"/>
+              <path id="Path_12429" data-name="Path 12429" d="M12.947,9.93A4.875,4.875,0,0,1,11.3,13.065L12.648,14a6.2,6.2,0,0,0,.485-.522l-.373-.3a6.881,6.881,0,0,0,.634-.933l.448.224a6.316,6.316,0,0,0,.485-1.157l-.448-.149a5.95,5.95,0,0,0,.224-1.12l.485.037a6.787,6.787,0,0,0,0-1.232l-.485.037a5.95,5.95,0,0,0-.224-1.12l.448-.149a4.48,4.48,0,0,0-.485-1.157l-.448.224a5.42,5.42,0,0,0-.634-.97l.373-.3a6.769,6.769,0,0,0-.9-.9l-.3.373A5.146,5.146,0,0,0,11,4.252l.224-.448a6.316,6.316,0,0,0-1.157-.485L9.918,3.8A5.062,5.062,0,0,0,8.836,3.58L8.73,4.706A4.77,4.77,0,0,1,12.947,9.93m-1.866,3.807A34.129,34.129,0,0,1,7.424,10.9l.075-.075a33.369,33.369,0,0,0,3.62,2.8c.634.448,1.269.9,1.866,1.343l.224-.187c-2.09-1.493-7.016-4.926-7.091-6.158a2.487,2.487,0,0,0,1.045,3.508c2.015,1.157,3.359,1.9,5.486,3.321l.3-.336a16.028,16.028,0,0,0-1.866-1.381" transform="translate(2.839 1.62)" fill="#ffe62e"/>
+            </g>
+          </g>
+          <g id="Belgium" transform="translate(1119.54 633)">
+            <rect id="Rectangle_2233" data-name="Rectangle 2233" width="31" height="32" transform="translate(0.46 -0.179)" fill="none"/>
+            <g id="emojione_flag-for-belgium" transform="translate(3.978 3.978)" clip-path="url(#clip-path-6)">
+              <path id="Path_12392" data-name="Path 12392" d="M17.958,11.478A11.151,11.151,0,0,0,10.5.925V22.032a11.151,11.151,0,0,0,7.458-10.554Z" transform="translate(5.162 0.455)" fill="#ed4c5c"/>
+              <path id="Path_12393" data-name="Path 12393" d="M.5,11.478A11.2,11.2,0,0,0,7.956,22.031l0-21.106A11.2,11.2,0,0,0,.5,11.478Z" transform="translate(0.246 0.455)" fill="#3e4347"/>
+              <path id="Path_12394" data-name="Path 12394" d="M12.958,1.134a11.285,11.285,0,0,0-7.458,0V22.24a11.285,11.285,0,0,0,7.458,0Z" transform="translate(2.704 0.246)" fill="#ffe62e"/>
+            </g>
+          </g>
+          <g id="Argentina" transform="translate(1130.147 633)">
+            <rect id="Rectangle_2257" data-name="Rectangle 2257" width="32" height="32" transform="translate(-0.147 -0.179)" fill="none"/>
+            <g id="emojione_flag-for-argentina" transform="translate(3.978 3.978)" clip-path="url(#clip-path-7)">
+              <path id="Path_12404" data-name="Path 12404" d="M.5,9.922a11.083,11.083,0,0,0,1.7,5.922H20.968A11.151,11.151,0,0,0,20.968,4H2.2A11.083,11.083,0,0,0,.5,9.922Z" transform="translate(0.24 2.1)" fill="#f9f9f9"/>
+              <path id="Path_12405" data-name="Path 12405" d="M20.453,5.682a11.119,11.119,0,0,0-18.8,0ZM1.65,17.526a11.119,11.119,0,0,0,18.8,0Z" transform="translate(0.793 0.418)" fill="#b4d7ee"/>
+              <path id="Path_12406" data-name="Path 12406" d="M14.765,9.608,11.73,9.5V9.46c.481-.074.851-.37,1.37-.333a2.056,2.056,0,0,0,1.221-.37c.259-.074.407.074.407,0,.037-.074-.148-.222-.518-.185-.333.037-.444.333-1.221.259-.666-.037-.888.222-1.37.222V9.016l2.739-1.258a.137.137,0,0,0,.074-.111.081.081,0,0,0-.111-.037L11.545,8.72V8.683c.407-.259.629-.666,1.147-.814a2.133,2.133,0,0,0,1-.814c.185-.185.407-.074.407-.148s-.222-.148-.518.037-.3.481-1.036.7c-.629.185-.74.518-1.184.74l-.037-.037L13.4,6.129s.074-.074.037-.111-.111.037-.111.037L11.1,8.127l-.037-.037c.3-.407.333-.851.74-1.184A2.164,2.164,0,0,0,12.4,5.8c.111-.222.333-.222.3-.3s-.259-.037-.481.222c-.222.3-.111.555-.666,1.036-.481.407-.481.777-.777,1.11a.036.036,0,0,1-.037-.037l1.036-2.85a.081.081,0,0,0-.037-.111c-.074-.037-.111.074-.111.074L10.36,7.683h-.037a5.575,5.575,0,0,1,.222-1.37,1.966,1.966,0,0,0,.111-1.258c.037-.259.222-.333.185-.37-.037-.074-.259.074-.37.407-.074.333.111.555-.222,1.221-.3.592-.148.888-.3,1.332H9.916L9.805,4.611s0-.111-.074-.111-.074.111-.074.111L9.546,7.646H9.509c-.074-.481-.37-.851-.333-1.37a2.056,2.056,0,0,0-.37-1.221c-.074-.222.074-.407,0-.407-.074-.037-.222.148-.185.518.037.333.333.444.259,1.221-.037.666.222.888.222,1.37H9.065L7.806,5.018A.137.137,0,0,0,7.7,4.944a.081.081,0,0,0-.037.111L8.7,7.9H8.658c-.258-.4-.667-.629-.815-1.147a2.133,2.133,0,0,0-.814-1c-.185-.185-.074-.407-.148-.407s-.148.222.037.518.481.3.7,1.036c.185.629.518.74.74,1.184l-.037.037L6.1,6.055s-.074-.074-.111-.037.037.111.037.111L8.1,8.349l-.037.037c-.407-.3-.851-.333-1.184-.74a2.164,2.164,0,0,0-1.11-.592c-.222-.111-.222-.333-.3-.3s-.037.259.222.481c.3.222.555.111,1.036.666.407.481.777.481,1.11.777a.036.036,0,0,1-.037.037L4.956,7.683a.081.081,0,0,0-.111.037c-.037.074.074.111.074.111L7.658,9.09v.037A5.575,5.575,0,0,1,6.289,8.9,1.966,1.966,0,0,0,5.03,8.794c-.259-.037-.333-.222-.37-.185-.074.037.074.259.407.37.333.074.555-.111,1.221.222.592.3.888.148,1.332.3v.037l-3.035.111s-.111,0-.111.074.111.074.111.074l3.036.1v.037c-.481.074-.851.37-1.37.333a2.056,2.056,0,0,0-1.221.37c-.259.074-.407-.074-.407,0-.037.074.148.222.518.185s.444-.3,1.221-.259c.666.037.888-.222,1.37-.222v.037L4.993,11.644a.137.137,0,0,0-.074.111c0,.074.111.037.111.037l2.85-1.036v.037c-.407.259-.629.666-1.147.814a2.133,2.133,0,0,0-1,.814c-.185.185-.407.074-.407.148s.222.148.518-.037.3-.481,1.036-.7c.629-.185.74-.518,1.184-.74l.037.037L6.03,13.346s-.074.074-.037.111.111-.037.111-.037l2.221-2.073.037.037c-.3.407-.333.851-.74,1.184a2.164,2.164,0,0,0-.592,1.11c-.111.222-.333.222-.3.3s.259.037.481-.222.111-.555.666-1.036c.481-.407.481-.777.777-1.11a.036.036,0,0,1,.037.037L7.655,14.5a.081.081,0,0,0,.045.1c.074.037.111-.074.111-.074l1.258-2.739H9.1a5.575,5.575,0,0,1-.222,1.37,2.383,2.383,0,0,0-.148,1.258c-.037.259-.222.333-.185.37.037.074.259-.074.37-.407a2.6,2.6,0,0,1,.222-1.221c.3-.592.148-.888.3-1.332h.037l.111,3.035s0,.111.074.111.074-.111.074-.111l.111-3.035h.037c.074.481.37.851.333,1.37a2.056,2.056,0,0,0,.37,1.221c.074.259-.074.407,0,.407.074.037.222-.148.185-.518-.037-.333-.333-.444-.259-1.221.037-.666-.222-.888-.222-1.37h.037l1.258,2.739a.137.137,0,0,0,.111.074.081.081,0,0,0,.037-.111l-1.073-2.887H10.7c.259.407.666.629.814,1.147a2.133,2.133,0,0,0,.814,1c.185.185.074.407.148.407s.148-.222-.037-.518-.481-.3-.7-1.036c-.185-.629-.518-.74-.74-1.184l.037-.037,2.221,2.073s.074.074.111.037-.037-.111-.037-.111l-2.073-2.221.037-.037c.407.3.851.333,1.184.74a2.164,2.164,0,0,0,1.11.592c.222.111.222.333.3.3s.037-.259-.222-.481c-.3-.222-.555-.111-1.036-.666-.407-.481-.777-.481-1.11-.814a.036.036,0,0,1,.037-.037l2.85,1.036a.081.081,0,0,0,.111-.037c.037-.074-.074-.111-.074-.111L11.7,10.313v-.037a5.575,5.575,0,0,1,1.37.222,1.966,1.966,0,0,0,1.258.111c.259.037.333.222.37.185.074-.037-.074-.259-.407-.37-.333-.074-.555.111-1.221-.222-.592-.3-.888-.148-1.332-.3V9.867l3.035-.111s.111,0,.111-.074-.111-.074-.111-.074" transform="translate(2.15 2.34)" fill="#f6b40e"/>
+              <path id="Path_12407" data-name="Path 12407" d="M9,7.885A.594.594,0,0,0,8.6,7.7a.514.514,0,0,0-.37.185.733.733,0,0,0,.77,0Zm-.111-.037a.32.32,0,0,1-.222.111c.037-.037.074-.074.074-.111s-.037-.074-.074-.111a.6.6,0,0,1,.224.111Zm-.407-.111a.136.136,0,0,0-.037.111c0,.037.037.111.074.111A.32.32,0,0,1,8.3,7.848c.073-.037.11-.074.184-.111Z" transform="translate(3.953 3.878)" fill="#85340a"/>
+              <path id="Path_12408" data-name="Path 12408" d="M8.656,7.625c-.222,0-.259.037-.333.111-.111.074-.148.074-.148.074s0,.074.037.037A.338.338,0,0,0,8.4,7.736a.445.445,0,0,1,.3-.074.792.792,0,0,1,.481.222.677.677,0,0,0-.518-.259" transform="translate(3.928 3.842)" fill="#85340a"/>
+              <path id="Path_12409" data-name="Path 12409" d="M8.091,7.671a.334.334,0,0,0-.037.185A1.118,1.118,0,0,0,8.2,8.6a.129.129,0,0,1,.074-.037.932.932,0,0,1-.185-.592A.553.553,0,0,1,8.2,7.708a.857.857,0,0,1,1.073.111.757.757,0,0,0-1.184-.148" transform="translate(3.864 3.758)" fill="#85340a"/>
+              <path id="Path_12410" data-name="Path 12410" d="M8.649,7.961c-.111-.074-.148-.111-.185-.111s-.037.037.111.111a.652.652,0,0,0,.7-.111.881.881,0,0,1-.629.111m-.185.592c-.037,0-.074-.037-.111-.074,0,.037-.074.111-.185.111a.255.255,0,0,1-.185-.111c0,.037-.037.074-.111.074a.118.118,0,0,1-.111-.111.08.08,0,0,1,.074-.074c-.074,0-.111.074-.111.148a.159.159,0,0,0,.148.148c.037,0,.074-.037.111-.074.037.037.148.037.185.037H8.2A.4.4,0,0,0,8.39,8.59c.037.037.074.074.111.074a.159.159,0,0,0,.148-.148c0-.074-.037-.111-.111-.148a.08.08,0,0,1,.074.074c-.037.074-.074.111-.148.111Zm-.3.333c.074,0,.148-.074.259,0a2.123,2.123,0,0,0,.259.148c-.148-.111-.222-.222-.37-.222a.223.223,0,0,0-.148.037.28.28,0,0,0-.148-.037c-.148,0-.222.148-.37.222A1.609,1.609,0,0,1,7.9,8.886a.6.6,0,0,1,.259,0" transform="translate(3.676 3.95)" fill="#85340a"/>
+              <path id="Path_12411" data-name="Path 12411" d="M8.42,9.189c-.074,0-.111-.037-.222,0a.723.723,0,0,0-.259.037H7.9c.333.037.185.222.518.222s.185-.185.518-.222H8.865a.643.643,0,0,0-.444-.037m0,.185c-.259,0-.185-.185-.481-.185.3-.074.333.037.481.037A1.409,1.409,0,0,1,8.9,9.189c-.294.037-.22.185-.48.185Zm0,.074a.292.292,0,0,0-.3.3.281.281,0,0,1,.3-.222.322.322,0,0,1,.3.222.292.292,0,0,0-.3-.3ZM8.2,7.708a.4.4,0,0,1,.111.259.8.8,0,0,1-.185.592A.115.115,0,0,1,8.2,8.6a1.335,1.335,0,0,0,.148-.74c0-.074-.037-.111-.037-.185a.761.761,0,0,0-1.184.148A.774.774,0,0,1,8.2,7.708" transform="translate(3.424 3.758)" fill="#85340a"/>
+              <path id="Path_12412" data-name="Path 12412" d="M7.942,7.761c.111.074.148.111.185.111a.036.036,0,0,0,.037-.037.229.229,0,0,1-.148-.074.452.452,0,0,0-.333-.111c-.333,0-.518.259-.481.259a.792.792,0,0,1,.481-.222.352.352,0,0,1,.259.074" transform="translate(3.458 3.854)" fill="#85340a"/>
+              <path id="Path_12413" data-name="Path 12413" d="M7.275,7.885A.553.553,0,0,0,7.645,8a.714.714,0,0,0,.37-.111A.594.594,0,0,0,7.608,7.7.442.442,0,0,0,7.275,7.885Zm.074,0c.074-.074.148-.148.222-.148-.037.037-.074.074-.074.111,0,.074.037.111.074.111a.178.178,0,0,1-.222-.074M7.9,7.848a.809.809,0,0,1-.185.111.136.136,0,0,0,.037-.111c0-.037-.037-.074-.037-.111C7.83,7.774,7.9,7.811,7.9,7.848Z" transform="translate(3.496 3.878)" fill="#85340a"/>
+              <path id="Path_12414" data-name="Path 12414" d="M8.089,7.85c-.037,0-.074.037-.185.111a.673.673,0,0,1-.629-.074.652.652,0,0,0,.7.111c.148-.111.148-.148.111-.148" transform="translate(3.496 3.95)" fill="#85340a"/>
+            </g>
+          </g>
+          <g id="Lithuania" transform="translate(1142.08 633)">
+            <rect id="Rectangle_2245" data-name="Rectangle 2245" width="32" height="32" transform="translate(-0.08 -0.179)" fill="none"/>
+            <g id="emojione_flag-for-lithuania" transform="translate(3.978 3.978)" clip-path="url(#clip-path-8)">
+              <path id="Path_12398" data-name="Path 12398" d="M11.478.5A11.2,11.2,0,0,0,.925,7.958H22.031A11.2,11.2,0,0,0,11.478.5Z" transform="translate(0.455 0.246)" fill="#ffce31"/>
+              <path id="Path_12399" data-name="Path 12399" d="M11.478,17.958A11.151,11.151,0,0,0,22.031,10.5H.925a11.151,11.151,0,0,0,10.553,7.458Z" transform="translate(0.455 5.162)" fill="#c94747"/>
+              <path id="Path_12400" data-name="Path 12400" d="M1.134,5.5a11.285,11.285,0,0,0,0,7.458H22.24a11.285,11.285,0,0,0,0-7.458Z" transform="translate(0.246 2.704)" fill="#699635"/>
+            </g>
+          </g>
+          <g id="Gambia" transform="translate(1152.688 633)">
+            <rect id="Rectangle_2275" data-name="Rectangle 2275" width="32" height="32" transform="translate(0.313 -0.179)" fill="none"/>
+            <g id="emojione_flag-for-gambia" transform="translate(3.978 3.978)" clip-path="url(#clip-path-9)">
+              <path id="Path_12430" data-name="Path 12430" d="M11.429.5a11.2,11.2,0,0,0-10.4,7.085h20.8A11.2,11.2,0,0,0,11.429.5Z" transform="translate(0.504 0.246)" fill="#f42f4c"/>
+              <path id="Path_12431" data-name="Path 12431" d="M11.429,17.835a11.2,11.2,0,0,0,10.4-7.085H1.025a11.2,11.2,0,0,0,10.4,7.085Z" transform="translate(0.504 5.285)" fill="#699635"/>
+              <path id="Path_12432" data-name="Path 12432" d="M22.874,9.106a11.088,11.088,0,0,0-.522-3.356H1.022a11.049,11.049,0,0,0,0,6.712h21.33a11.088,11.088,0,0,0,.522-3.356Z" transform="translate(0.246 2.827)" fill="#2a5f9e"/>
+              <path id="Path_12433" data-name="Path 12433" d="M22.069,5.623c-.037-.112-.112-.261-.149-.373H1.111c-.037.112-.112.261-.149.373S.887,5.884.85,6H22.18c-.037-.112-.075-.261-.112-.373M.962,13.081c.037.112.112.261.149.373H21.919c.037-.112.112-.261.149-.373s.075-.261.112-.373H.85c.037.112.075.261.112.373" transform="translate(0.418 2.581)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Request">
+        <rect id="Rectangle_2179" data-name="Rectangle 2179" width="760" height="245" rx="16" transform="translate(320 881)" fill="#fcf0d4"/>
+        <text id="Request_Virtual_Cards" data-name="Request Virtual Cards" transform="translate(352 932)" fill="#1c065a" font-size="20" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Request Virtual Cards</tspan></text>
+        <g id="Button-4" data-name="Button" transform="translate(352 1041.323)">
+          <g transform="matrix(1, 0, 0, 1, -388, -1053.32)" filter="url(#Button-BG-4)">
+            <rect id="Button-BG-8" data-name="Button-BG" width="228" height="51" rx="8" transform="translate(388 1055)" fill="#7535fd"/>
+          </g>
+          <text id="Request_Virtual_Card" data-name="Request Virtual Card" transform="translate(32 32.677)" fill="#fff" font-size="16" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="0" y="0">Request Virtual Card</tspan></text>
+        </g>
+        <text id="Get_a_virtual_card_for_completing_all_your_international_online_transactions._Fincra_Virtual_Cards_are_acceptable_on_most_online_payment_schemes" data-name="Get a virtual card for completing all your international online transactions. Fincra Virtual Cards are acceptable on most online payment schemes" transform="translate(352 978)" fill="#1c065a" font-size="18" font-family="Sailec"><tspan x="0" y="0">Get a virtual card for completing all your international online transactions. Fincra </tspan><tspan x="0" y="28">Virtual Cards are acceptable on most online payment schemes</tspan></text>
+      </g>
+      <g id="Top_Nav_-_KYC_Approved" data-name="Top Nav - KYC Approved" transform="translate(280)">
+        <path id="Rectangle_1995" data-name="Rectangle 1995" d="M0,0H1624a16,16,0,0,1,16,16V97a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" fill="#fff"/>
+        <rect id="Rectangle_2094" data-name="Rectangle 2094" width="179" height="96" transform="translate(1099)" fill="#fff"/>
+        <g id="TopNav_Line" data-name="TopNav Line" transform="translate(0.5 96.5)">
+          <line id="TopNav_Line-2" data-name="TopNav Line" x2="1640" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+        </g>
+        <g id="Announcement" transform="translate(1329 25)">
+          <g id="Ellipse_29" data-name="Ellipse 29" fill="rgba(245,244,247,0)" stroke="#f5f4f7" stroke-width="1">
+            <circle cx="24" cy="24" r="24" stroke="none"/>
+            <circle cx="24" cy="24" r="24.5" fill="none"/>
+          </g>
+          <g id="Group_36" data-name="Group 36" transform="translate(-1625 -27)">
+            <rect id="Rectangle_2008" data-name="Rectangle 2008" width="24" height="24" transform="translate(1637 39)" fill="none"/>
+            <path id="message" d="M15.006,0H1.372A2.27,2.27,0,0,0-.9,2.24V12.434a2.25,2.25,0,0,0,2.272,2.24H4.781v2.982A.426.426,0,0,0,5.46,18L9.9,14.674h5.113a2.27,2.27,0,0,0,2.272-2.24V2.24A2.252,2.252,0,0,0,15.006,0Zm.6,12.5a.572.572,0,0,1-.568.568H9.358L6.517,15.2V13.07H1.4a.572.572,0,0,1-.564-.57V2.272A.572.572,0,0,1,1.4,1.7H15.038a.572.572,0,0,1,.568.568Z" transform="translate(1640.81 41.958)" fill="#1c065a"/>
+          </g>
+        </g>
+        <g id="Menu_Item" data-name="Menu Item" transform="translate(830 -102)">
+          <g id="Menu_Item_BG" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-2" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="220" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="220.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="API_Documentation" data-name="API Documentation" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">API Documentation</tspan></text>
+          <g id="Readme" transform="translate(-591 -74)">
+            <rect id="Rectangle_2033" data-name="Rectangle 2033" width="24" height="24" transform="translate(631 213)" fill="none"/>
+            <path id="readme-brands" d="M19.065,46.5H14.02a3.711,3.711,0,0,0-3.62,2.9,3.714,3.714,0,0,0-3.623-2.9H1.732A1.733,1.733,0,0,0,0,48.232V57.1a1.733,1.733,0,0,0,1.732,1.732H4.969c3.688,0,4.789.881,5.316,2.707a.115.115,0,0,0,.217,0c.53-1.826,1.631-2.707,5.316-2.707h3.237A1.733,1.733,0,0,0,20.787,57.1V48.236A1.736,1.736,0,0,0,19.065,46.5ZM8.733,56.078a.126.126,0,0,1-.126.126H2.822a.126.126,0,0,1-.126-.126v-.826a.126.126,0,0,1,.126-.126H8.611a.126.126,0,0,1,.126.126v.826Zm0-2.2A.126.126,0,0,1,8.607,54H2.822A.126.126,0,0,1,2.7,53.88v-.826a.126.126,0,0,1,.126-.126H8.611a.126.126,0,0,1,.126.126v.826Zm0-2.2a.126.126,0,0,1-.126.126H2.822a.126.126,0,0,1-.126-.126v-.826a.126.126,0,0,1,.126-.126H8.611a.126.126,0,0,1,.126.126v.826Zm9.358,4.392a.126.126,0,0,1-.126.126H12.18a.126.126,0,0,1-.126-.126v-.826a.126.126,0,0,1,.126-.126h5.788a.126.126,0,0,1,.126.126v.826Zm0-2.2a.126.126,0,0,1-.126.126H12.18a.126.126,0,0,1-.126-.126v-.82a.126.126,0,0,1,.126-.126h5.788a.126.126,0,0,1,.126.126v.826Zm0-2.2a.126.126,0,0,1-.126.126H12.18a.126.126,0,0,1-.126-.126v-.823a.126.126,0,0,1,.126-.126h5.788a.126.126,0,0,1,.126.126v.823Z" transform="translate(632.606 170.941)" fill="#1c065a"/>
+          </g>
+        </g>
+        <g id="Menu_Item-2" data-name="Menu Item" transform="translate(594 -102)">
+          <g id="Menu_Item_BG-3" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-4" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="220" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="220.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="Integration_Support" data-name="Integration Support" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Integration Support</tspan></text>
+          <g id="Product" transform="translate(7 6)">
+            <rect id="Rectangle_2013" data-name="Rectangle 2013" width="24" height="24" transform="translate(33 133)" fill="none"/>
+            <path id="code-solid" d="M13.656,1.335,9.442,16.085a1.055,1.055,0,1,1-2.028-.579L11.628.757a1.055,1.055,0,0,1,2.028.579Zm3.417,2.654L20.76,7.676a1.051,1.051,0,0,1,0,1.488l-3.687,3.687a1.052,1.052,0,1,1-1.488-1.488l2.94-2.943-2.94-2.943a1.052,1.052,0,1,1,1.488-1.488ZM5.485,5.477,2.543,8.421l2.942,2.943A1.052,1.052,0,0,1,4,12.852L.309,9.165a1.051,1.051,0,0,1,0-1.488L4,3.989A1.052,1.052,0,0,1,5.485,5.477Z" transform="translate(34.465 136.579)" fill="#1c065a"/>
+          </g>
+        </g>
+        <rect id="Rectangle_2050" data-name="Rectangle 2050" width="1" height="96" transform="translate(1304)" fill="#e0e0e0"/>
+        <rect id="Rectangle_2051" data-name="Rectangle 2051" width="1" height="96" transform="translate(1401)" fill="#e0e0e0"/>
+        <rect id="Rectangle_2052" data-name="Rectangle 2052" width="1" height="96" transform="translate(1098)" fill="#e0e0e0"/>
+        <g id="Toggle" transform="translate(1123 39)">
+          <rect id="Rectangle_2029" data-name="Rectangle 2029" width="40" height="24" rx="12" fill="#1c7c54"/>
+          <circle id="Ellipse_30" data-name="Ellipse 30" cx="6" cy="6" r="6" transform="translate(24 6)" fill="#fff"/>
+          <text id="Live_Mode" data-name="Live Mode" transform="translate(48 18)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Live Mode</tspan></text>
+        </g>
+        <g id="Profile" transform="translate(1426 21)">
+          <g id="Rectangle_2003" data-name="Rectangle 2003" fill="#fff" stroke="#f5f4f7" stroke-width="1">
+            <rect width="174" height="56" rx="8" stroke="none"/>
+            <rect x="-0.5" y="-0.5" width="175" height="57" rx="8.5" fill="none"/>
+          </g>
+          <g id="Avatar" transform="translate(-1824 -21)">
+            <g id="Ellipse_28" data-name="Ellipse 28" transform="translate(1832 25)" fill="#fff" stroke="#f5f4f7" stroke-width="1">
+              <circle cx="24" cy="24" r="24" stroke="none"/>
+              <circle cx="24" cy="24" r="24.5" fill="none"/>
+            </g>
+            <g id="_001-avatar" data-name="001-avatar" transform="translate(1832.805 25.805)">
+              <path id="Path_11497" data-name="Path 11497" d="M46.39,23.2a23.148,23.148,0,0,1-8.681,18.092H8.681A23.195,23.195,0,1,1,46.39,23.2Z" fill="#9a83f7"/>
+              <path id="Path_11498" data-name="Path 11498" d="M205.5,99.587l-11.1,11.1,2.777,2.777-2.1,2.1,16.3,16.3H214.5a23.167,23.167,0,0,0,8.45-14.815Z" transform="translate(-176.791 -90.564)" fill="#9a83f7"/>
+              <path id="Path_11499" data-name="Path 11499" d="M185.522,198.881H178.5V182.529h7.022l.934,8.176Z" transform="translate(-162.327 -165.991)" fill="#f6bc41"/>
+              <path id="Path_11500" data-name="Path 11500" d="M256,182.529h7.022v16.352H256Z" transform="translate(-232.805 -165.991)" fill="#f6bc41"/>
+              <path id="Path_11501" data-name="Path 11501" d="M211,254.65v9.061h4.077l1.428-4.53-1.428-4.53Z" transform="translate(-191.882 -231.577)" fill="#d17f6e"/>
+              <path id="Path_11502" data-name="Path 11502" d="M256,254.65h4.077v9.061H256Z" transform="translate(-232.805 -231.577)" fill="#d17f6e"/>
+              <path id="Path_11503" data-name="Path 11503" d="M173.505,105.365H170.23c-1.709,0-3.094,1.74-3.094,3.887v1.972a1.063,1.063,0,0,0-.964-.482c-.668.118-1.038,1.189-.826,2.392s.926,2.083,1.594,1.965a.7.7,0,0,0,.2-.067,5.529,5.529,0,0,0,1.027,3.11l1.329,1.847a4.95,4.95,0,0,0,4.01,2.1l1.093-8.363Z" transform="translate(-150.31 -95.818)" fill="#dd9382"/>
+              <path id="Path_11504" data-name="Path 11504" d="M263.333,110.742a1.064,1.064,0,0,0-.964.482v-1.972c0-2.147-1.385-3.887-3.094-3.887H256v16.726a4.95,4.95,0,0,0,4.01-2.1l1.329-1.847a5.529,5.529,0,0,0,1.027-3.11.7.7,0,0,0,.2.067c.668.118,1.382-.762,1.594-1.965s-.158-2.274-.826-2.392Z" transform="translate(-232.805 -95.818)" fill="#dd9382"/>
+              <path id="Path_11505" data-name="Path 11505" d="M180.765,79.332a6.151,6.151,0,0,0-6.038,4.876,15.9,15.9,0,0,0-.239,2.869v13.589h2.093v-14.2h5.292L183.3,82.82l-1.428-3.486Z" transform="translate(-158.678 -72.142)" fill="#f8cf77"/>
+              <path id="Path_11506" data-name="Path 11506" d="M257.109,79.332a6.151,6.151,0,0,1,6.038,4.876,15.9,15.9,0,0,1,.239,2.869v13.589h-2.093v-14.2H256V79.332Z" transform="translate(-232.805 -72.142)" fill="#f8cf77"/>
+              <path id="Path_11507" data-name="Path 11507" d="M110.323,313.391l-4.077-3.57h-5.787a4.645,4.645,0,0,0-4.65,4.649v8.566a23.449,23.449,0,0,0,4.365,2.769l.68-.044.68.653a22.3,22.3,0,0,0,8.79,1.725l2.212-8.256Z" transform="translate(-87.128 -281.749)" fill="#9ac0e6"/>
+              <path id="Path_11508" data-name="Path 11508" d="M267.242,310.028a4.65,4.65,0,0,0-1.377-.207h-5.787L256,313.391V328.14a23.06,23.06,0,0,0,8.79-1.725l.68-.732.68.123a23.219,23.219,0,0,0,4.366-2.769V314.47a4.651,4.651,0,0,0-3.274-4.442Z" transform="translate(-232.805 -281.749)" fill="#9ac0e6"/>
+              <path id="Path_11509" data-name="Path 11509" d="M143.99,401.984q.668.325,1.359.609v-9H143.99Z" transform="translate(-130.944 -357.928)" fill="#9ac0e6"/>
+              <path id="Path_11510" data-name="Path 11510" d="M353.009,402.593q.691-.283,1.359-.609v-8.395h-1.359Z" transform="translate(-321.024 -357.928)" fill="#9ac0e6"/>
+            </g>
+          </g>
+          <g id="Dropdown_Icon-4" data-name="Dropdown Icon" transform="translate(142 16)">
+            <rect id="Rectangle_2000-4" data-name="Rectangle 2000" width="24" height="24" fill="none"/>
+            <path id="caret-down-solid-4" data-name="caret-down-solid" d="M9.64,193.689l-3.932,3.96a1.09,1.09,0,0,1-.727.291.986.986,0,0,1-.7-.29L.349,193.69a.95.95,0,0,1-.242-1.077A.994.994,0,0,1,1.022,192H8.913a.99.99,0,0,1,.915.611.977.977,0,0,1-.188,1.078Z" transform="translate(7.028 -182.97)" fill="#1c065a"/>
+          </g>
+          <text id="Adeleke" transform="translate(64 25)" fill="#1c065a" font-size="16" font-family="Sailec"><tspan x="0" y="0">Adeleke</tspan></text>
+          <text id="Vocado" transform="translate(64 44)" fill="#1c065a" font-size="12" font-family="Sailec"><tspan x="0" y="0">Vocado</tspan></text>
+        </g>
+      </g>
+      <g id="Side_Nav_No_Onboarding" data-name="Side Nav No Onboarding">
+        <rect id="Side_Nav_BG" data-name="Side Nav BG" width="280" height="1080" fill="#fff"/>
+        <g id="Logo-Menu-Full_Width" data-name="Logo-Menu-Full Width" transform="translate(0 -12)">
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="232" height="40" transform="translate(24 40)" fill="#fff"/>
+          <g id="Fincra_Coloured_logo" data-name="Fincra Coloured logo" transform="translate(-66 -259.5)">
+            <g id="Group_1" data-name="Group 1" transform="translate(90 299.5)">
+              <path id="Path_1" data-name="Path 1" d="M94.342,422.626c-.021-.042-.021-.084-.042-.126C94.321,422.521,94.321,422.563,94.342,422.626Z" transform="translate(-93.396 -396.633)" fill="#fff"/>
+              <path id="Path_2" data-name="Path 2" d="M221.9,306.9c.021,0,.042.021.063.021C221.942,306.921,221.921,306.9,221.9,306.9Z" transform="translate(-194.161 -305.344)" fill="#fff"/>
+              <path id="Path_3" data-name="Path 3" d="M213,303.6a.5.5,0,0,0,.168.042A.4.4,0,0,1,213,303.6Z" transform="translate(-187.132 -302.738)" fill="#fff"/>
+              <path id="Path_4" data-name="Path 4" d="M217.6,305.2c.042.021.1.042.147.063C217.705,305.242,217.642,305.221,217.6,305.2Z" transform="translate(-190.765 -304.001)" fill="#fff"/>
+              <path id="Path_5" data-name="Path 5" d="M95.921,427.163c0-.021-.021-.042-.021-.063C95.9,427.121,95.921,427.142,95.921,427.163Z" transform="translate(-94.659 -400.265)" fill="#fff"/>
+              <path id="Path_6" data-name="Path 6" d="M226.2,308.8c.042.021.063.021.1.042A.357.357,0,0,0,226.2,308.8Z" transform="translate(-197.556 -306.844)" fill="#fff"/>
+              <path id="Path_7" data-name="Path 7" d="M272.4,356.8l.126.315Z" transform="translate(-234.04 -344.75)" fill="#fff"/>
+              <path id="Path_8" data-name="Path 8" d="M274.3,361.4c.042.084.063.189.105.273A1.461,1.461,0,0,1,274.3,361.4Z" transform="translate(-235.541 -348.382)" fill="#fff"/>
+              <path id="Path_9" data-name="Path 9" d="M263.7,341c.042.063.084.105.126.168A1.169,1.169,0,0,1,263.7,341Z" transform="translate(-227.17 -332.272)" fill="#fff"/>
+              <path id="Path_10" data-name="Path 10" d="M90.3,399.2Z" transform="translate(-90.237 -378.154)" fill="#fff"/>
+              <path id="Path_11" data-name="Path 11" d="M91.2,409Z" transform="translate(-90.948 -385.972)" fill="#fff"/>
+              <path id="Path_12" data-name="Path 12" d="M92.121,413.526c0-.042-.021-.084-.021-.126a.267.267,0,0,0,.021.126Z" transform="translate(-91.658 -389.446)" fill="#fff"/>
+              <path id="Path_13" data-name="Path 13" d="M90.665,404.242V404.2C90.644,404.2,90.665,404.221,90.665,404.242Z" transform="translate(-90.518 -382.181)" fill="#fff"/>
+              <path id="Path_14" data-name="Path 14" d="M208.9,302.5c.021,0,.021,0,.042.021A.065.065,0,0,0,208.9,302.5Z" transform="translate(-183.895 -301.869)" fill="#fff"/>
+              <path id="Path_15" data-name="Path 15" d="M204.1,301.4c.042,0,.084.021.126.021a.747.747,0,0,1-.126-.021Z" transform="translate(-180.104 -301)" fill="#fff"/>
+              <path id="Path_16" data-name="Path 16" d="M90.3,349.484A20.1,20.1,0,0,1,94.064,338.8,19.749,19.749,0,0,0,90.3,349.484Z" transform="translate(-90.237 -330.535)" fill="#fff"/>
+              <path id="Path_17" data-name="Path 17" d="M97.621,431.363c0-.021-.021-.042-.021-.063a.077.077,0,0,0,.021.063Z" transform="translate(-96.002 -403.582)" fill="#fff"/>
+              <path id="Path_18" data-name="Path 18" d="M152.3,483.742c-.042-.021-.063-.021-.1-.042a.16.16,0,0,1,.1.042Z" transform="translate(-139.119 -444.962)" fill="#fff"/>
+              <path id="Path_19" data-name="Path 19" d="M279.7,384.7Z" transform="translate(-239.805 -366.782)" fill="#fff"/>
+              <path id="Path_20" data-name="Path 20" d="M279.1,379.8c0,.042.021.084.021.126A.266.266,0,0,1,279.1,379.8Z" transform="translate(-239.331 -362.913)" fill="#fff"/>
+              <path id="Path_21" data-name="Path 21" d="M142.85,342.28a8.714,8.714,0,0,0-7.781,10.894c1.472-2.145,3.491-2.566,5.72-2.545,4.374.021,8.728-.042,13.1-.042a8.71,8.71,0,0,0,5.258-1.682,16.09,16.09,0,0,0,4.311-4.29l.021-.021a20.86,20.86,0,0,0-1.346-2.418C155.721,342.175,149.286,341.923,142.85,342.28Z" transform="translate(-125.395 -333.132)" fill="#fff"/>
+              <path id="Path_22" data-name="Path 22" d="M156.8,485.242c-.042-.021-.084-.021-.1-.042C156.742,485.221,156.784,485.221,156.8,485.242Z" transform="translate(-142.673 -446.146)" fill="#fff"/>
+              <path id="Path_23" data-name="Path 23" d="M170.7,488.5Z" transform="translate(-153.728 -448.752)" fill="#fff"/>
+              <path id="Path_24" data-name="Path 24" d="M111.19,405.192c.841.063,1.7-.021,2.545.021a8.878,8.878,0,0,0,4.942-1.388,17.05,17.05,0,0,0,5.762-6.162c.421-.715.336-.988-.568-.967-3.3.042-6.583.021-9.884.021q-8.139-.032-11.377,7.424a10.751,10.751,0,0,0-.61,1.746,18.447,18.447,0,0,0,1.809,2.713,8.3,8.3,0,0,1,7.381-3.408Z" transform="translate(-99.476 -376.254)" fill="#fff"/>
+              <path id="Path_25" data-name="Path 25" d="M161.421,486.6Z" transform="translate(-146.384 -447.252)" fill="#fff"/>
+              <path id="Path_26" data-name="Path 26" d="M277,370.1c.021.063.042.126.063.21C277.042,370.247,277.021,370.184,277,370.1Z" transform="translate(-237.673 -355.252)" fill="#fff"/>
+              <path id="Path_27" data-name="Path 27" d="M99.521,435.742c0-.021-.021-.021-.021-.042a.074.074,0,0,1,.021.042Z" transform="translate(-97.502 -407.057)" fill="#fff"/>
+              <path id="Path_28" data-name="Path 28" d="M275.7,365.6c.021.084.063.189.084.273C275.763,365.789,275.721,365.684,275.7,365.6Z" transform="translate(-236.646 -351.699)" fill="#fff"/>
+              <path id="Path_29" data-name="Path 29" d="M278.2,374.9c.021.063.021.105.042.168A.4.4,0,0,1,278.2,374.9Z" transform="translate(-238.621 -359.043)" fill="#fff"/>
+              <path id="Path_30" data-name="Path 30" d="M163.414,487a19.312,19.312,0,0,1-1.914-.4C162.131,486.768,162.783,486.894,163.414,487Z" transform="translate(-146.463 -447.252)" fill="#7535fd"/>
+              <path id="Path_31" data-name="Path 31" d="M90.726,405.367c-.042-.315-.084-.652-.126-.967C90.642,404.715,90.684,405.052,90.726,405.367Z" transform="translate(-90.474 -382.339)" fill="#7535fd"/>
+              <path id="Path_32" data-name="Path 32" d="M98.079,432.441c-.126-.273-.252-.568-.379-.841a6.049,6.049,0,0,0,.379.841Z" transform="translate(-96.081 -403.819)" fill="#7535fd"/>
+              <path id="Path_33" data-name="Path 33" d="M94.794,423.862c-.105-.273-.189-.568-.294-.862C94.584,423.294,94.689,423.589,94.794,423.862Z" transform="translate(-93.554 -397.027)" fill="#7535fd"/>
+              <path id="Path_34" data-name="Path 34" d="M158.083,485.652l-.883-.252Z" transform="translate(-143.068 -446.304)" fill="#7535fd"/>
+              <path id="Path_35" data-name="Path 35" d="M100.084,436.825h0c-.168-.315-.336-.61-.484-.925C99.747,436.215,99.915,436.51,100.084,436.825Z" transform="translate(-97.581 -407.214)" fill="#7535fd"/>
+              <path id="Path_36" data-name="Path 36" d="M153.541,484.173c-.273-.084-.568-.189-.841-.273C152.973,483.984,153.268,484.089,153.541,484.173Z" transform="translate(-139.514 -445.12)" fill="#7535fd"/>
+              <path id="Path_37" data-name="Path 37" d="M91.368,409.925c-.063-.315-.126-.61-.168-.925C91.263,409.315,91.305,409.61,91.368,409.925Z" transform="translate(-90.948 -385.972)" fill="#7535fd"/>
+              <path id="Path_38" data-name="Path 38" d="M92.563,415.767c-.168-.589-.336-1.178-.463-1.767C92.226,414.589,92.394,415.178,92.563,415.767Z" transform="translate(-91.658 -389.92)" fill="#7535fd"/>
+              <path id="Path_39" data-name="Path 39" d="M96.315,428.22,96,427.4Z" transform="translate(-94.738 -400.502)" fill="#7535fd"/>
+              <path id="Path_40" data-name="Path 40" d="M234.4,315.73a19.881,19.881,0,0,0-7.8-6.73A20.147,20.147,0,0,1,234.4,315.73Z" transform="translate(-197.872 -307.002)" fill="#7535fd"/>
+              <path id="Path_41" data-name="Path 41" d="M279.1,380.4c.042.294.084.61.126.9C279.184,381.01,279.163,380.694,279.1,380.4Z" transform="translate(-239.331 -363.386)" fill="#7535fd"/>
+              <path id="Path_42" data-name="Path 42" d="M278.3,375.7c.063.273.105.568.147.862C278.4,376.268,278.363,375.994,278.3,375.7Z" transform="translate(-238.7 -359.675)" fill="#7535fd"/>
+              <path id="Path_43" data-name="Path 43" d="M277.3,371.1c.063.273.126.526.189.8C277.426,371.626,277.363,371.373,277.3,371.1Z" transform="translate(-237.91 -356.042)" fill="#7535fd"/>
+              <path id="Path_44" data-name="Path 44" d="M276.1,366.9c.063.231.126.442.189.673C276.226,367.363,276.163,367.131,276.1,366.9Z" transform="translate(-236.962 -352.725)" fill="#7535fd"/>
+              <path id="Path_45" data-name="Path 45" d="M274.7,362.7c.063.189.147.4.21.61C274.847,363.1,274.784,362.91,274.7,362.7Z" transform="translate(-235.857 -349.409)" fill="#7535fd"/>
+              <path id="Path_46" data-name="Path 46" d="M193.7,385c.063.652.1,1.325.1,2a19.97,19.97,0,0,1-19.979,19.979,20.53,20.53,0,0,1-3.028-.231,20.746,20.746,0,0,0,3.028.231A19.983,19.983,0,0,0,193.807,387C193.807,386.325,193.765,385.673,193.7,385Z" transform="translate(-153.807 -367.019)" fill="#7535fd"/>
+              <path id="Path_47" data-name="Path 47" d="M110.465,453.2h0a19.839,19.839,0,0,0,8.791,6.414,19.939,19.939,0,0,1-8.791-6.414Z" transform="translate(-106.154 -420.876)" fill="#7535fd"/>
+              <path id="Path_48" data-name="Path 48" d="M124.393,299.5a20.542,20.542,0,0,1,3.975.4,19.312,19.312,0,0,0-3.975-.4,19.934,19.934,0,0,0-16.193,8.286,19.9,19.9,0,0,1,16.193-8.286Z" transform="translate(-104.372 -299.5)" fill="#7535fd"/>
+              <path id="Path_49" data-name="Path 49" d="M90.363,400.567a7.236,7.236,0,0,1-.063-.967C90.321,399.916,90.342,400.252,90.363,400.567Z" transform="translate(-90.237 -378.549)" fill="#7535fd"/>
+              <path id="Path_50" data-name="Path 50" d="M90.221,389.6c-.021.337-.021.694-.021,1.03,0,.315,0,.652.021.967-.021-.315-.021-.652-.021-.967C90.2,390.294,90.2,389.958,90.221,389.6Z" transform="translate(-90.158 -370.652)" fill="#7535fd"/>
+              <path id="Path_51" data-name="Path 51" d="M218.3,305.4c.252.105.5.189.757.294C218.8,305.61,218.552,305.505,218.3,305.4Z" transform="translate(-191.318 -304.159)" fill="#7535fd"/>
+              <path id="Path_52" data-name="Path 52" d="M213.7,303.9c.273.084.547.168.82.273C214.247,304.068,213.973,303.984,213.7,303.9Z" transform="translate(-187.685 -302.975)" fill="#7535fd"/>
+              <path id="Path_53" data-name="Path 53" d="M204.6,301.5c.294.063.589.126.883.21C205.21,301.626,204.915,301.563,204.6,301.5Z" transform="translate(-180.499 -301.079)" fill="#7535fd"/>
+              <path id="Path_54" data-name="Path 54" d="M273.1,358.3l.252.631Q273.226,358.647,273.1,358.3Z" transform="translate(-234.593 -345.934)" fill="#7535fd"/>
+              <path id="Path_55" data-name="Path 55" d="M209.1,302.5c.273.063.547.147.82.231C209.647,302.647,209.373,302.584,209.1,302.5Z" transform="translate(-184.053 -301.869)" fill="#7535fd"/>
+              <path id="Path_56" data-name="Path 56" d="M222.3,307c.273.126.547.231.82.379Z" transform="translate(-194.477 -305.423)" fill="#7535fd"/>
+              <path id="Path_57" data-name="Path 57" d="M271.2,354.1h0l.252.568Z" transform="translate(-233.093 -342.617)" fill="#7535fd"/>
+              <path id="Path_58" data-name="Path 58" d="M264.4,341.968c-.042-.063-.063-.105-.105-.168a.459.459,0,0,0,.105.168Z" transform="translate(-227.644 -332.904)" fill="#7535fd"/>
+              <path id="Path_59" data-name="Path 59" d="M130,319.637c0-.673-.042-1.346-.1-2v-.063a6.249,6.249,0,0,0-.126-.9c0-.042-.021-.084-.021-.126-.042-.294-.1-.568-.147-.862-.021-.063-.021-.105-.042-.168-.063-.273-.126-.547-.189-.8-.021-.063-.042-.126-.063-.21-.063-.231-.126-.442-.189-.673-.021-.084-.063-.189-.084-.273-.063-.21-.126-.4-.21-.61-.042-.084-.063-.189-.1-.273l-.252-.631-.126-.315-.252-.568-.021.021a16.4,16.4,0,0,1-4.311,4.29,8.667,8.667,0,0,1-5.258,1.682c-4.374,0-8.728.063-13.1.042-2.25-.021-4.248.4-5.72,2.545a8.7,8.7,0,0,1,7.781-10.894c6.435-.358,12.85-.126,19.285-.084-.042-.063-.063-.105-.105-.168a1.167,1.167,0,0,0-.126-.168,20.147,20.147,0,0,0-7.8-6.73c-.042-.021-.063-.021-.105-.042l-.82-.379c-.021,0-.042-.021-.063-.021-.252-.105-.5-.21-.757-.294-.042-.021-.105-.042-.147-.063-.273-.105-.547-.189-.82-.273a.5.5,0,0,0-.168-.042c-.273-.084-.547-.168-.82-.231-.021,0-.021,0-.042-.021-.294-.084-.589-.147-.883-.21-.042,0-.084-.021-.126-.021a20.544,20.544,0,0,0-3.975-.4A20,20,0,0,0,90.021,318.67c-.021.337-.021.673-.021,1.03,0,.315,0,.652.021.967v.105c.021.315.042.631.063.967v.042c.042.315.084.652.126.967h0c.042.315.105.631.168.925,0,.042.021.084.021.126a15.515,15.515,0,0,0,.463,1.767c.021.042.021.084.042.126.084.294.189.568.294.862,0,.021.021.042.021.063l.315.82c0,.021.021.042.021.063.126.294.252.568.379.841,0,.021.021.021.021.042.147.315.315.631.484.925a17.152,17.152,0,0,1,.61-1.746,11.464,11.464,0,0,1,11.377-7.424c3.3.021,6.583.021,9.884-.021.9,0,.988.273.568.967a16.884,16.884,0,0,1-5.762,6.162,8.878,8.878,0,0,1-4.942,1.388c-.841-.021-1.7.063-2.545-.021a8.342,8.342,0,0,0-7.4,3.386,20.178,20.178,0,0,0,8.791,6.414c.042.021.063.021.1.042.273.105.547.189.841.273.042.021.084.021.105.042l.883.252h.021a19.3,19.3,0,0,0,1.914.4h.021a20.522,20.522,0,0,0,3.028.231A20.037,20.037,0,0,0,130,319.637Z" transform="translate(-90 -299.658)" fill="#7535fd"/>
+            </g>
+            <g id="Group_2" data-name="Group 2" transform="translate(137.865 308.58)">
+              <path id="Path_60" data-name="Path 60" d="M327.8,342.764v2.881c-.358-.021-.694-.063-.967-.063a2.71,2.71,0,0,0-2.9,2.881v2.187h3.807v2.881h-3.81v12.345h-3.386V353.531H317.6V350.65h2.944v-2.1c0-3.659,2.292-5.867,5.931-5.867A6.587,6.587,0,0,1,327.8,342.764Zm6.057,1.157a2.033,2.033,0,0,1,0,2.944,2.212,2.212,0,0,1-3.028,0,2.069,2.069,0,0,1,0-2.944,2.132,2.132,0,0,1,3.028,0Zm.168,21.956h-3.386V350.65h3.386Z" transform="translate(-317.6 -342.674)" fill="#1c015a"/>
+              <path id="Path_61" data-name="Path 61" d="M431.114,381.025a6.308,6.308,0,0,1,1.7,4.606V394.8h-3.428v-8.728c0-2.25-1.325-3.68-3.386-3.68a3.507,3.507,0,0,0-3.6,3.7V394.8H419V379.573h3.218v2.019a4.838,4.838,0,0,1,4.543-2.292,5.766,5.766,0,0,1,4.353,1.725Z" transform="translate(-397.675 -371.597)" fill="#1c015a"/>
+              <path id="Path_62" data-name="Path 62" d="M517.611,385.141l-3.323.294a3.563,3.563,0,0,0-3.807-3.2c-2.566,0-4.332,1.872-4.332,5.047,0,3.112,1.788,5.005,4.332,5.005a3.593,3.593,0,0,0,3.849-3.028l3.323.294c-.61,3.449-3.386,5.615-7.171,5.615a7.891,7.891,0,1,1,0-15.773C514.246,379.378,517.085,381.587,517.611,385.141Z" transform="translate(-463.773 -371.676)" fill="#1c015a"/>
+              <path id="Path_63" data-name="Path 63" d="M599.018,383.018c-2.629,0-4.332,1.64-4.332,3.891V395.2H591.3V379.968h3.3v2.145c.757-1.535,2.208-2.313,4.416-2.313Z" transform="translate(-533.74 -371.992)" fill="#1c015a"/>
+              <path id="Path_64" data-name="Path 64" d="M650.808,385.257v9.464H647.38v-1.367a6.038,6.038,0,0,1-4.206,1.661c-3.155,0-5.174-1.64-5.174-4.458,0-2.839,1.914-4.4,5.7-4.606l3.7-.21V385.3c0-2.1-.9-3.176-2.755-3.176a2.516,2.516,0,0,0-2.776,2.587l-3.428-.126a4.99,4.99,0,0,1,1.7-3.743,6.153,6.153,0,0,1,4.479-1.64C648.6,379.221,650.808,381.366,650.808,385.257Zm-3.386,3.07-3.239.21c-1.851.084-2.755.736-2.755,1.956,0,1.157.778,1.725,2.334,1.725,2.271,0,3.659-1.136,3.659-3.344Z" transform="translate(-570.618 -371.518)" fill="#1c015a"/>
+            </g>
+          </g>
+        </g>
+        <g id="Menu_Item-3" data-name="Menu Item" transform="translate(-8 2)">
+          <g id="Menu_Item_BG-5" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-6" data-name="Menu Item BG" fill="#f1ebff" stroke="#7535fd" stroke-width="1">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.5" y="-0.5" width="249" height="49" rx="8.5" fill="none"/>
+            </g>
+          </g>
+          <g id="Dashboard">
+            <rect id="iconBG" width="24" height="24" transform="translate(40 139)" fill="none"/>
+            <path id="chart-area-solid" d="M2.614,47.031a.654.654,0,0,0,.654.654H19.606a1.307,1.307,0,1,1,0,2.614H3.268A3.267,3.267,0,0,1,0,47.031V33.307a1.307,1.307,0,0,1,2.614,0Zm2.614-3.268V40.332a1.475,1.475,0,0,1,.323-.9l3.243-3.672a1.269,1.269,0,0,1,1.952.025l1.638,1.92a.977.977,0,0,0,1.446.065l.858-.858a1.31,1.31,0,0,1,1.916.074l2.688,3.137a1.3,1.3,0,0,1,.315.85v2.786A1.306,1.306,0,0,1,18.3,45.071H6.5a1.33,1.33,0,0,1-1.307-1.307Z" transform="translate(41.544 109.851)" fill="#7535fd"/>
+          </g>
+          <text id="Overview" transform="translate(76 157)" fill="#7535fd" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Overview</tspan></text>
+        </g>
+        <g id="Menu_Item-4" data-name="Menu Item" transform="translate(-8 675)">
+          <g id="Menu_Item_BG-7" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-8" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="248.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <g id="Dashboard-2" data-name="Dashboard">
+            <rect id="iconBG-2" data-name="iconBG" width="24" height="24" transform="translate(40 139)" fill="none"/>
+            <path id="building-columns-solid" d="M8.953.145.648,3.7a1.187,1.187,0,0,0,.467,2.277v.3a.888.888,0,0,0,.89.89H16.836a.888.888,0,0,0,.89-.89v-.3A1.187,1.187,0,0,0,18.193,3.7L9.888.145a1.2,1.2,0,0,0-.934,0ZM4.675,8.354H2.3v7.278a.645.645,0,0,0-.067.041L.455,16.859a1.185,1.185,0,0,0,.66,2.173H17.726a1.185,1.185,0,0,0,.656-2.173L16.6,15.673c-.022-.015-.044-.026-.067-.041V8.354H14.167v7.119H12.684V8.354H10.311v7.119H8.531V8.354H6.158v7.119H4.675Zm4.746-3.56a1.185,1.185,0,1,1,.839-.347,1.186,1.186,0,0,1-.839.347Z" transform="translate(42.581 141.459)" fill="#1c065a"/>
+          </g>
+          <text id="Agency_Banking" data-name="Agency Banking" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Agency Banking</tspan></text>
+          <g id="Menu_Badge" data-name="Menu Badge" transform="translate(210 141)">
+            <rect id="Rectangle_2027" data-name="Rectangle 2027" width="36" height="21" rx="4" fill="#d97a57"/>
+            <text id="New" transform="translate(5 15)" fill="#fff" font-size="12" font-family="Sailec"><tspan x="0" y="0">New</tspan></text>
+          </g>
+        </g>
+        <g id="Menu_Item-5" data-name="Menu Item" transform="translate(-8 66)">
+          <g id="Menu_Item_BG-9" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-10" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="248.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="Balances" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Balances</tspan></text>
+          <g id="Product-2" data-name="Product" transform="translate(7 6)">
+            <rect id="Rectangle_2013-2" data-name="Rectangle 2013" width="24" height="24" transform="translate(33 133)" fill="none"/>
+            <path id="wallet-solid" d="M18.842,32a1.346,1.346,0,0,1,0,2.692H3.365a.673.673,0,1,0,0,1.346H18.842a2.694,2.694,0,0,1,2.692,2.692v9.42a2.694,2.694,0,0,1-2.692,2.692H2.692A2.693,2.693,0,0,1,0,48.15V34.692A2.692,2.692,0,0,1,2.692,32ZM17.5,44.786a1.344,1.344,0,1,0-.955-.392,1.346,1.346,0,0,0,.955.392Z" transform="translate(34.233 103.579)" fill="#1c065a"/>
+          </g>
+        </g>
+        <g id="Menu_Item-6" data-name="Menu Item" transform="translate(-8 739)">
+          <g id="Menu_Item_BG-11" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-12" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="248.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="POS_Operations" data-name="POS Operations" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">POS Operations</tspan></text>
+          <g id="Product-3" data-name="Product" transform="translate(7 6)">
+            <rect id="Rectangle_2013-3" data-name="Rectangle 2013" width="24" height="24" transform="translate(33 133)" fill="none"/>
+            <path id="calculator-solid" d="M2.306,0A2.308,2.308,0,0,0,0,2.306V16.142a2.308,2.308,0,0,0,2.306,2.306H11.53a2.308,2.308,0,0,0,2.306-2.306V2.306A2.308,2.308,0,0,0,11.53,0ZM3.459,2.306h6.918A1.152,1.152,0,0,1,11.53,3.459V4.612a1.152,1.152,0,0,1-1.153,1.153H3.459A1.152,1.152,0,0,1,2.306,4.612V3.459A1.152,1.152,0,0,1,3.459,2.306ZM2.306,8.071a1.152,1.152,0,1,1,.337.816,1.153,1.153,0,0,1-.337-.816Zm1.153,2.306a1.152,1.152,0,1,1-.816.337,1.153,1.153,0,0,1,.816-.337ZM2.306,14.989a1.152,1.152,0,0,1,1.153-1.153H6.918a1.153,1.153,0,0,1,0,2.306H3.459a1.152,1.152,0,0,1-1.153-1.153ZM6.918,6.918a1.152,1.152,0,1,1-.816.337A1.153,1.153,0,0,1,6.918,6.918ZM5.765,11.53a1.152,1.152,0,1,1,.337.816,1.153,1.153,0,0,1-.337-.816Zm4.612-4.612a1.152,1.152,0,1,1-.816.337,1.153,1.153,0,0,1,.816-.337ZM9.224,11.53a1.152,1.152,0,1,1,.337.816A1.153,1.153,0,0,1,9.224,11.53Zm1.153,2.306a1.152,1.152,0,1,1-.816.337,1.153,1.153,0,0,1,.816-.337Z" transform="translate(38.082 135.776)" fill="#1c065a"/>
+          </g>
+          <g id="Menu_Badge-2" data-name="Menu Badge" transform="translate(209 141)">
+            <rect id="Rectangle_2027-2" data-name="Rectangle 2027" width="36" height="21" rx="4" fill="#d97a57"/>
+            <text id="New-2" data-name="New" transform="translate(5 15)" fill="#fff" font-size="12" font-family="Sailec"><tspan x="0" y="0">New</tspan></text>
+          </g>
+        </g>
+        <g id="Menu_Item-7" data-name="Menu Item" transform="translate(-8 130)">
+          <g id="Menu_Item_BG-13" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-14" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="248.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="Pay-In" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Pay-In</tspan></text>
+          <g id="Transactions" transform="translate(7 6)">
+            <rect id="Rectangle_2013-4" data-name="Rectangle 2013" width="24" height="24" transform="translate(33 133)" fill="none"/>
+            <path id="coins-solid" d="M18.868,2.948c0,.664-.527,1.275-1.415,1.769a11.235,11.235,0,0,1-4.507,1.139c-.133-.063-.273-.125-.413-.184a14.581,14.581,0,0,0-5.458-.954c-.306,0-.6.007-.9.022l-.041-.022c-.888-.494-1.415-1.105-1.415-1.769C4.717,1.32,7.853,0,11.792,0c3.906,0,7.075,1.32,7.075,2.948ZM5.922,5.937C6.3,5.911,6.681,5.9,7.075,5.9A12.343,12.343,0,0,1,12.7,7.053c.914.5,1.456,1.117,1.456,1.791a1.388,1.388,0,0,1-.077.431,2.828,2.828,0,0,1-1.29,1.312h0a.028.028,0,0,0-.015.007h0c-.011.007-.022.011-.033.018a12.284,12.284,0,0,1-5.66,1.179,12.66,12.66,0,0,1-5.46-1.072c-.069-.037-.136-.1-.2-.107C.526,10.119,0,9.508,0,8.844,0,7.562,1.969,6.467,4.717,6.066,5.1,6.007,5.506,5.966,5.922,5.937Zm8.52.94a12.4,12.4,0,0,0,2.808-.755,6.446,6.446,0,0,0,1.618-.94v1.3c0,.711-.608,1.367-1.614,1.876a9,9,0,0,1-1.931.678c0-.063.007-.129.007-.2a2.782,2.782,0,0,0-.888-1.968Zm-.291,5.506c0,.663-.527,1.275-1.415,1.769-.066,0-.133.07-.2.107A12.677,12.677,0,0,1,7.075,15.33a12.289,12.289,0,0,1-5.661-1.179C.526,13.657,0,13.045,0,12.382v-1.3a6.414,6.414,0,0,0,1.619.94,14.576,14.576,0,0,0,5.457.954,14.581,14.581,0,0,0,5.458-.954,7.439,7.439,0,0,0,.825-.4,5.855,5.855,0,0,0,.634-.413c.055-.041.107-.085.158-.125Zm1.179-2.134a16.833,16.833,0,0,0,1.92-.59,6.446,6.446,0,0,0,1.618-.94v1.3a1.629,1.629,0,0,1-.549,1.139,6.454,6.454,0,0,1-3,1.415c0-.063.007-.129.007-.2Zm-8.255,6.26a14.581,14.581,0,0,0,5.458-.954,6.446,6.446,0,0,0,1.618-.94v1.3c0,1.629-3.169,2.948-7.075,2.948S0,17.548,0,15.92v-1.3a6.414,6.414,0,0,0,1.619.94,14.576,14.576,0,0,0,5.456.949Z" transform="translate(35.566 135.566)" fill="#1c065a"/>
+          </g>
+          <g id="Menu_Badge-3" data-name="Menu Badge" transform="translate(133 141)">
+            <rect id="Rectangle_2027-3" data-name="Rectangle 2027" width="36" height="21" rx="4" fill="#d97a57"/>
+            <text id="New-3" data-name="New" transform="translate(5 15)" fill="#fff" font-size="12" font-family="Sailec"><tspan x="0" y="0">New</tspan></text>
+          </g>
+        </g>
+        <g id="Menu_Item-8" data-name="Menu Item" transform="translate(-8 194)">
+          <g id="Menu_Item_BG-15" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-16" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="248.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="Pay-Outs" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Pay-Outs</tspan></text>
+          <g id="Transfer" transform="translate(7 6)">
+            <rect id="Rectangle_2013-5" data-name="Rectangle 2013" width="24" height="24" transform="translate(33 133)" fill="none"/>
+            <path id="money-bill-wave-solid" d="M1.78,33.725c2.916.8,5.835.053,8.753-.69,3.182-.811,6.363-1.622,9.545-.434a1.583,1.583,0,0,1,.987,1.51V45.442a1.38,1.38,0,0,1-1.781,1.221c-2.915-.8-5.833-.055-8.751.688-3.215.812-6.4,1.624-9.546.435A1.58,1.58,0,0,1,0,46.275V34.946a1.378,1.378,0,0,1,1.78-1.22ZM10.5,43.7c1.649,0,2.959-1.573,2.959-3.544A3.26,3.26,0,0,0,10.5,36.65a3.281,3.281,0,0,0-2.926,3.511C7.574,42.132,8.916,43.7,10.5,43.7ZM2.308,46.045h2.34A2.321,2.321,0,0,0,2.308,43.7Zm0-9.98v2.341a2.3,2.3,0,0,0,2.341-2.341Zm16.417,5.851a2.371,2.371,0,0,0-2.341,2.373h2.341Zm-2.341-7.607a2.322,2.322,0,0,0,2.341,2.341V34.309Z" transform="translate(34.468 104.807)" fill="#1c065a"/>
+          </g>
+        </g>
+        <g id="Menu_Item-9" data-name="Menu Item" transform="translate(-8 322)">
+          <g id="Menu_Item_BG-17" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-18" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="248.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="Conversions" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Conversions</tspan></text>
+          <g id="Terminals">
+            <rect id="iconBG-3" data-name="iconBG" width="24" height="24" transform="translate(40 139)" fill="none"/>
+            <path id="retweet-solid" d="M46.829,74.475a.96.96,0,0,0-.859-.607H44.113V68.332a3.1,3.1,0,0,0-3.094-3.094H36.068a1.238,1.238,0,0,0,0,2.476h4.951a.621.621,0,0,1,.619.619v5.535H39.781a.929.929,0,0,0-.656,1.585l3.094,3.1a.835.835,0,0,0,.656.306.928.928,0,0,0,.656-.272l3.094-3.1A.931.931,0,0,0,46.829,74.475Zm-12,.665h-4.95a.621.621,0,0,1-.619-.619v-5.57h1.857a.929.929,0,0,0,.656-1.585l-3.094-3.1a.931.931,0,0,0-1.314,0l-3.094,3.1a.928.928,0,0,0,.658,1.584h1.857v5.57a3.1,3.1,0,0,0,3.094,3.094h4.95a1.238,1.238,0,0,0,0-2.476Z" transform="translate(123.427 115.551) rotate(90)" fill="#1c065a"/>
+          </g>
+        </g>
+        <g id="Menu_Item-10" data-name="Menu Item" transform="translate(-8 386)">
+          <g id="Menu_Item_BG-19" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-20" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="248.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="Settlements" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Settlements</tspan></text>
+          <g id="Settlement">
+            <rect id="iconBG-4" data-name="iconBG" width="24" height="24" transform="translate(40 139)" fill="none"/>
+            <path id="receipt-solid" d="M.523.082a.9.9,0,0,1,.961.134L3,1.514,4.512.217a.9.9,0,0,1,1.169,0L7.2,1.517,8.709.217a.9.9,0,0,1,1.169,0l1.514,1.3,1.514-1.3A.9.9,0,0,1,14.389.9V18.287a.9.9,0,0,1-1.484.682l-1.514-1.3-1.514,1.3a.9.9,0,0,1-1.169,0l-1.514-1.3-1.514,1.3a.9.9,0,0,1-1.169,0L3,17.672l-1.513,1.3A.9.9,0,0,1,0,18.287V.9A.9.9,0,0,1,.523.082ZM3.6,5.4a.6.6,0,1,0,0,1.2h7.2a.6.6,0,1,0,0-1.2Zm0,8.394h7.2a.6.6,0,1,0,0-1.2H3.6a.6.6,0,0,0,0,1.2Zm0-4.8a.6.6,0,1,0,0,1.2h7.2a.6.6,0,0,0,0-1.2Z" transform="translate(44.805 141.407)" fill="#1c065a"/>
+          </g>
+        </g>
+        <g id="Menu_Item-11" data-name="Menu Item" transform="translate(-8 450)">
+          <g id="Menu_Item_BG-21" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-22" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="248.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="Users_and_Roles" data-name="Users and Roles" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Users and Roles</tspan></text>
+          <g id="Audit-Log" transform="translate(7 6)">
+            <rect id="Rectangle_2013-6" data-name="Rectangle 2013" width="24" height="24" transform="translate(33 133)" fill="none"/>
+            <path id="users-gear-solid" d="M4.5,5A2.5,2.5,0,1,0,2,2.5,2.5,2.5,0,0,0,4.5,5ZM16,5a2.5,2.5,0,1,0-2.5-2.5A2.5,2.5,0,0,0,16,5ZM0,9.334A.668.668,0,0,0,.666,10h6.69A3.99,3.99,0,0,1,6,7a4.28,4.28,0,0,1,.059-.7A3.3,3.3,0,0,0,4.669,6H3.334A3.336,3.336,0,0,0,0,9.334ZM10,10a2.988,2.988,0,0,0,1.959-.728c.078-.116.163-.228.25-.334a1.291,1.291,0,0,1,.281-.259A3,3,0,1,0,10,10Zm2.044,1.881a1.371,1.371,0,0,1-.65-.881H8.166A4.166,4.166,0,0,0,4,15.166.834.834,0,0,0,4.834,16h9.391a1.385,1.385,0,0,1-.1-.512v-.094c-.041-.022-.084-.047-.125-.072l-.081.047a1.332,1.332,0,0,1-1.709-.3,5.618,5.618,0,0,1-.387-.55v-.012l-.075-.128v-.012a5.05,5.05,0,0,1-.281-.6,1.336,1.336,0,0,1,.594-1.634l.084-.047v-.144l-.084-.047ZM16.666,6H15.334a3.352,3.352,0,0,0-1.394.3A3.933,3.933,0,0,1,14,7a4.018,4.018,0,0,1-.3,1.531,1.308,1.308,0,0,1,.222.1l.078.05c.041-.025.081-.05.125-.072V8.516a1.335,1.335,0,0,1,1.119-1.331A5.039,5.039,0,0,1,16,7.125a4.659,4.659,0,0,1,.756.059,1.335,1.335,0,0,1,1.119,1.331v.094c.041.022.084.047.125.072l.081-.047a1.332,1.332,0,0,1,1.709.3c.072.087.141.181.206.272A3.333,3.333,0,0,0,16.666,6Zm2.853,5.122a.459.459,0,0,0,.212-.562,3.992,3.992,0,0,0-.231-.5l-.072-.125a4.21,4.21,0,0,0-.319-.453.46.46,0,0,0-.594-.094l-.566.328a3,3,0,0,0-.95-.55V8.512a.46.46,0,0,0-.378-.466,4.149,4.149,0,0,0-1.244,0A.46.46,0,0,0,15,8.512v.656a3.037,3.037,0,0,0-.95.55l-.569-.328a.467.467,0,0,0-.594.094,4.25,4.25,0,0,0-.319.456l-.072.122a3.993,3.993,0,0,0-.231.5.459.459,0,0,0,.212.559l.569.328A3.186,3.186,0,0,0,13,12a3.122,3.122,0,0,0,.05.547l-.569.328a.456.456,0,0,0-.212.559,3.951,3.951,0,0,0,.231.494l.075.128a3.786,3.786,0,0,0,.316.453.46.46,0,0,0,.594.094l.569-.319a3.037,3.037,0,0,0,.95.55v.656a.46.46,0,0,0,.378.466,4.149,4.149,0,0,0,1.244,0A.46.46,0,0,0,17,15.488v-.656a3.037,3.037,0,0,0,.95-.55l.569.328a.467.467,0,0,0,.594-.094,3.786,3.786,0,0,0,.316-.453l.075-.131a3.951,3.951,0,0,0,.231-.494.459.459,0,0,0-.212-.559l-.569-.328A3.178,3.178,0,0,0,19,12a3.214,3.214,0,0,0-.05-.55ZM17.25,12A1.25,1.25,0,1,1,16,10.75,1.25,1.25,0,0,1,17.25,12Z" transform="translate(35.002 137)" fill="#1c065a"/>
+          </g>
+        </g>
+        <g id="Menu_Item-12" data-name="Menu Item" transform="translate(-8 514)">
+          <g id="Menu_Item_BG-23" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-24" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="248.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="Referrals" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Referrals</tspan></text>
+          <g id="Audit-Log-2" data-name="Audit-Log" transform="translate(7 6)">
+            <rect id="Rectangle_2013-7" data-name="Rectangle 2013" width="24" height="24" transform="translate(33 133)" fill="none"/>
+            <path id="users-solid" d="M10.554,10.557A3.406,3.406,0,1,0,8.141,9.548a3.431,3.431,0,0,0,2.413,1.009Zm1.65,1.056H8.911a4.55,4.55,0,0,0-4.688,4.4.909.909,0,0,0,.937.881h10.8a.909.909,0,0,0,.937-.881,4.55,4.55,0,0,0-4.692-4.4Zm4.688-6.334A2.639,2.639,0,1,0,14.253,2.64a2.639,2.639,0,0,0,2.639,2.639ZM6.067,7.126A4.4,4.4,0,0,1,6.12,6.6a2.389,2.389,0,0,0-1.175-.267H2.906A3,3,0,0,0,0,9.413a.6.6,0,0,0,.581.617H7.163a4.444,4.444,0,0,1-1.1-2.9ZM4.223,5.279a2.639,2.639,0,1,0-2.639-2.64,2.639,2.639,0,0,0,2.639,2.64ZM18.208,6.334h-2.04a2.751,2.751,0,0,0-1.183.272,4.52,4.52,0,0,1,.053.52,4.448,4.448,0,0,1-1.094,2.9h6.588a.6.6,0,0,0,.583-.617,3,3,0,0,0-2.907-3.075Z" transform="translate(34.443 136.554)" fill="#1c065a"/>
+          </g>
+        </g>
+        <g id="Menu_Item-13" data-name="Menu Item" transform="translate(-8 578)">
+          <g id="Menu_Item_BG-25" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-26" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="248.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="Settings" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Settings</tspan></text>
+          <g id="Audit-Log-3" data-name="Audit-Log" transform="translate(7 6)">
+            <rect id="Rectangle_2013-8" data-name="Rectangle 2013" width="24" height="24" transform="translate(33 133)" fill="none"/>
+            <path id="gear-solid" d="M32.754,6.25a.852.852,0,0,1-.236.923L30.893,8.651a7.15,7.15,0,0,1,0,1.906l1.624,1.478a.852.852,0,0,1,.236.923,9.524,9.524,0,0,1-.589,1.287l-.176.3a9.884,9.884,0,0,1-.829,1.174.858.858,0,0,1-.919.255l-2.09-.668a8.208,8.208,0,0,1-1.651.957l-.469,2.142a.9.9,0,0,1-.683.668,9.8,9.8,0,0,1-1.628.131,9.6,9.6,0,0,1-1.561-.131.9.9,0,0,1-.683-.668l-.469-2.142a7.373,7.373,0,0,1-1.651-.957l-2.088.668a.857.857,0,0,1-.92-.255,9.844,9.844,0,0,1-.829-1.174l-.176-.3a9.357,9.357,0,0,1-.592-1.287.852.852,0,0,1,.238-.923l1.623-1.478a7.278,7.278,0,0,1,0-1.906l-1.62-1.478a.851.851,0,0,1-.238-.923,9.4,9.4,0,0,1,.592-1.287l.175-.3a9.719,9.719,0,0,1,.83-1.172.852.852,0,0,1,.92-.255l2.088.666a7.215,7.215,0,0,1,1.651-.956L21.477.8A.851.851,0,0,1,22.16.132a9.719,9.719,0,0,1,3.189,0A.851.851,0,0,1,26.031.8L26.5,2.942a8.011,8.011,0,0,1,1.651.956l2.09-.666a.854.854,0,0,1,.919.255,9.713,9.713,0,0,1,.829,1.172l.176.3a9.524,9.524,0,0,1,.589,1.287Zm-9,6.355a3.008,3.008,0,1,0-2.131-.893,3.018,3.018,0,0,0,2.131.893Z" transform="translate(21.246 135.396)" fill="#1c065a"/>
+          </g>
+        </g>
+        <g id="Menu_Item-14" data-name="Menu Item" transform="translate(-8 258)">
+          <g id="Menu_Item_BG-27" data-name="Menu Item BG" transform="translate(24 127)">
+            <g id="Menu_Item_BG-28" data-name="Menu Item BG" fill="#fff" stroke="#fff" stroke-width="0.5">
+              <rect width="248" height="48" rx="8" stroke="none"/>
+              <rect x="-0.25" y="-0.25" width="248.5" height="48.5" rx="8.25" fill="none"/>
+            </g>
+          </g>
+          <text id="Virtual_Cards" data-name="Virtual Cards" transform="translate(76 157)" fill="#1c065a" font-size="16" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Virtual Cards</tspan></text>
+          <g id="Audit-Log-4" data-name="Audit-Log" transform="translate(7 6)">
+            <rect id="Rectangle_2013-9" data-name="Rectangle 2013" width="24" height="24" transform="translate(33 133)" fill="none"/>
+            <path id="credit-card-solid_3_" data-name="credit-card-solid (3)" d="M2.123,32A2.125,2.125,0,0,0,0,34.123v1.062H19.11V34.123A2.125,2.125,0,0,0,16.987,32ZM19.11,38.37H0v6.37a2.125,2.125,0,0,0,2.123,2.123H16.987A2.125,2.125,0,0,0,19.11,44.74ZM3.716,42.617H5.839a.531.531,0,1,1,0,1.062H3.716a.531.531,0,0,1,0-1.062Zm3.716.531a.532.532,0,0,1,.531-.531H12.21a.531.531,0,1,1,0,1.062H7.962a.532.532,0,0,1-.53-.532Z" transform="translate(35.445 105.568)" fill="#1c065a"/>
+          </g>
+          <g id="Menu_Badge-4" data-name="Menu Badge" transform="translate(185 141)">
+            <rect id="Rectangle_2027-4" data-name="Rectangle 2027" width="36" height="21" rx="4" fill="#d97a57"/>
+            <text id="New-4" data-name="New" transform="translate(5 15)" fill="#fff" font-size="12" font-family="Sailec"><tspan x="0" y="0">New</tspan></text>
+          </g>
+        </g>
+        <rect id="Rectangle_2156" data-name="Rectangle 2156" width="232" height="1" transform="translate(25 96)" fill="#e0e0e0"/>
+        <rect id="Rectangle_2157" data-name="Rectangle 2157" width="232" height="1" transform="translate(25 777)" fill="#e0e0e0"/>
+        <rect id="Rectangle_2175" data-name="Rectangle 2175" width="1" height="1080" transform="translate(279)" fill="#e0e0e0"/>
+      </g>
+      <g id="Group_276" data-name="Group 276" transform="translate(0 9)">
+        <g id="Rectangle_2215" data-name="Rectangle 2215" transform="translate(1120 872)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+          <rect width="760" height="366" rx="16" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="761" height="367" rx="16.5" fill="none"/>
+        </g>
+        <text id="Transaction_Summary" data-name="Transaction Summary" transform="translate(1152 923)" fill="#1c065a" font-size="20" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Transaction Summary</tspan></text>
+        <g id="Chart" transform="translate(1152 960)">
+          <path id="Path_12374" data-name="Path 12374" d="M83.885,5a119.361,119.361,0,1,1-6.024,238.57l4.82-95.37a23.872,23.872,0,1,0,1.2-47.714Z" transform="translate(34.754 2.278)" fill="#9ac0e6"/>
+          <path id="Path_12375" data-name="Path 12375" d="M135.76,242.589A119.36,119.36,0,1,1,119.393,5l-.026,95.488a23.873,23.873,0,1,0,3.274,47.519Z" transform="translate(0 2.278)" fill="#f6bc41"/>
+          <path id="Path_12376" data-name="Path 12376" d="M203.04,201.2A119.151,119.151,0,1,1,47.214,21.587L104.593,97.76a23.841,23.841,0,1,0,31.166,35.924Z" transform="translate(0 9.836)" fill="#9a83f7"/>
+          <line id="Line_41" data-name="Line 41" x2="69.853" y2="71.341" transform="translate(133.715 140.686)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_42" data-name="Line 42" y2="113.538" transform="translate(119.726)" fill="none" stroke="#fff" stroke-width="1"/>
+          <line id="Line_43" data-name="Line 43" x2="58.225" y2="78.603" transform="translate(46.976 30.135)" fill="none" stroke="#fff" stroke-width="1"/>
+        </g>
+        <g id="Legend" transform="translate(6 59)">
+          <rect id="Rectangle_2216" data-name="Rectangle 2216" width="32" height="32" rx="4" transform="translate(1416 960)" fill="#9a83f7"/>
+          <rect id="Rectangle_2217" data-name="Rectangle 2217" width="32" height="32" rx="4" transform="translate(1416 1008)" fill="#9ac0e6"/>
+          <rect id="Rectangle_2218" data-name="Rectangle 2218" width="32" height="32" rx="4" transform="translate(1416 1056)" fill="#f6bc41"/>
+          <text id="Pay-In-2" data-name="Pay-In" transform="translate(1460 982)" fill="#1c065a" font-size="16" font-family="Sailec"><tspan x="0" y="0">Pay-In</tspan></text>
+          <text id="Pay-Out" transform="translate(1460 1030)" fill="#1c065a" font-size="16" font-family="Sailec"><tspan x="0" y="0">Pay-Out</tspan></text>
+          <text id="Fund_Balance-2" data-name="Fund Balance" transform="translate(1460 1078)" fill="#1c065a" font-size="16" font-family="Sailec"><tspan x="0" y="0">Fund Balance</tspan></text>
+        </g>
+        <g id="Currency_Dropdown" data-name="Currency Dropdown" transform="translate(1568 904)">
+          <g id="Rectangle_2016" data-name="Rectangle 2016" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+            <rect width="109" height="40" rx="8" stroke="none"/>
+            <rect x="-0.5" y="-0.5" width="110" height="41" rx="8.5" fill="none"/>
+          </g>
+          <g id="Dropdown_Icon-5" data-name="Dropdown Icon" transform="translate(77 8)">
+            <rect id="Rectangle_2000-5" data-name="Rectangle 2000" width="24" height="24" fill="none"/>
+            <path id="caret-down-solid-5" data-name="caret-down-solid" d="M9.64,193.689l-3.932,3.96a1.09,1.09,0,0,1-.727.291.986.986,0,0,1-.7-.29L.349,193.69a.95.95,0,0,1-.242-1.077A.994.994,0,0,1,1.022,192H8.913a.99.99,0,0,1,.915.611.977.977,0,0,1-.188,1.078Z" transform="translate(7.028 -182.97)" fill="#1c065a"/>
+          </g>
+          <g id="Naira_Symbol" data-name="Naira+Symbol" transform="translate(-1743 -228)">
+            <text id="NGN-2" data-name="NGN" transform="translate(1779 253)" fill="#1c065a" font-size="14" font-family="Sailec"><tspan x="0" y="0">NGN</tspan></text>
+            <g id="Naija" transform="translate(-5)">
+              <rect id="Rectangle_2017" data-name="Rectangle 2017" width="24" height="24" transform="translate(1756 236)" fill="none"/>
+              <g id="emojione_flag-for-nigeria-2" data-name="emojione_flag-for-nigeria" transform="translate(1758 238)">
+                <path id="Path_11526" data-name="Path 11526" d="M.625,10a9.387,9.387,0,0,0,6.25,8.844V1.156A9.387,9.387,0,0,0,.625,10Zm18.75,0a9.345,9.345,0,0,0-6.25-8.844V18.844A9.344,9.344,0,0,0,19.375,10Z" fill="#83bf4f"/>
+                <path id="Path_11527" data-name="Path 11527" d="M6.875,18.844a9.458,9.458,0,0,0,6.25,0V1.156a9.457,9.457,0,0,0-6.25,0Z" fill="#f9f9f9"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Date-Dropdown" transform="translate(172 -63)">
+          <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(1529 967)" fill="#fff" stroke="#e0e0e0" stroke-width="1">
+            <rect width="147" height="40" rx="8" stroke="none"/>
+            <rect x="-0.5" y="-0.5" width="148" height="41" rx="8.5" fill="none"/>
+          </g>
+          <g id="Dropdown_Icon-6" data-name="Dropdown Icon" transform="translate(1644 975)">
+            <rect id="Rectangle_2000-6" data-name="Rectangle 2000" width="24" height="24" fill="none"/>
+            <path id="caret-down-solid-6" data-name="caret-down-solid" d="M9.64,193.689l-3.932,3.96a1.09,1.09,0,0,1-.727.291.986.986,0,0,1-.7-.29L.349,193.69a.95.95,0,0,1-.242-1.077A.994.994,0,0,1,1.022,192H8.913a.99.99,0,0,1,.915.611.977.977,0,0,1-.188,1.078Z" transform="translate(7.043 -182.97)" fill="#1c065a"/>
+          </g>
+          <text id="Last_12_Months" data-name="Last 12 Months" transform="translate(1537 992)" fill="#1c065a" font-size="14" font-family="Sailec-Medium, Sailec" font-weight="500"><tspan x="0" y="0">Last 12 Months</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

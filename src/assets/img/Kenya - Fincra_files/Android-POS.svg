@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="624.512" height="1108.465" viewBox="0 0 624.512 1108.465">
+  <defs>
+    <filter id="XMLID_2_" x="0" y="64.894" width="601.854" height="1043.572" filterUnits="userSpaceOnUse">
+      <feOffset dy="32" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2101" x="93.511" y="382" width="414.338" height="191.126" filterUnits="userSpaceOnUse">
+      <feOffset dy="16" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2101-2" x="93.511" y="650" width="414.338" height="191.606" filterUnits="userSpaceOnUse">
+      <feOffset dy="16" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2101-3" x="93.511" y="784" width="236.009" height="191.126" filterUnits="userSpaceOnUse">
+      <feOffset dy="16" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur-4"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2101-4" x="271.511" y="784" width="236.248" height="191.126" filterUnits="userSpaceOnUse">
+      <feOffset dy="16" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur-5"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2101-5" x="93.511" y="516" width="414.338" height="191.606" filterUnits="userSpaceOnUse">
+      <feOffset dy="16" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur-6"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Android_POS" data-name="Android POS" transform="translate(-916.4 -624.2)">
+    <g id="XMLID_1_" transform="translate(940.4 624.2)">
+      <path id="XMLID_15_" d="M1596.975,856.7H1565.9v703.473h31.075a15.642,15.642,0,0,0,15.67-15.67V872.37A15.586,15.586,0,0,0,1596.975,856.7Z" transform="translate(-1012.134 -650.864)" fill="#53596a"/>
+      <rect id="XMLID_3_" width="14.873" height="703.473" transform="translate(553.766 205.836)"/>
+      <g transform="matrix(1, 0, 0, 1, -24, 0)" filter="url(#XMLID_2_)">
+        <path id="XMLID_2_2" data-name="XMLID_2_" d="M1428.387,1685.072H1006.268A65.857,65.857,0,0,1,940.4,1619.2V763.368a65.857,65.857,0,0,1,65.868-65.868h422.119a65.857,65.857,0,0,1,65.868,65.868v855.925A65.951,65.951,0,0,1,1428.387,1685.072Z" transform="translate(-916.4 -632.61)" fill="#53596a"/>
+      </g>
+      <path id="XMLID_14_" d="M1400.587,1129.982a36.574,36.574,0,0,0,36.563-36.564V655.54a31.341,31.341,0,0,0-31.339-31.34H1045.84a31.341,31.341,0,0,0-31.34,31.339v437.88a36.574,36.574,0,0,0,36.564,36.564Z" transform="translate(-948.898 -624.2)" fill="#30323f"/>
+      <rect id="XMLID_8_" width="422.65" height="816.398" rx="16" transform="translate(65.565 143.886)" fill="#1c065a"/>
+      <rect id="XMLID_9_" width="326.151" height="21.425" transform="translate(113.852 80.475)"/>
+      <path id="XMLID_31_" d="M999.5,1813a44.433,44.433,0,0,0,35.944,27.179V1813Z" transform="translate(-947.178 -760.535)" fill="#53596a"/>
+      <path id="XMLID_32_" d="M1502.144,1813H1466.2v27.179A44.434,44.434,0,0,0,1502.144,1813Z" transform="translate(-1000.7 -760.535)" fill="#53596a"/>
+      <g id="XMLID_49_" transform="translate(88.266 1052.465)">
+        <path id="XMLID_35_" d="M1040.1,1813v27.179a50.051,50.051,0,0,0,5.135.354h366.875a32.646,32.646,0,0,0,5.135-.354V1813Z" transform="translate(-1040.1 -1813)" fill="#30323f"/>
+      </g>
+      <g id="Body_BG" data-name="Body BG" transform="translate(65.403 371.538)">
+        <path id="Path_1" data-name="Path 1" d="M28.8,0H393.861a28.8,28.8,0,0,1,28.8,28.8V586.591H0V28.8A28.8,28.8,0,0,1,28.8,0Z" transform="translate(0.12 0.12)" fill="#f5f4f7"/>
+        <path id="Path_2" data-name="Path 2" d="M28.422-.5H393.481A28.922,28.922,0,0,1,422.4,28.422V586.331H-.5V28.422A28.922,28.922,0,0,1,28.422-.5Z" transform="translate(0.5 0.5)" fill="none" stroke="#e0e0e0" stroke-width="1"/>
+      </g>
+      <g id="Card" transform="translate(106.902 403.342)">
+        <g transform="matrix(1, 0, 0, 1, -130.9, -403.34)" filter="url(#Rectangle_2101)">
+          <g id="Rectangle_2101-6" data-name="Rectangle 2101" transform="translate(130.51 403)" fill="#7535fd" stroke="#e0e0e0" stroke-width="1">
+            <rect width="340.338" height="117.126" rx="10" stroke="none"/>
+            <rect x="-0.5" y="-0.5" width="341.338" height="118.126" rx="10.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_246" data-name="Group 246" transform="translate(-1 0.459)">
+          <text id="Pay_With_Card" data-name="Pay With Card" transform="translate(170.609 81.841)" fill="#fff" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="-34.062" y="0">Withdraw</tspan></text>
+          <g id="Card-Icon" transform="translate(156.609 31.199)">
+            <rect id="Rectangle_2107" data-name="Rectangle 2107" width="28.802" height="28.802" transform="translate(0 0)" fill="none"/>
+            <g id="Card-2" data-name="Card" transform="translate(1.68 1.68)">
+              <rect id="Rectangle_2013" data-name="Rectangle 2013" width="25.441" height="25.441" transform="translate(0 0)" fill="none"/>
+              <path id="credit-card-solid_2_" data-name="credit-card-solid (2)" d="M2.232,32A2.234,2.234,0,0,0,0,34.232v1.116H20.087V34.232A2.234,2.234,0,0,0,17.855,32Zm17.855,6.7H0v6.7a2.234,2.234,0,0,0,2.232,2.232H17.855a2.234,2.234,0,0,0,2.232-2.232ZM3.906,43.161H6.138a.558.558,0,1,1,0,1.116H3.906a.558.558,0,0,1,0-1.116Zm3.906.557a.56.56,0,0,1,.558-.557h4.464a.558.558,0,1,1,0,1.116H8.37a.56.56,0,0,1-.558-.559Z" transform="translate(2.515 -27.23)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Card-3" data-name="Card" transform="translate(106.902 670.716)">
+        <g transform="matrix(1, 0, 0, 1, -130.9, -670.72)" filter="url(#Rectangle_2101-2)">
+          <g id="Rectangle_2101-7" data-name="Rectangle 2101" transform="translate(130.51 671)" fill="#05a" stroke="#e0e0e0" stroke-width="1">
+            <rect width="340.338" height="117.606" rx="10" stroke="none"/>
+            <rect x="-0.5" y="-0.5" width="341.338" height="118.606" rx="10.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_247" data-name="Group 247" transform="translate(0 1.085)">
+          <text id="Transactions_History" data-name="Transactions History" transform="translate(169.609 81.641)" fill="#fff" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="-28.63" y="0">Pay Bills</tspan></text>
+          <g id="Receipt" transform="translate(155.609 31.199)">
+            <rect id="Rectangle_2107-2" data-name="Rectangle 2107" width="28.802" height="29.042" transform="translate(0 0)" fill="none"/>
+            <g id="Settlement" transform="translate(1.68 1.92)">
+              <rect id="iconBG" width="25.441" height="25.441" transform="translate(0 0)" fill="none"/>
+              <path id="receipt-solid" d="M.558.086A.96.96,0,0,1,1.584.229L3.2,1.613,4.812.229a.957.957,0,0,1,1.248,0L7.675,1.613,9.288.229a.957.957,0,0,1,1.248,0l1.615,1.383L13.765.229a.96.96,0,0,1,1.583.729V19.5a.959.959,0,0,1-1.583.727L12.15,18.847,10.537,20.23a.957.957,0,0,1-1.248,0L7.674,18.847,6.059,20.23a.957.957,0,0,1-1.248,0L3.2,18.847,1.584,20.23A.959.959,0,0,1,0,19.5V.958A.96.96,0,0,1,.558.086ZM3.837,5.754a.64.64,0,1,0,0,1.279h7.674a.64.64,0,1,0,0-1.279Zm0,8.952h7.674a.64.64,0,0,0,0-1.279H3.837a.64.64,0,0,0,0,1.279Zm0-5.116a.64.64,0,1,0,0,1.279h7.674a.64.64,0,0,0,0-1.279Z" transform="translate(4.951 2.465)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Card-4" data-name="Card" transform="translate(106.805 804.641)">
+        <g transform="matrix(1, 0, 0, 1, -130.8, -804.64)" filter="url(#Rectangle_2101-3)">
+          <g id="Rectangle_2101-8" data-name="Rectangle 2101" transform="translate(130.51 805)" fill="#aa6900" stroke="#e0e0e0" stroke-width="1">
+            <rect width="162.008" height="117.126" rx="10" stroke="none"/>
+            <rect x="-0.5" y="-0.5" width="163.008" height="118.126" rx="10.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_248" data-name="Group 248" transform="translate(2 0.158)">
+          <text id="Re-Print" transform="translate(78.707 81.083)" fill="#fff" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="-28.413" y="0">Re-Print</tspan></text>
+          <g id="Settings" transform="translate(64.707 31.201)">
+            <rect id="Rectangle_2107-3" data-name="Rectangle 2107" width="28.802" height="28.802" transform="translate(0 0)" fill="none"/>
+            <g id="Audit-Log" transform="translate(1.68 1.92)">
+              <rect id="Rectangle_2013-2" data-name="Rectangle 2013" width="25.441" height="25.681" transform="translate(0 0)" fill="none"/>
+              <path id="print-solid" d="M4.863,0A2.434,2.434,0,0,0,2.432,2.432V6.08H4.863V2.432h8.613L14.59,3.545V6.079h2.432V3.545a2.433,2.433,0,0,0-.71-1.721L15.2.71A2.433,2.433,0,0,0,13.477,0ZM14.59,13.374v3.648H4.863V13.374Zm2.432,1.216h1.216a1.214,1.214,0,0,0,1.216-1.216V9.726a2.434,2.434,0,0,0-2.432-2.431H2.432A2.434,2.434,0,0,0,0,9.727v3.648a1.214,1.214,0,0,0,1.216,1.216H2.432v2.431a2.434,2.434,0,0,0,2.432,2.432H14.59a2.434,2.434,0,0,0,2.432-2.432Zm-.608-3.344a.91.91,0,1,1,.646-.266A.912.912,0,0,1,16.414,11.246Z" transform="translate(3.014 2.894)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Card-5" data-name="Card" transform="translate(284.895 804.641)">
+        <g transform="matrix(1, 0, 0, 1, -308.89, -804.64)" filter="url(#Rectangle_2101-4)">
+          <g id="Rectangle_2101-9" data-name="Rectangle 2101" transform="translate(308.51 805)" fill="#831ba2" stroke="#e0e0e0" stroke-width="1">
+            <rect width="162.248" height="117.126" rx="10" stroke="none"/>
+            <rect x="-0.5" y="-0.5" width="163.248" height="118.126" rx="10.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_249" data-name="Group 249" transform="translate(2 0.158)">
+          <text id="Settings-2" data-name="Settings" transform="translate(79.616 81.843)" fill="#fff" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="-29.05" y="0">Settings</tspan></text>
+          <g id="Settings-3" data-name="Settings" transform="translate(64.616 31.201)">
+            <rect id="Rectangle_2107-4" data-name="Rectangle 2107" width="28.802" height="28.802" transform="translate(0 0)" fill="none"/>
+            <g id="Audit-Log-2" data-name="Audit-Log" transform="translate(1.92 2.16)">
+              <rect id="Rectangle_2013-3" data-name="Rectangle 2013" width="25.201" height="24.961" transform="translate(0 0)" fill="none"/>
+              <path id="gear-solid" d="M34.02,6.688a.912.912,0,0,1-.253.988L32.029,9.258a7.652,7.652,0,0,1,0,2.04l1.738,1.582a.912.912,0,0,1,.253.988,10.192,10.192,0,0,1-.63,1.377l-.189.325a10.578,10.578,0,0,1-.888,1.256.918.918,0,0,1-.984.273l-2.236-.715a8.784,8.784,0,0,1-1.766,1.024l-.5,2.292a.962.962,0,0,1-.731.715,10.489,10.489,0,0,1-1.742.14,10.268,10.268,0,0,1-1.67-.14.962.962,0,0,1-.731-.715l-.5-2.292a7.89,7.89,0,0,1-1.766-1.024l-2.235.715a.917.917,0,0,1-.984-.273,10.535,10.535,0,0,1-.888-1.256l-.188-.325a10.013,10.013,0,0,1-.633-1.377.912.912,0,0,1,.255-.988L16.746,11.3a7.788,7.788,0,0,1,0-2.04L15.01,7.676a.91.91,0,0,1-.255-.988,10.061,10.061,0,0,1,.633-1.377l.187-.325a10.4,10.4,0,0,1,.888-1.255.912.912,0,0,1,.984-.273l2.235.713a7.721,7.721,0,0,1,1.766-1.022l.5-2.293a.912.912,0,0,1,.731-.715,10.4,10.4,0,0,1,3.412,0,.912.912,0,0,1,.731.715l.5,2.292a8.573,8.573,0,0,1,1.766,1.022l2.236-.713a.913.913,0,0,1,.984.273A10.4,10.4,0,0,1,33.2,4.986l.189.325a10.192,10.192,0,0,1,.63,1.377Zm-9.631,6.8a3.219,3.219,0,1,0-2.282-.955,3.23,3.23,0,0,0,2.282.955Z" transform="translate(-11.729 2.241)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Card-6" data-name="Card" transform="translate(106.902 536.789)">
+        <g transform="matrix(1, 0, 0, 1, -130.9, -536.79)" filter="url(#Rectangle_2101-5)">
+          <g id="Rectangle_2101-10" data-name="Rectangle 2101" transform="translate(130.51 537)" fill="#1c7c54" stroke="#e0e0e0" stroke-width="1">
+            <rect width="340.338" height="117.606" rx="10" stroke="none"/>
+            <rect x="-0.5" y="-0.5" width="341.338" height="118.606" rx="10.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_245" data-name="Group 245" transform="translate(-1 -3.468)">
+          <text id="Pay_with_Transfer" data-name="Pay with Transfer" transform="translate(170.609 86.082)" fill="#fff" font-size="14" font-family="Sailec-Bold, Sailec" font-weight="700"><tspan x="-28.161" y="0">Transfer</tspan></text>
+          <g id="Transfer" transform="translate(156.609 35.68)">
+            <rect id="Rectangle_2107-5" data-name="Rectangle 2107" width="28.802" height="28.802" transform="translate(0 0)" fill="none"/>
+            <g id="Transfer-2" data-name="Transfer" transform="translate(1.68 1.2)">
+              <rect id="Rectangle_2013-4" data-name="Rectangle 2013" width="25.681" height="25.681" transform="translate(0 0)" fill="none"/>
+              <path id="money-bill-transfer-solid" d="M19.116.251a.822.822,0,0,1,1.183,0l2.287,2.287a.773.773,0,0,1,.282.606.672.672,0,0,1-.282.576L20.3,6.007a.776.776,0,0,1-1.183,0,.826.826,0,0,1,0-1.183l.826-.854H13.72a.831.831,0,0,1-.858-.826.857.857,0,0,1,.858-.857l6.221-.031-.826-.792a.862.862,0,0,1,0-1.213ZM3.716,13.441l-.792.854,6.188-.032a.855.855,0,0,1,.858.858.82.82,0,0,1-.858.858l-6.189.033.792.822a.776.776,0,0,1,0,1.183.775.775,0,0,1-1.182,0L.247,15.729A.757.757,0,0,1,0,15.121a.842.842,0,0,1,.251-.576l2.287-2.287a.825.825,0,0,1,1.182,0,.776.776,0,0,1,0,1.183ZM3.395,2.287h8.677a1.8,1.8,0,0,0-.211.826A1.839,1.839,0,0,0,13.72,4.971h3.47A2.287,2.287,0,0,0,18.2,6.5a2.228,2.228,0,0,0,.207.246,1.862,1.862,0,0,0,2.63,0l.686-.69v7.666a2.289,2.289,0,0,1-2.288,2.287H10.793a1.934,1.934,0,0,0-1.68-2.748l-3.438.032a2.31,2.31,0,0,0-1.011-1.5,2.229,2.229,0,0,0-.207-.246,1.86,1.86,0,0,0-2.629,0l-.719.69V4.575A2.308,2.308,0,0,1,3.395,2.287Zm0,4.575A2.269,2.269,0,0,0,5.682,4.575H3.395Zm16.042,6.862V11.437a2.289,2.289,0,0,0-2.287,2.287ZM11.4,12.58A3.431,3.431,0,1,0,7.969,9.149,3.431,3.431,0,0,0,11.4,12.58Z" transform="translate(1.304 3.771)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="Transactions_in_Last_24_Hours" data-name="Transactions in Last 24 Hours" transform="translate(106.806 283.653)" fill="#fff" font-size="15" font-family="Sailec"><tspan x="0" y="0">Transactions in Last 24 Hours</tspan></text>
+      <text id="_320_000.00" data-name="₦ 320,000.00" transform="translate(106.806 326.015)" fill="#fff" font-size="23" font-family="Helvetica"><tspan x="0" y="0">₦</tspan><tspan y="0" xml:space="preserve" font-family="Sailec"> 320,000.00</tspan></text>
+      <g id="fincra-website-logo-white-retina" transform="translate(106.684 183.512)">
+        <path id="Path_12151" data-name="Path 12151" d="M0,0H112.275V35.162H0Z" transform="translate(0.006 0.003)" fill="none"/>
+        <g id="Fincra_White_logo" data-name="Fincra White logo" transform="translate(0 0)">
+          <g id="Layer_1_00000009581578136448061080000017587354942350795707_">
+            <path id="Path_12145" data-name="Path 12145" d="M59.451,59.57A17.582,17.582,0,0,1,28.043,70.429a7.384,7.384,0,0,1,6.523-2.988c.735.066,1.489-.009,2.234.009a7.831,7.831,0,0,0,4.346-1.216,14.885,14.885,0,0,0,5.062-5.43c.377-.622.3-.867-.5-.858q-4.355.042-8.691.009A10.1,10.1,0,0,0,27,66.489a11.146,11.146,0,0,0-.547,1.546A17.582,17.582,0,0,1,56.586,49.964c-5.664-.019-11.321-.236-16.977.075a7.66,7.66,0,0,0-6.844,9.587c1.3-1.885,3.064-2.253,5.043-2.243,3.846.028,7.683-.038,11.529-.038a7.684,7.684,0,0,0,4.619-1.471,14.328,14.328,0,0,0,3.8-3.771c.009-.009.009-.019.019-.028A17.675,17.675,0,0,1,59.451,59.57Z" transform="translate(-24.276 -41.987)" fill="#fff"/>
+            <g id="Group_189" data-name="Group 189" transform="translate(41.742 7.978)">
+              <path id="Path_12146" data-name="Path 12146" d="M479.765,126.685v2.536c-.32-.028-.613-.057-.848-.057a2.385,2.385,0,0,0-2.554,2.536v1.933h3.356v2.526h-3.356v10.859h-2.979v-10.86H470.8v-2.536h2.583v-1.857c0-3.214,2.027-5.166,5.222-5.166A10.613,10.613,0,0,1,479.765,126.685Zm5.326,1.018a1.772,1.772,0,0,1,0,2.583,1.931,1.931,0,0,1-2.658,0,1.82,1.82,0,0,1,0-2.583,1.9,1.9,0,0,1,2.658,0Zm.16,19.315h-2.978V133.632h2.979Z" transform="translate(-470.8 -126.6)" fill="#fff"/>
+              <path id="Path_12147" data-name="Path 12147" d="M680.542,200.208a5.519,5.519,0,0,1,1.49,4.044v8.069h-3.007v-7.673a2.909,2.909,0,0,0-2.979-3.233,3.085,3.085,0,0,0-3.168,3.262v7.645H669.9V198.936h2.818v1.772a4.245,4.245,0,0,1,4-2.008A5.084,5.084,0,0,1,680.542,200.208Z" transform="translate(-651.132 -191.904)" fill="#fff"/>
+              <path id="Path_12148" data-name="Path 12148" d="M847.112,203.763l-2.932.264a3.147,3.147,0,0,0-3.356-2.818c-2.262,0-3.808,1.64-3.808,4.44,0,2.743,1.574,4.412,3.808,4.412a3.146,3.146,0,0,0,3.384-2.658l2.932.264c-.528,3.026-2.979,4.93-6.306,4.93a7.182,7.182,0,0,1-4.939-12.038,6.88,6.88,0,0,1,4.949-1.857C844.162,198.7,846.66,200.633,847.112,203.763Z" transform="translate(-799.763 -191.904)" fill="#fff"/>
+              <path id="Path_12149" data-name="Path 12149" d="M1014.687,202.438c-2.319,0-3.808,1.433-3.808,3.422v7.287H1007.9V199.761h2.9v1.876c.669-1.358,1.942-2.036,3.884-2.036Z" transform="translate(-957.271 -192.719)" fill="#fff"/>
+              <path id="Path_12150" data-name="Path 12150" d="M1110.865,204.087v8.324h-3.007v-1.2a5.313,5.313,0,0,1-3.7,1.461c-2.771,0-4.553-1.433-4.553-3.912,0-2.507,1.678-3.864,5.005-4.044l3.252-.179v-.4c0-1.857-.8-2.79-2.422-2.79a2.214,2.214,0,0,0-2.451,2.272l-3.007-.1a4.446,4.446,0,0,1,1.489-3.29,5.433,5.433,0,0,1,3.94-1.433C1108.923,198.79,1110.865,200.665,1110.865,204.087Zm-2.979,2.715-2.847.179c-1.621.075-2.422.65-2.422,1.725,0,1.018.688,1.518,2.045,1.518,2,0,3.224-.99,3.224-2.95Z" transform="translate(-1040.327 -191.993)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Card-Icon-2" data-name="Card-Icon" transform="translate(270.014 308.095)">
+        <rect id="Rectangle_2107-6" data-name="Rectangle 2107" width="21.121" height="21.121" transform="translate(0 0)" fill="none"/>
+        <g id="Card-7" data-name="Card" transform="translate(0.96 1.2)">
+          <rect id="Rectangle_2013-5" data-name="Rectangle 2013" width="18.721" height="18.961" transform="translate(0 0)" fill="none"/>
+          <path id="rotate-left-solid" d="M16.971,37.7h-.254A.715.715,0,0,1,16,36.985V33.16a.718.718,0,0,1,1.224-.508L18.467,33.9a6.693,6.693,0,1,1-.03,9.5.958.958,0,1,1,1.355-1.354,4.781,4.781,0,1,0,.03-6.792l1.228,1.231a.718.718,0,0,1-.508,1.224Z" transform="translate(-13.535 -29.254)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

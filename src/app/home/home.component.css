@@ -1,0 +1,49 @@
+
+.row-section-3{
+    margin-top: 87px;
+}
+.section-4{
+    background-color: #fcf0d4;
+}
+#payments .section--businesses {
+    padding-bottom: 16rem;
+    padding-top: 0;
+}
+/* styles.css */
+.businesses__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .business {
+    margin: 10px;
+  }
+  
+  .business__logo {
+    max-width: 100px; /* You can adjust the max-width as needed */
+  }
+  
+/* Media Query for Mobile View */
+@media (max-width: 768px) {
+    .businesses__list {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .business {
+      margin: 10px 0; /* Adjust the margin for spacing */
+    }
+  
+    .business__logo {
+      max-width: 80px; /* Adjust for smaller screens */
+    }
+  }
+  .about-6{
+    background-color: azure;
+  }
+  #section-6{
+    background-color: aliceblue;
+  }
+
+  
