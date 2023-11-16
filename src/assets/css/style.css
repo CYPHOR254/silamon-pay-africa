@@ -9,6 +9,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito&family=Raleway:wght@400;500&display=swap");
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -35,6 +44,23 @@ h6 {
   font-weight: bold;
 }
 
+/* Button Styles */
+.button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.left {
+  margin-right: 10px; /* Optional: Add some space between buttons */
+}
+
+.right {
+  margin-left: 10px; /* Optional: Add some space between buttons */
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -1947,3 +1973,1009 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+
+
+/* trial */
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito&family=Raleway:wght@400;500&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --yellow: #fcf0d4;
+  --orange: #dc9542;
+  --purple: #a507e3;
+  --black: #444444;
+  --blue-1: #0d6efd;
+  --blue-2: #2760b6;
+  --blue-3: #329bd8;
+  --light-blue: #f0ffff;
+  --heading-font: "Raleway", sans-serif;
+  --paragraph-font: "Open Sans", sans-serif;
+  --other-font: "Nunito", sans-serif;
+  --radius: 0.3rem;
+}
+
+::-webkit-scrollbar {
+  max-width: 0.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--blue-1);
+  border-radius: 30rem;
+}
+
+@font-face {
+  font-family: calisto;
+  src: url(./Calisto-Font/Calisto\ Font/CALIST.ttf);
+}
+
+@font-face {
+  font-family: futur;
+  src: url(./Fonts/futura/futura\ light\ bt.ttf);
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--heading-font);
+}
+
+p,
+span,
+b,
+li,
+input,
+label,
+textarea {
+  font-family: var(--paragraph-font);
+}
+
+a {
+  text-decoration: none;
+  color: var(--black);
+  font-family: var(--other-font);
+}
+
+button {
+  border-radius: var(--radius);
+  padding: 0.7em 1em;
+  font-family: var(--other-font);
+  border: none;
+  background-color: var(--blue-1);
+  color: white;
+  font-size: 2.2ch;
+  cursor: pointer;
+}
+.button {
+  position: absolute;
+  top: 40%;
+  max-height: max-content;
+  background-color: transparent;
+  color: var(--blue-1);
+  font-size: 5ch;
+  padding: 0;
+}
+
+button:hover {
+  transform: scale(1.08);
+  transition: 0.3s ease-in-out;
+}
+
+body {
+  color: var(--black);
+}
+
+section {
+  padding: 4rem 6rem;
+  background-color: white;
+}
+
+header {
+  padding: 1rem 6rem;
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  background-color: white;
+  box-shadow: 0 0 10px -5px rgb(0, 0, 0, 0.2);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.logo img {
+  max-height: 2rem;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-grow: 1;
+}
+
+#link {
+  font-family: var(--other-font);
+  font-size: 1.8ch;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+#link:hover {
+  color: var(--blue-1);
+}
+
+#link i {
+  font-size: 2ch;
+  margin-top: 0.2rem;
+}
+
+.account {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+#signup {
+  font-size: 1.7ch;
+}
+
+.burger {
+  display: grid;
+  gap: 0.2rem;
+  cursor: pointer;
+  display: none;
+}
+
+.div {
+  width: 1.5rem;
+  height: 0.2rem;
+  border-radius: var(--radius);
+  background-color: var(--blue-2);
+}
+
+.div:nth-child(2) {
+  background-color: var(--blue-1);
+  width: 80%;
+}
+
+.div:nth-child(3) {
+  background-color: var(--orange);
+  width: 1rem;
+}
+
+.home {
+  background-color: var(--blue-2);
+  /* background-image: url(./Images/hero.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; */
+  max-height: 55rem;
+  overflow: hidden;
+  padding-block: 6rem;
+}
+
+.home-info {
+  color: whitesmoke;
+  /* background-color: rgb(0, 0, 0, 0.7); */
+  max-width: 60%;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.home-info h1 {
+  font-size: 7ch;
+  color: white;
+}
+
+.home-info p {
+  font-size: 2.3ch;
+  margin-top: 2rem;
+  line-height: 1.5;
+  max-width: 80%;
+  margin-inline: auto;
+}
+
+.home-info button {
+  margin-top: 2rem;
+  box-shadow: 0 0 20px -5px rgb(0, 0, 0, 0.2);
+}
+
+.home-image {
+  margin-top: 2rem;
+}
+
+.home-image img {
+  max-width: 100%;
+  min-height: 30rem;
+  object-fit: contain;
+}
+
+.solutions h1 {
+  text-align: center;
+  font-size: 5ch;
+  font-weight: 800;
+}
+
+.solution-box {
+  display: flex;
+  gap: 2rem;
+  margin-top: 4rem;
+}
+
+.side-nav {
+  min-width: 20%;
+  max-width: 20%;
+  max-height: 20rem;
+  position: sticky;
+  top: 8rem;
+  padding: 1.2rem 0.5rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.side-nav h4 {
+  font-weight: 400;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.side-nav h4:hover,
+.side-nav h4:focus {
+  font-weight: 600;
+  color: var(--blue-1);
+}
+
+.main-content {
+  display: grid;
+  gap: 4rem;
+  position: relative;
+  padding: 0.5rem;
+}
+
+.button {
+  position: absolute;
+  top: 40%;
+  max-height: max-content;
+  background-color: transparent;
+  color: var(--blue-1);
+  font-size: 5ch;
+  padding: 0;
+}
+
+.left {
+  left: 0;
+}
+
+.right {
+  right: 0;
+}
+
+.pay-in {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  align-items: center;
+  max-width: 90%;
+  margin-inline: auto;
+}
+
+.pay-in-info {
+  padding-inline: 0.5rem;
+}
+
+.pay-in-info h4 {
+  font-size: 4ch;
+  font-family: calisto;
+}
+
+.pay-in-info p {
+  margin-top: 1rem;
+  line-height: 1.5;
+  font-size: 2.3ch;
+  font-family: futur;
+}
+
+.pay-in-info ul {
+  margin-top: 2rem;
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.pay-in-info ul li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: futur;
+  background-color: var(--yellow);
+  padding: 1rem;
+  border-radius: var(--radius);
+}
+
+#extend li {
+  grid-column: 1/3;
+}
+
+.pay-in-info ul li i {
+  color: var(--orange);
+  background-color: transparent;
+}
+
+.pay-in-info button {
+  margin-top: 2rem;
+  background-color: transparent;
+  outline: 1px solid var(--blue-1);
+  color: var(--blue-1);
+}
+
+.pay-in-info button:hover {
+  background-color: var(--blue-1);
+  color: white;
+}
+
+.pay-in-image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  aspect-ratio: 1/0.8;
+  min-width: 100%;
+  border-radius: var(--radius);
+}
+
+.one {
+  background-image: url(../../assets/img/collect.png);
+}
+
+.two {
+  background-image: url(../../assets/img/multi-currency.jpg);
+}
+
+.three {
+  background-image: url(../../assets/img/checkout.jpg);
+}
+
+.four {
+  background-image: url(../../assets/img//a);
+}
+
+.five {
+  background-image: url(./Images/customer\ wait.png);
+}
+
+.six {
+  background-image: url(./Images/payment-link.png);
+}
+
+.api {
+  background-color: var(--orange);
+  color: whitesmoke;
+}
+
+.api h1 {
+  font-size: 5ch;
+  color: white;
+}
+
+.api p {
+  margin-top: 1rem;
+  font-size: 2.5ch;
+  line-height: 1.5;
+}
+
+.api button {
+  margin-top: 2rem;
+  background-color: var(--blue-1);
+}
+
+
+form {
+  margin-top: 1rem;
+}
+
+form {
+  display: grid;
+  gap: 0.5rem;
+}
+
+form input,
+form textarea {
+  border: none;
+  background-color: var(--yellow);
+  border-radius: var(--radius);
+  padding: 1em;
+}
+
+input:focus {
+  outline: none;
+}
+
+form button {
+  margin-top: 1rem;
+}
+
+@media screen and (max-width: 1400px) {
+  .home-info {
+    max-width: 70%;
+  }
+
+  .side-nav {
+    top: 5rem;
+  }
+
+  .side-nav h4 {
+    font-size: 1.6ch;
+  }
+
+  .pay-in-info h4 {
+    font-size: 3.5ch;
+  }
+
+  .pay-in-image img {
+    max-width: 100%;
+  }
+
+ 
+}
+
+@media screen and (max-width: 1300px) {
+  .side-nav h4 {
+    font-size: 1.6ch;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  header,
+  section,
+  .home-info {
+    padding-inline: 4rem;
+  }
+
+  .home-info {
+    max-width: 100%;
+  }
+
+  .home-info h1 {
+    font-size: 6ch;
+  }
+
+  .home-info p,
+  .pay-in-info p,
+  li,
+  .api p {
+    font-size: 2ch;
+  }
+
+  .home-image img {
+    max-height: 25rem;
+  }
+
+  .pay-in-info h4 {
+    font-size: 3.5ch;
+  }
+
+  .pay-in-image {
+    aspect-ratio: 1/1;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .burger {
+    display: grid;
+  }
+
+  .logo {
+    flex-grow: 1;
+  }
+
+  .links {
+    display: none;
+  }
+
+  .home-info h1 {
+    font-size: 6ch;
+  }
+
+  .home-info p,
+  .pay-in-info p,
+  li,
+  .api p {
+    font-size: 2.2ch;
+  }
+
+  .home-image img {
+    max-height: 20rem;
+  }
+
+  .solution-box {
+    margin-top: 3rem;
+  }
+
+  .pay-in-info {
+    padding: 0;
+  }
+
+  .pay-in-info h4 {
+    font-size: 4ch;
+  }
+
+  .pay-in-info p {
+    font-size: 2.5ch;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .home-info {
+    max-width: 100%;
+  }
+
+  .main-content {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .left {
+    left: -1.5rem;
+  }
+
+  .right {
+    right: -1.5rem;
+  }
+
+  .pay-in {
+    grid-template-columns: 1fr;
+    min-width: 50%;
+  }
+
+  .pay-in-image {
+    aspect-ratio: 1/0.5;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .home {
+    padding: 4rem;
+  }
+
+  .home-info {
+    max-width: 100%;
+  }
+
+  .home-info h1 {
+    font-size: 5.2ch;
+  }
+
+  .api h1 {
+    font-size: 4ch;
+  }
+
+  .home-info p,
+  .pay-in-info p,
+  li,
+  .api p {
+    font-size: 2ch;
+  }
+
+  .side-nav {
+    display: none;
+  }
+
+  .news-letter {
+    grid-column: 1/4;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .home-info {
+    padding: 0;
+  }
+
+  .home-info h1 {
+    font-size: 6ch;
+  }
+
+  .home-info p,
+  .pay-in-info p,
+  li,
+  .api p {
+    font-size: 2.2ch;
+  }
+
+  .solutions h1,
+  .api h1 {
+    font-size: 4ch;
+  }
+
+  .solution-box {
+    margin-top: 3rem;
+  }
+
+  .side-nav {
+    display: none;
+  }
+
+  .pay-in {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-box {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .pay-in-info {
+    padding: 0;
+  }
+
+  .pay-in-info h4 {
+    font-size: 4ch;
+  }
+
+  footer {
+    flex-direction: column;
+    gap: 2rem;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  header,
+  section {
+    padding-inline: 2rem;
+  }
+
+  .logo {
+    flex-grow: 1;
+  }
+
+  .links {
+    display: none;
+  }
+
+  .home-info h1 {
+    font-size: 5ch;
+  }
+
+  .home-info p {
+    max-width: 100%;
+  }
+
+  .home-info p,
+  .pay-in-info p,
+  li,
+  .api p {
+    font-size: 2.2ch;
+  }
+
+  .solutions h1,
+  .api h1 {
+    font-size: 4ch;
+  }
+
+  .solution-box {
+    margin-top: 3rem;
+  }
+
+  .side-nav {
+    display: none;
+  }
+
+  .pay-in {
+    grid-template-columns: 1fr;
+  }
+
+
+
+  .pay-in-info {
+    padding: 0;
+  }
+
+  .pay-in-info h4 {
+    font-size: 3ch;
+  }
+
+  .pay-in-image img {
+    max-width: 100%;
+  }
+
+
+  .news-letter {
+    grid-column: 1/3;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  header,
+  section {
+    padding-inline: 2rem;
+  }
+
+  .links,
+  .account {
+    display: none;
+  }
+
+  .home {
+    padding-inline: 2rem;
+  }
+
+  .home-info h1 {
+    font-size: 4.5ch;
+  }
+
+  .home-info p,
+  .pay-in-info p,
+  li,
+  .api p {
+    font-size: 2ch;
+  }
+
+  .solutions h1,
+  .api h1 {
+    font-size: 4ch;
+  }
+
+  .solution-box {
+    margin-top: 3rem;
+  }
+
+  .side-nav {
+    display: none;
+  }
+
+  .pay-in,
+  .pay-in-info ul {
+    grid-template-columns: 1fr;
+  }
+
+  .pay-in-info {
+    padding: 0;
+  }
+
+  .pay-in-info h4 {
+    font-size: 3ch;
+  }
+
+  .pay-in-image img {
+    max-width: 100%;
+  }
+
+  .news-letter {
+    grid-column: 1/2;
+  }
+
+}
+
+@media screen and (max-width: 500px) {
+  header,
+  section,
+ .home {
+    padding-inline: 1rem;
+  }
+
+  .links,
+  .account {
+    display: none;
+  }
+
+  .home {
+    flex-direction: column;
+  }
+
+  .home-info {
+    max-width: 100%;
+  }
+
+  .home-info h1 {
+    font-size: 4.5ch;
+  }
+
+  .home-info p,
+  .pay-in-info p,
+  li,
+  .api p {
+    font-size: 2ch;
+  }
+
+  .home-image img {
+    max-width: 100%;
+    min-height: 10rem;
+  }
+
+  .solutions h1,
+  .api h1 {
+    font-size: 4ch;
+  }
+
+  .solution-box {
+    margin-top: 3rem;
+  }
+
+  .left {
+    left: -0.5rem;
+  }
+
+  .right {
+    right: -0.5rem;
+  }
+
+  .pay-in-image {
+    aspect-ratio: 1/1;
+  }
+
+  .side-nav {
+    display: none;
+  }
+
+  .pay-in,
+  .pay-in-info ul {
+    grid-template-columns: 1fr;
+  }
+
+  .pay-in-info {
+    padding: 0;
+  }
+
+  .pay-in-info h4 {
+    font-size: 3ch;
+  }
+
+  .pay-in-image img {
+    max-width: 100%;
+  }
+
+ 
+}
+
+@media screen and (max-width: 400px) {
+  header,
+  section {
+    padding-inline: 1rem;
+  }
+
+  .links,
+  .account {
+    display: none;
+  }
+
+  .home {
+    flex-direction: column;
+  }
+
+  .home-info {
+    max-width: 100%;
+  }
+
+  .home-info h1 {
+    font-size: 3.5ch;
+  }
+
+  .home-info p,
+  .pay-in-info p,
+  li,
+  .api p {
+    font-size: 1.8ch;
+  }
+
+  .home-image img {
+    max-height: 20rem;
+  }
+
+  .solutions h1,
+  .api h1 {
+    font-size: 3ch;
+  }
+
+  .solution-box {
+    margin-top: 3rem;
+  }
+
+  .side-nav {
+    display: none;
+  }
+
+  .pay-in,
+  .pay-in-info ul
+  {
+    grid-template-columns: 1fr;
+  }
+
+  .pay-in-info {
+    padding: 0;
+  }
+
+  .pay-in-info h4 {
+    font-size: 2.5ch;
+  }
+
+  .pay-in-image img {
+    max-width: 100%;
+  }
+
+
+}
+
+@media screen and (max-width: 300px) {
+  header,
+  section{
+    padding-inline: 1rem;
+  }
+
+  .links,
+  .account {
+    display: none;
+  }
+
+  .home {
+    flex-direction: column;
+  }
+
+  .home-info {
+    max-width: 100%;
+  }
+
+  .home-info h1 {
+    font-size: 3.2ch;
+  }
+
+  .home-info p,
+  .pay-in-info p,
+  li,
+  .api p {
+    font-size: 1.8ch;
+  }
+
+  .home-image img {
+    max-height: 15rem;
+  }
+
+  .solutions h1,
+  .api h1 {
+    font-size: 3ch;
+  }
+
+  .solution-box {
+    margin-top: 3rem;
+  }
+
+  .side-nav {
+    display: none;
+  }
+
+  .pay-in,
+  .pay-in-info ul {
+    grid-template-columns: 1fr;
+  }
+
+  .pay-in-info {
+    padding: 0;
+  }
+
+  .pay-in-info h4 {
+    font-size: 2.5ch;
+  }
+
+  .pay-in-image img {
+    max-width: 100%;
+  }
+
+
+}
+/* end of trial */

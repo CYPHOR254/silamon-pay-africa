@@ -44,257 +44,258 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top" style="background-color:white;">
-    <div class="container d-flex align-items-center">
-
-      <!-- <h1 class="logo me-auto"><a href="index.html">Mashule</a></h1> -->
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.html" class="logo me-auto "><img src="assets/img/silamom pay.jpg" alt="" class="img-fluid"></a>
-
-      <nav id="navbar" class="navbar order-last order-lg-0">
-        <ul>
-          <li><a class="active" href="">Home</a></li>
-          <li><a routerLink="/about">About Us</a></li>
-          <li><a routerLink="/schools">Services</a></li>
-          <li><a routerLink="/team">Team</a></li>
-          <li><a routerLink="/contact">Contact</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-
-      <a routerLink="/login" class="get-started-btn">LOGIN</a>
-
+  <header id="header">
+    <div class="logo">
+      <a href="/">
+        <img src="assets/img/silamom pay.jpg" alt="SilamonPayAfrica.com">
+      </a>
     </div>
-  </header><!-- End Header -->
+    <div class="links">
+      <a href="/" id="link">Home</a>
+      <a href="/about" id="link">About Us</a>
+      <a href="/services" id="link">
+        Services
+        <i class="fa fa-angle-down"></i>
+      </a>
+      <a href="/team" id="link">Team</a>
+      <a href="/contact" id="link">Contact</a>
+    </div>
+    <div class="account">
+      <a id="link" href="#">Login</a>
+      <a href="#">
+        <button id="signup">Create Account</button>
+      </a>
+    </div>
+    <div class="burger">
+      <div class="div"></div>
+      <div class="div"></div>
+      <div class="div"></div>
+    </div>
+  </header>
+  <!-- End Header -->
+
+  <div class="about-section">
+    <h1></h1>
+    <h3></h3>
+
+  </div>
+
+  <section class="payments">
+    <div class="payment-text">
+      <h1>Collect payments seamlessly
+        with silamon Pay-In</h1>
+      <p>Improve customer experience and retention by allowing them to pay you using their preferred channel. silamon
+        Pay-In solution provides different payment methods from Payment Links, Virtual Accounts, POS terminal, a
+        seamless
+        checkout experience and more to your customers.</p>
+      <p>Silamon-pay-Africa provided payment solutions to accept payments securely, make payouts globally.</p>
+    </div>
+    <div class="payment-image">
+      <img src="../../assets/img/payment-link.png" alt="">
+    </div>
+  </section>
+  <br><br>
   <!-- ======= Services Section ======= -->
-  <section id="services" class="services">
-    <div class="container">
-
-      <div class="section-title">
-        <h2>Services</h2>
-        <h4>why silamon-pay-africa ?</h4>
-        <p>Silamon-pay-Africa
-          provides payment solutions to accept  payments securely, make payouts globally and  scale
-          your business across borders.</p>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
-          <div class="icon"><i class="bi bi-briefcase"></i></div>
-          <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-          <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
-            occaecati cupiditate non provident</p>
-        </div>
-        <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-          <div class="icon"><i class="bi bi-card-checklist"></i></div>
-          <h4 class="title"><a href="">Dolor Sitema</a></h4>
-          <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-            consequat tarad limino ata</p>
-        </div>
-        <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-          <div class="icon"><i class="bi bi-bar-chart"></i></div>
-          <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-          <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-            fugiat nulla pariatur</p>
-        </div>
-        <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-          <div class="icon"><i class="bi bi-binoculars"></i></div>
-          <h4 class="title"><a href="">Magni Dolores</a></h4>
-          <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-            mollit anim id est laborum</p>
-        </div>
-        <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-          <div class="icon"><i class="bi bi-brightness-high"></i></div>
-          <h4 class="title"><a href="">Nemo Enim</a></h4>
-          <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
-            voluptatum deleniti atque</p>
-        </div>
-        <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-          <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-          <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-          <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum
-            soluta nobis est eligendi</p>
+  <section class="services">
+    <h4>Why Silamon-Pay-Africa</h4>
+    <h1 style="font-size: 1.5rem;">SILAMON-PAY-AFRICA PROVIDES PAYMENT SOLUTIONS TO ACCEPT PAYMENTS SECURELY, MAKE PAYOUTS GLOBALLY AND SCALE YOUR
+      BUSINESS ACROSS BORDERS.</h1>
+    <div class="services-box">
+      <div class="service">
+        <div>
+          <h4>Online Checkout</h4>
+          <p>Integrate our checkout with your WordPress, WooCommerce, Joomia, PrestaShop, and Shopify stores.</p>
         </div>
       </div>
-
+      <div class="service">
+        <div>
+          <h4>Payment Links</h4>
+          <p>Get paid without having to write any code.</p>
+        </div>
+      </div>
+      <div class="service">
+        <div>
+          <h4>POS Systems</h4>
+          <p>Multiple payment methods for Point of Sale devices to expand your physical business.</p>
+        </div>
+      </div>
+      <div class="service">
+        <div>
+          <h4>Create an online store.</h4>
+          <p>Make a free online store to help you attract clients and handle payments from all over the world.</p>
+        </div>
+      </div>
+      <div class="service">
+        <div>
+          <h4>Exchange</h4>
+          <p>Exchange your Shilling for Dollars, Euros and Pounds</p>
+        </div>
+      </div>
+      <div class="service">
+        <div>
+          <h4>Invoices </h4>
+          <p>Prepare and send out expert invoices for international payments.</p>
+        </div>
+      </div>
+      <div class="service">
+        <div>
+          <h4>SilamonPay for Creators</h4>
+          <p>Make a free, one-page website with ease and sell goods anywhere in the world without knowing any code.</p>
+        </div>
+      </div>
+      <div class="service">
+        <div>
+          <h4>Afritickets</h4>
+          <p>Discover the integrated portfolio of services for event, travel, business, and lifestyle management.</p>
+        </div>
+      </div>
     </div>
-  </section><!-- End Services Section -->
+  </section>
+  <!-- End Services Section -->
 
-    <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
-          <div class="col-lg-4 d-flex align-items-stretch">
-            <div class="content">
-              <h3>Why Choose silamono-pay-africa?</h3>
-              <h4>Your search is unique.<br>
-                Just like you.</h4>
-              <p>
-                We give you all of the data, reviews, and insights in one place to make your search as easy as possible.
-              </p>
-              <div class="text-center">
-                <a href="about.html" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-8 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-boxes d-flex flex-column justify-content-center">
-              <div class="row">
-                <div class="col-xl-4 d-flex align-items-stretch">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-receipt"></i>
-                    <h4>1. Start Searching</h4>
-                    <p>by keyword, state, major, and more.</p>
-                  </div>
-                </div>
-                <div class="col-xl-4 d-flex align-items-stretch">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-cube-alt"></i>
-                    <h4>2. Click the "Yes, Connect Me!" Button
-                    </h4>
-                    <p>to let a school know you're interested.</p>
-                  </div>
-                </div>
-                <div class="col-xl-4 d-flex align-items-stretch">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-images"></i>
-                    <h4>Start Receiving Info From schools</h4>
-                    <p>by mail and/or email.</p>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End .content-->
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Why Us Section -->
-
-<!-- =======  Section 1 ======= -->
-<section id="about" class="about">
+  <!-- ======= Why Us Section ======= -->
+  <section id="why-us" class="why-us">
     <div class="container" data-aos="fade-up">
-      <!-- image 1 -->
+
       <div class="row">
-        <!-- right side -->
-        <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-          <!-- <img src="assets/img/about.jpg" class="img-fluid" alt=""> -->
-          <img src="assets/img/world.gif" class="img-fluid" alt="">
-
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="content">
+            <h3>Why Choose silamono-pay-africa?</h3>
+            <h4>Your search is unique.<br>
+              Just like you.</h4>
+            <p>
+              We give you all of the data, reviews, and insights in one place to make your search as easy as possible.
+            </p>
+            <div class="text-center">
+              <a href="about.html" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
+            </div>
+          </div>
         </div>
-
-        <!-- left side -->
-        <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-
-          <h2>
-            Collect payments seamlessly <br> with Silamona
-            Pay-In
-          </h2>
-
-          <br><br>
-          <p>Silamon-pay-Africa
-            PROVIDES PAYMENT SOLUTIONS TO ACCEPT <br>
-            PAYMENTS SECURELY, MAKE PAYOUTS GLOBALLY.</p>
-
+        <div class="col-lg-8 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+          <div class="icon-boxes d-flex flex-column justify-content-center">
+            <div class="row">
+              <div class="col-xl-4 d-flex align-items-stretch">
+                <div class="icon-box mt-4 mt-xl-0">
+                  <i class="bx bx-receipt"></i>
+                  <h4>1. Start Searching</h4>
+                  <p>by keyword, state, major, and more.</p>
+                </div>
+              </div>
+              <div class="col-xl-4 d-flex align-items-stretch">
+                <div class="icon-box mt-4 mt-xl-0">
+                  <i class="bx bx-cube-alt"></i>
+                  <h4>2. Click the "Yes, Connect Me!" Button
+                  </h4>
+                  <p>to let a school know you're interested.</p>
+                </div>
+              </div>
+              <div class="col-xl-4 d-flex align-items-stretch">
+                <div class="icon-box mt-4 mt-xl-0">
+                  <i class="bx bx-images"></i>
+                  <h4>Start Receiving Info From schools</h4>
+                  <p>by mail and/or email.</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- End .content-->
         </div>
       </div>
 
     </div>
-  </section><!-- End Section 1-->
+  </section><!-- End Why Us Section -->
 
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
 
-  
-    <!-- ======= Footer ======= -->
-    <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
 
-        <div class="footer-top">
-          <div class="container">
-            <div class="row">
-  
-              <div class="col-lg-3 col-md-6 footer-contact">
-                <h3>SILAMON-PAY-AFRICA</h3>
-                <p>
-                  KAREN <br>
-                  Nairobi, NRB 535022<br>
-                  KENYA <br><br>
-                  <strong>Phone:</strong> +254700070008 <br>
-                  <strong>Email:</strong> info@silamonpayafrica.com<br>
-                </p>
-              </div>
-  
-              <div class="col-lg-2 col-md-6 footer-links">
-                <h4>Useful Links</h4>
-                <ul>
-                  <li><i class="bx bx-chevron-right"></i> <a href="">Home</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="/about">About us</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="/services">Services</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-                </ul>
-              </div>
-  
-              <div class="col-lg-3 col-md-6 footer-links">
-                <h4>Our Services</h4>
-                <ul>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Send money</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Collect Payment</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Card</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">Payment-link</a></li>
-                  <li><i class="bx bx-chevron-right"></i> <a href="#">invoices</a></li>
-                </ul>
-              </div>
-  
-              <div class="col-lg-4 col-md-6 footer-newsletter">
-                <h4>Join Our Newsletter</h4>
-                <p>Want To Notified? Subscribe Now</p>
-                <form action="" method="post">
-                  <input type="email" name="email"><input type="submit" value="Subscribe">
-                </form>
-              </div>
-  
-            </div>
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h3>SILAMON-PAY-AFRICA</h3>
+            <p>
+              KAREN <br>
+              Nairobi, NRB 535022<br>
+              KENYA <br><br>
+              <strong>Phone:</strong> +254700070008 <br>
+              <strong>Email:</strong> info silamonpayafrica.com <br>
+            </p>
           </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Send money</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Collect Payment</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Card</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Payment-link</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">invoices</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>Join Our Newsletter</h4>
+            <p>Want To Notified? Subscribe Now</p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+          </div>
+
         </div>
-  
-        <div class="container d-md-flex py-4">
-  
-          <div class="me-md-auto text-center text-md-start">
-            <div class="copyright">
-              &copy; Copyright <strong><span>SILAMON-PAY-AFRICA</span></strong>. All Rights Reserved
-            </div>
-            <div class="credits">
-              <!-- All the links in the footer should remain intact. -->
-              <!-- You can delete the links only if you purchased the pro version. -->
-              <!-- Licensing information: https://bootstrapmade.com/license/ -->
-              <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/ -->
-              Designed by <a href="https://www.linkedin.com/in/earvine-munene-4182b2263/">Earvine Munene</a>
-            </div>
-          </div>
-          <div class="social-links text-center text-md-right pt-3 pt-md-0">
-            <a href="/twitter" class="twitter"><i class="bx bxl-twitter"></i></a>
-            <a href="/facebook" class="facebook"><i class="bx bxl-facebook"></i></a>
-            <a href="instagram" class="instagram"><i class="bx bxl-instagram"></i></a>
-            <a href="/skype" class="google-plus"><i class="bx bxl-skype"></i></a>
-            <a href="/linkedin" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-            <a href="/whasapp" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
-  
-          </div>
+      </div>
+    </div>
+
+    <div class="container d-md-flex py-4">
+
+      <div class="me-md-auto text-center text-md-start">
+        <div class="copyright">
+          &copy; Copyright <strong><span>SILAMON-PAY-AFRICA</span></strong>. All Rights Reserved
         </div>
-      </footer><!-- End Footer -->
-  
-    <!-- <div id="preloader"></div> -->
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-        class="bi bi-arrow-up-short"></i></a>
-  
-    <!-- Vendor JS Files -->
-    <script src="/src/assets/vendor/purecounter/purecounter_vanilla.js"></script>
-    <script src="/src/assets/vendor/aos/aos.js"></script>
-    <script src="/src/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="/src/assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="/src/assets/vendor/php-email-form/validate.js"></script>
-  
-    <!-- Template Main JS File -->
-    <script src="/src/assets/js/main.js"></script>
-  </body>
-  
-  </html>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/ -->
+          Designed by <a href="https://www.linkedin.com/in/earvine-munene-4182b2263/">Earvine Munene</a>
+        </div>
+      </div>
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="/twitter" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="/facebook" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="instagram" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="/skype" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="/linkedin" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="/whasapp" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
+
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+
+  <!-- <div id="preloader"></div> -->
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="/src/assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="/src/assets/vendor/aos/aos.js"></script>
+  <script src="/src/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/src/assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="/src/assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="/src/assets/js/main.js"></script>
+</body>
+
+</html>

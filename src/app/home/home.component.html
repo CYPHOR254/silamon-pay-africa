@@ -44,631 +44,394 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top" style="background-color:white;">
-    <div class="container d-flex align-items-center">
-
-      <!-- <h1 class="logo me-auto"><a href="index.html">Mashule</a></h1> -->
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.html" class="logo me-auto "><img src="assets/img/silamom pay.jpg" alt="" class="img-fluid"></a>
-
-      <nav id="navbar" class="navbar order-last order-lg-0">
-        <ul>
-          <li><a class="active" href="">Home</a></li>
-          <li><a routerLink="/about">About Us</a></li>
-          <li><a routerLink="/services">Services</a></li>
-          <li><a routerLink="/team">Team</a></li>
-          <li><a routerLink="/contact">Contact</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-
-      <a routerLink="/login" class="get-started-btn">LOGIN</a>
-
+  <header id="header">
+    <div class="logo">
+      <a href="/">
+        <img src="assets/img/silamom pay.jpg" alt="SilamonPayAfrica.com">
+      </a>
     </div>
-  </header><!-- End Header -->
-
-  <!-- ======= Hero Section ======= -->
-  <!-- <section id="hero" class="d-flex justify-content-center align-items-center">
-    <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
-      <h1>Collect payments in KES, NGN,</h1>
-      <h1>GHS and more</h1>
-      <a routerLink="/register" class="btn-get-started" color="white">Get Started</a>
+    <div class="links">
+      <a href="/" id="link">Home</a>
+      <a href="/about" id="link">About Us</a>
+      <a href="/services" id="link">
+        Services
+        <i class="fa fa-angle-down"></i>
+      </a>
+      <a href="/team" id="link">Team</a>
+      <a href="/contact" id="link">Contact</a>
     </div>
-  </section>End Hero -->
-  <!-- ======= Hero Section ======= -->
-  <section class="hero-section" id="hero">
-
-    <div class="wave">
-
-      <svg width="100%" height="355px" viewBox="0 0 1920 355" version="1.1" xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink">
-        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-          <g id="Apple-TV" transform="translate(0.000000, -402.000000)" fill="#FFFFFF">
-            <path
-              d="M0,439.134243 C175.04074,464.89273 327.944386,477.771974 458.710937,477.771974 C654.860765,477.771974 870.645295,442.632362 1205.9828,410.192501 C1429.54114,388.565926 1667.54687,411.092417 1920,477.771974 L1920,757 L1017.15166,757 L0,757 L0,439.134243 Z"
-              id="Path"></path>
-          </g>
-        </g>
-      </svg>
-
+    <div class="account">
+      <a id="link" href="#">Login</a>
+      <a href="#">
+        <button id="signup">Create Account</button>
+      </a>
     </div>
+    <div class="burger">
+      <div class="div"></div>
+      <div class="div"></div>
+      <div class="div"></div>
+    </div>
+  </header>
+  <!-- End Header -->
 
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-12 hero-text-image">
-          <div class="row">
-            <div class="col-lg-8 text-center text-lg-start">
-              <h1 data-aos="fade-right">Collect payments in KES , TZS,
-                
-            UGX and more</h1>
-
-              <p class="mb-5" data-aos="fade-right" data-aos-delay="100"> <b>Silamon-pay-Africa</b> has everything you
-                need, from multicurrency
-                accounts to no-code Pay-In options, for collecting payments across Africa and globally.
-
-              </p>
-              <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="#"
-                  class="btn btn-outline-white" style="border-color: rgb(24, 109, 114);border-width: 5px; border-radius: 20px;">Get started</a></p>
-            </div>
-            <div class="col-lg-4 iphone-wrap"> 
-              <img src="../../assets/img/phone_2.png" alt="Image" class="phone-2"
-                data-aos="fade-right" data-aos-delay="200">
-              <img src="../../assets/img/phone_1.png" alt="Image" class="phone-1" data-aos="fade-right">
-
-            </div>
-          </div>
-        </div>
+  <section class="home">
+    <div class="home-info">
+      <h1>Receive payments in UGX, TZS, KES, and other currencies.</h1>
+      <p>From multicurrency accounts to no-code transactions, <b>Silamon-pay-Africa</b> offers everything you need.
+        Options for pay-in, for receiving payments both domestically and internationally.
+      </p>
+      <button>Create Account</button>
+      <div class="home-image">
+        <img src="../../assets/img/mockup.png" alt="">
       </div>
     </div>
-
-  </section><!-- End Hero -->
-
-  <section class="section section--businesses">
-    <div class="container">
-      <div class="businesses">
-        <div class="businesses__list">
-          <div class="business"><img src="assets/img/uber.svg" alt="uber logo" class="business__logo"></div>
-          <div class="business"><img src="assets/img/mtn.svg" alt="mtn logo" class="business__logo"></div>
-          <div class="business"><img src="assets/img/chipper.svg" alt="chipper logo" class="business__logo"></div>
-          <div class="business"><img src="assets/img/piggyvest.svg" alt="piggyvest logo" class="business__logo"></div>
-          <div class="business"><img src="assets/img/wise.svg" alt="wise logo" class="business__logo xs"></div>
-          <div class="business"><img src="assets/img/microsoft.svg" alt="microsoft logo" class="business__logo"></div>
+  </section>
+  <section class="solutions">
+    <h1>Explore Our Solutions</h1>
+    <div class="solution-box">
+      <!-- <div class="side-nav">
+        <div class="pay-in-header">
+          <a href="#one">
+            <h4>Collect payments seamlessly with silamon Pay-In</h4>
+          </a>
+        </div>
+        <div class="pay-in-header">
+          <a href="#two">
+            <h4>Collect payments with Multicurrency Virtual Accounts<h4>
+          </a>
+        </div>
+        <div class="pay-in-header">
+          <a href="#three">
+            <h4>Fast, easy-to-use and optimised</h4>
+          </a>
+        </div>
+        <div class="pay-in-header">
+          <a href="#four">
+            <h4>Create link, share, and accept payments from anywhere</h4>
+          </a>
+        </div>
+        <div class="pay-in-header">
+          <a href="#five">
+            <h4>Reduce customer wait times for in-person transactions withsilamon POS Terminals</h4>
+          </a>
+        </div>
+        <div class="pay-in-header">
+          <a href="#six">
+            <h4>Send payments with silamon
+              Pay-out</h4>
+          </a>
+        </div>
+      </div> -->
+      <div class="main-content">
+        <button class="button left" onclick="plusDivs(-1)">❮</button>
+        <button class="button right" onclick="plusDivs(1)">❯</button>
+        
+        <div id="one" class="pay-in" style="display: grid;">
+          <div class="pay-in-info">
+            <h4>Accept payments swiftly and simply with Silamon Pay-In.</h4>
+            <p>Use Silamon Pay-In to increase customer happiness and loyalty. Several payment methods are available,
+              including Payment Links, POS terminals, virtual accounts, and simple checkout. The following methods are
+              available to your clients for payment.</p>
+            <ul>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Debit/Credit Cards
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Wire Transfer
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Mobile Money
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                POS Terminal
+              </li>
+            </ul>
+            <button>Learn More</button>
+          </div>
+          <div class="pay-in-image one"></div>
+        </div>
+        <div id="two" class="pay-in" style="display: none;">
+          <div class="pay-in-info">
+            <h4>Accept Payments using Virtual Accounts that Support Different Currencies.
+            </h4>
+            <p>Businesses may accept payments via Virtual Accounts in several currencies without paying extra costs when
+              they use Silamon's Multicurrency Accounts solution. This service may be useful to companies in a range of
+              industries, including travel and hospitality, SAAS, e-commerce, logistics, and consulting.</p>
+            <button>Learn More</button>
+          </div>
+          <div class="pay-in-image two"></div>
+        </div>
+        <div id="three" class="pay-in" style="display: none;">
+          <div class="pay-in-info">
+            <h4>Quick, user-friendly and fully optimised Silamon checkout</h4>
+            <p>Online payments are made easier with Silamon Checkout. It's simple to take one-time payments or collect
+              regular membership fees. You may connect our checkout API or build payment links to provide your customers
+              an improved checkout experience. With Silamon Checkout, your clients may make payments to you.
+            </p>
+            <ul>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Debit/Credit Cards
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Wire Transfer
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Pay Attitude
+              </li>
+            </ul>
+            <button>Learn More</button>
+          </div>
+          <div class="pay-in-image three"></div>
+        </div>
+        <div id="four" class="pay-in" style="display: none;">
+          <div class="pay-in-info">
+            <h4>Set up links, distribute them, and receive payments</h4>
+            <p>Without coding, easily build payment links and collect payments online using credit cards, wire
+              transfers, or PayAttitude. Share the link with buyers anywhere, even if you don't have a website, and you
+              can start selling online in just a few steps:
+            </p>
+            <ul id="extend">
+              <li>
+                <i class="material-icons">check_circle</i>
+                Create account on silamon
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Generate a link to promote the product or service you are selling.
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Provide your clients with the link via various web sources.
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Once payment has been made, you receive the money into your silamon balance.
+              </li>
+            </ul>
+            <button>Learn More</button>
+          </div>
+          <div class="pay-in-image four"></div>
+        </div>
+        <div id="five" class="pay-in" style="display: none;">
+          <div class="pay-in-info">
+            <h4>Silamon POS Terminals reduce client wait times for in-person transactions.</h4>
+            <p>We provide POS terminals for card and transfer payments to companies such as retail shops, petrol
+              stations and distributor touch points. Our Silamon POS terminal accepts the following transactions:</p>
+            <ul>
+              <li>
+                <i class="material-icons">check_circle</i>
+                ATM withdrawals
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Wire Transfer
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                DSTV, cable recharge, electricity recharge, airtime top-up
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Pay with transfer
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Wallet-to-Wallet transfer
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Deposit (Fund wallet)
+              </li>
+            </ul>
+            <button>Learn More</button>
+          </div>
+          <div class="pay-in-image five"></div>
+        </div>
+        <div id="six" class="pay-in" style="display: none;">
+          <div class="pay-in-info">
+            <h4>Use silamon Pay-out to send money.</h4>
+            <p>We offer a straightforward approach for transferring funds to a recipient utilising a variety of payment
+              options and payment destinations. Transfers may be made via payment methods with a single API integration
+              or via the Silamon merchant dashboard:</p>
+            <ul>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Wire Transfer
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Mobile Money
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Silamon Balance transfer
+              </li>
+              <li>
+                <i class="material-icons">check_circle</i>
+                Money pick-ups
+              </li>
+            </ul>
+            <button>Learn More</button>
+          </div>
+          <div class="pay-in-image six"></div>
         </div>
       </div>
     </div>
   </section>
 
+  <section class="api">
+    <h1>We’ve done the heavy lifting of connecting different banks, wallets, currencies, currency conversion services
+      &amp;
+      payment methods, so you can connect your financial world with one API.</h1>
+    <p>Our APIs give you access to all the resources you need to carry out seamless payment activities from your app,
+      including creating maintaining virtual accounts in available currencies, making payouts to different
+      beneficiaries, and receiving payments across several channels and methods.</p>
+    <button>API Documentation</button>
+  </section>
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
 
-  <main id="main">
-
-    <!-- =======  Section 1 ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-        <!-- image 1 -->
+    <div class="footer-top">
+      <div class="container">
         <div class="row">
-          <!-- right side -->
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <!-- <img src="assets/img/about.jpg" class="img-fluid" alt=""> -->
-            <img src="../../assets/img/gift.jpg" class="img-fluid" alt="">
 
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <!-- <h3>SILAMON-PAY-AFRICA</h3> -->
+            <a href="index.html" class="logo me-auto "><img src="assets/img/silamom pay.jpg" alt=""
+                class="img-fluid"></a>
+
+            <p>
+              KAREN <br>
+              Nairobi, NRB 535022<br>
+              KENYA <br><br>
+              <strong>Phone:</strong> +254700070008 <br>
+              <strong>Email:</strong> info silamonpayafrica.com<br>
+            </p>
           </div>
-          <!-- left side -->
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
 
-            <h2>
-              Collect payments seamlessly <br> with silamon
-              Pay-In
-            </h2>
-
-            <br><br>
-            <p>Improve customer experience and retention by allowing them to pay you <br> using their preferred channel.
-              silamon
-              Pay-In solution provides different <br> payment methods from Payment Links, Virtual Accounts, POS
-              terminal, <br> a seamless checkout experience and more to your customers.</p>
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Useful Links</h4>
             <ul>
-              <p>With silamon, your customers can pay you via these channels:
-              </p>
-              <li><i class="bi bi-check-circle"></i>Debit/Credit Cards </li>
-              <li><i class="bi bi-check-circle"></i> Bank Transfer</li>
-              <li><i class="bi bi-check-circle"></i> M-Pesa</li>
-              <li><i class="bi bi-check-circle"></i> Mobile Money</li>
-              <li><i class="bi bi-check-circle"></i>POS Terminal</li>
-              <li><i class="bi bi-check-circle"></i>PayAttitude</li>
-              <br><br>
-              <button type="button" class="btn btn-outline-primary"> ---Learn More</button>
-
-
+              <li><i class="bx bx-chevron-right"></i> <a href="">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/services">Terms of service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
-        </div>
 
-      </div>
-    </section><!-- End Section 1-->
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Send money</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Collect Payment</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Card</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Payment-link</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">invoices</a></li>
+            </ul>
+          </div>
 
-    <!-- ======= Section 2 ======= -->
-    <section class="section">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-md-4 ms-auto order-2">
-            <h3>Collect payments with Multicurrency Virtual Accounts</h3>
-            <p class="mb-4">Use our Multicurrency Accounts to accept payments for services,<br> convert them to your
-              local currency,
-              and
-              avoid excessive conversion <br> fees. silamon enables businesses such as logistics, consulting, SAAS,<br>
-              e-commerce, travel & hospitality, and others to collect payments in <br>multiple currencies via Virtual
-              Accounts without any hidden <br>charges.</p>
-            <p><a href="#" class="btn btn-primary">learn More</a></p>
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>Join Our Newsletter</h4>
+            <p>Want To Notified? Subscribe Now</p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
           </div>
-          <div class="col-md-6" data-aos="fade-right">
-            <img src="../../assets/img/gif-1.gif" alt="Image" class="img-fluid">
-          </div>
+
         </div>
       </div>
-    </section><!-- End  Section 2 -->
-
-    <!-- =======  Section 3 ======= -->
-    <div class="section-3">
-      <section id="about" class="about">
-        <div class="container" data-aos="fade-up">
-          <div class="row-section-3">
-            <div class="row">
-              <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-                <!-- <img src="assets/img/about.jpg" class="img-fluid" alt=""> -->
-                <img src="../../assets/img/hands-gif.gif" class="img-fluid" alt="">
-
-              </div>
-              <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" style="margin-top: 80px;
-              ">
-                <h3>
-                  <h3>
-                    Fast, easy-to-use and fully optimised </h3>
-                  <h3>silamon Checkout</h3>
-                </h3>
-                <br><br>
-                <p>Whether you need to collect recurring subscription fees or sell one-time <br>items, silamon Checkout
-                  makes it
-                  easy to accept payments online. You can <br> create payment links or integrate our checkout API to
-                  provide your <br>
-                  customers with a better-converting checkout experience when they want <br> to pay for a purchase.</p>
-                <br><br>
-                <ul>
-
-                  <p>With silamon Checkout, your customers can pay you via:
-                  </p>
-                  <li><i class="bi bi-check-circle"></i>Debit/Credit Cards </li>
-                  <li><i class="bi bi-check-circle"></i> Bank Transfer</li>
-                  <li><i class="bi bi-check-circle"></i>PayAttitude</li>
-                </ul>
-              </div>
-
-            </div>
-          </div>
-        </div>
-      </section>
     </div>
-    <!-- End Section 3 -->
 
-    <!-- ======= Section 4 ======= -->
-    <section id="about" class="about">
-      <div class="section-4">
-        <div class="container" data-aos="fade-up">
-          <div class="raw-secion-4">
-            <div class="row">
-              <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-1 content">
-                <h2>
-                  Create link, share, and accept <br>
-                  payments from anywhere </h2>
+    <div class="container d-md-flex py-4">
 
-                <br><br>
-                <p>With no code required, you can create easy payment links, share the <br> link with your customers
-                  wherever
-                  they are and collect payments <br> online without a website. Customers can pay you via cards, bank
-                  <br>
-                  transfers
-                  or PayAttitude.
-                </p>
-
-                <ul>
-                  <p>Selling online with silamon Payment Link takes just these simple steps:
-
-                  </p>
-                  <li><i class="bi bi-check-circle"></i>Sign up on silamon </li>
-                  <li><i class="bi bi-check-circle"></i> Create a link to sell a product or service. Links can be
-                    customizable and <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; shared to as many customers as you wish</li>
-                  <li><i class="bi bi-check-circle"></i> Share the link with your customers through different channels
-                    online</li>
-                  <li><i class="bi bi-check-circle"></i>Receive funds into your silamon balance as soon as payment is
-                    made
-                  </li>
-                  <br>
-                  <button type="button" class="btn btn-outline-primary">Learn more</button>
-
-                </ul>
-
-              </div>
-              <div class="col-lg-6 order-2 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-                <!-- <img src="assets/img/about.jpg" class="img-fluid" alt=""> -->
-                <img src="../../assets/img/laptop+mobile.jpg" class="img-fluid" alt="">
-
-              </div>
-            </div>
-          </div>
+      <div class="me-md-auto text-center text-md-start">
+        <div class="copyright">
+          &copy; Copyright <strong><span>SILAMON-PAY-AFRICA</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/ -->
+          Designed by <a href="https://www.linkedin.com/in/earvine-munene-4182b2263/">Earvine Munene</a>
         </div>
       </div>
-    </section><!-- End Section 4 -->
-
-    <!-- ======= Section 5 ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-        <div class="raw-secion-4">
-          <div class="row">
-            <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-1 content">
-              <h2>
-                Reduce customer wait times for <br>
-                in-person transactions with <br> silamon POS Terminals </h2>
-
-              <br><br>
-              <p>We provide access to point of sale (POS) terminals to <br>businesses such as retail outlets, gas
-                stations,
-                and distributor <br>touch points, allowing them to collect payments via cards or <br>transfers.</p>
-
-              <ul>
-                <p>silamon POS terminal supports different transactions including:
-
-
-                </p>
-                <li><i class="bi bi-check-circle"></i>Card withdrawals</li>
-                <li><i class="bi bi-check-circle"></i>Bank Transfers</li>
-                <li><i class="bi bi-check-circle"></i> VAS – Airtime Top-up, DSTV, Cable recharge, Electricity recharge
-                </li>
-                <li><i class="bi bi-check-circle"></i>Pay with transfer
-                </li>
-                <li><i class="bi bi-check-circle"></i>Wallet-to-Wallet transfer
-                </li>
-                <li><i class="bi bi-check-circle"></i>Deposit (Fund wallet)
-                </li>
-                <br>
-                <br>
-                <button type="button" class="btn btn-outline-primary">learn more</button>&nbsp;&nbsp;
-                <button type="button" class="btn btn-outline-primary">learn more</button>
-
-              </ul>
-
-            </div>
-            <div class="col-lg-6 order-2 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-              <!-- <img src="assets/img/about.jpg" class="img-fluid" alt=""> -->
-              <img src="../../assets/img/cash.jpg" class="img-fluid" alt="">
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </section><!-- End Section 5 -->
-
-    <!-- ======= Section 6 ======= -->
-    <section id="about" class="about-6">
-      <div class="container" data-aos="fade-up">
-        <div class="raw-secion-4">
-          <div class="row">
-            <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-1 content">
-              <h2>
-                Send payments with silamon <br> Pay-out</h2>
-
-              <br><br>
-              <p>We provide an easy way to make transfers to a beneficiary <br>using our available payment method
-                options
-                while the <br> beneficiary receives the payment via any of our available <br>payment destination
-                options.</p>
-
-              <ul>
-                <p>With a single API integration or via the silamon merchant <br>dashboard, you can make transfers
-                  through
-                  different payment <br> methods including:
-
-                </p>
-                <li><i class="bi bi-check-circle"></i>Bank Accounts Transfer</li>
-                <li><i class="bi bi-check-circle"></i>Mobile Money Transfer</li>
-                <li><i class="bi bi-check-circle"></i> silamon Balance to Balance transfer
-                </li>
-                <li><i class="bi bi-check-circle"></i>Cash pick-ups (Coming soon)
-                </li>
-
-                <br>
-                <br>
-                <button type="button" class="btn btn-outline-primary">learn more</button>
-
-              </ul>
-
-            </div>
-            <div class="col-lg-6 order-2 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-              <!-- <img src="assets/img/about.jpg" class="img-fluid" alt=""> -->
-              <img src="../../assets/img/laptop-dashboard.jpg" class="img-fluid" alt="">
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </section><!-- End Section 6 -->
-
-
-    <!-- ======= Hero Section ======= -->
-    <section id="section-6" class="d-flex justify-content-center align-items-center">
-      <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
-        <h1>We’ve done the heavy lifting of connecting different <br>banks, wallets, currencies, currency conversion
-          services & <br> payment methods, so you can connect your financial world with one API.</h1><br><br>
-        <P>Our APIs give you access to all the resources you need to carry out seamless payment activities from your
-          app, including creating <br> maintaining virtual accounts in available currencies, making payouts to different
-          beneficiaries, and receiving payments across several channels <br>and methods.</P>
-        <button type="button" class="btn btn-outline-primary"> ---Learn More</button>
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="/twitter" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="/facebook" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="instagram" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="/skype" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="/linkedin" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="/whasapp" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
 
       </div>
-    </section><!-- End Hero -->
-    <br>
+    </div>
+  </footer><!-- End Footer -->
 
-    <!-- ======= Team Section ======= -->
-    <section id="team" class="team section-bg">
-      <div class="container" data-aos="fade-up">
+  <script>
+    function plusDivs(n) {
+      showDivs(slideIndex += n);
+    }
+    </script>
+<!--   
+  <script>
+    let currentSection = 1; // Initial section
+  
+    function showSection(sectionNumber) {
+      // Hide all sections
+      for (let i = 1; i <= 6; i++) {
+        const section = document.getElementById(i);
+        if (section) {
+          section.style.display = 'none';
+        }
+      }
+  
+      // Show the selected section
+      const selectedSection = document.getElementById(sectionNumber);
+      if (selectedSection) {
+        selectedSection.style.display = 'grid';
+      }
+    }
+  
+    function plusDivs(n) {
+      currentSection += n;
+  
+      // Ensure the section number stays within bounds
+      if (currentSection < 1) {
+        currentSection = 6;
+      } else if (currentSection > 6) {
+        currentSection = 1;
+      }
+  
+      showSection(currentSection);
+    }
+  
+    // Initial display
+    showSection(currentSection);
+  </script> -->
+  
+ 
+  <!-- <div id="preloader"></div> -->
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
 
-        <div class="section-title">
-          <h2>Team</h2>
-        </div>
+  <!-- Vendor JS Files -->
+  <script src="/src/assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="/src/assets/vendor/aos/aos.js"></script>
+  <script src="/src/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/src/assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="/src/assets/vendor/swiper/swiper-bundle.min.js.map"></script>
 
-        <div class="row">
+  <script src="/src/assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <!-- Template Main JS File -->
+  <script src="/src/assets/js/main.js"></script>
 
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
-            <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../../assets/img/eva.jpg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
-                <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../../assets/img/team-2.jpg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
-                <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
-            <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../../assets/img/team-1.jpg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
-                <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
-            <div class="member d-flex align-items-start">
-              <div class="pic"><img src="../../assets/img/team-1.jpg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Team Section -->
-
-    <!-- =======  Section 1 ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-        <!-- image 1 -->
-        <div class="row">
-          <!-- right side -->
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <!-- <img src="assets/img/about.jpg" class="img-fluid" alt=""> -->
-            <img src="assets/img/world.gif" class="img-fluid" alt="">
-
-          </div>
-
-          <!-- left side -->
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-
-            <h2>
-              Collect payments seamlessly <br> with silamon Pay-In
-            </h2>
-
-            <br><br>
-            <p>Improve customer experience and retention by allowing them to pay you <br> using their preferred channel.
-              silamon Pay-In solution provides different <br> payment methods from Payment Links, Virtual Accounts, POS
-              terminal, <br> a seamless checkout experience and more to your customers.</p>
-
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Section 1-->
-
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Services</h2>
-          <h4>why silamon-pay-africa</h4>
-          <p>silamon provides payment solutions to accept <br> payments securely, make payouts globally and <br> scale
-            your business across borders.</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
-            <div class="icon"><i class="bi bi-briefcase"></i></div>
-            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
-              occaecati cupiditate non provident</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon"><i class="bi bi-card-checklist"></i></div>
-            <h4 class="title"><a href="">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-              consequat tarad limino ata</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon"><i class="bi bi-bar-chart"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-              fugiat nulla pariatur</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="bi bi-binoculars"></i></div>
-            <h4 class="title"><a href="">Magni Dolores</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-              mollit anim id est laborum</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon"><i class="bi bi-brightness-high"></i></div>
-            <h4 class="title"><a href="">Nemo Enim</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
-              voluptatum deleniti atque</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-            <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum
-              soluta nobis est eligendi</p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Services Section -->
-
-
-
-
-    <!-- ======= Footer ======= -->
-    <footer id="footer">
-
-      <div class="footer-top">
-        <div class="container">
-          <div class="row">
-
-            <div class="col-lg-3 col-md-6 footer-contact">
-              <!-- <h3>SILAMON-PAY-AFRICA</h3> -->
-              <a href="index.html" class="logo me-auto "><img src="assets/img/silamom pay.jpg" alt=""
-                  class="img-fluid"></a>
-
-              <p>
-                KAREN <br>
-                Nairobi, NRB 535022<br>
-                KENYA <br><br>
-                <strong>Phone:</strong> +254700070008 <br>
-                <strong>Email:</strong> info@silamonpayafrica.com<br>
-              </p>
-            </div>
-
-            <div class="col-lg-2 col-md-6 footer-links">
-              <h4>Useful Links</h4>
-              <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="">Home</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="/about">About us</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="/services">Services</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-              </ul>
-            </div>
-
-            <div class="col-lg-3 col-md-6 footer-links">
-              <h4>Our Services</h4>
-              <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Send money</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Collect Payment</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Card</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Payment-link</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">invoices</a></li>
-              </ul>
-            </div>
-
-            <div class="col-lg-4 col-md-6 footer-newsletter">
-              <h4>Join Our Newsletter</h4>
-              <p>Want To Notified? Subscribe Now</p>
-              <form action="" method="post">
-                <input type="email" name="email"><input type="submit" value="Subscribe">
-              </form>
-            </div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="container d-md-flex py-4">
-
-        <div class="me-md-auto text-center text-md-start">
-          <div class="copyright">
-            &copy; Copyright <strong><span>SILAMON-PAY-AFRICA</span></strong>. All Rights Reserved
-          </div>
-          <div class="credits">
-            <!-- All the links in the footer should remain intact. -->
-            <!-- You can delete the links only if you purchased the pro version. -->
-            <!-- Licensing information: https://bootstrapmade.com/license/ -->
-            <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/ -->
-            Designed by <a href="https://www.linkedin.com/in/earvine-munene-4182b2263/">Earvine Munene</a>
-          </div>
-        </div>
-        <div class="social-links text-center text-md-right pt-3 pt-md-0">
-          <a href="/twitter" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="/facebook" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="instagram" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="/skype" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="/linkedin" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-          <a href="/whasapp" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
-
-        </div>
-      </div>
-    </footer><!-- End Footer -->
-
-
-    <!-- <div id="preloader"></div> -->
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-        class="bi bi-arrow-up-short"></i></a>
-
-    <!-- Vendor JS Files -->
-    <script src="/src/assets/vendor/purecounter/purecounter_vanilla.js"></script>
-    <script src="/src/assets/vendor/aos/aos.js"></script>
-    <script src="/src/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="/src/assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="/src/assets/vendor/swiper/swiper-bundle.min.js.map"></script>
-
-    <script src="/src/assets/vendor/purecounter/purecounter_vanilla.js"></script>
-    <!-- Template Main JS File -->
-    <script src="/src/assets/js/main.js"></script>
-
-    <!-- slideshow -->
+  <!-- slideshow -->

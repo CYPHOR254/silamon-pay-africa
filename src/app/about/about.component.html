@@ -43,197 +43,94 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top" style="background-color:white;">
-    <div class="container d-flex align-items-center">
-
-      <!-- <h1 class="logo me-auto"><a href="index.html">Mashule</a></h1> -->
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.html" class="logo me-auto "><img src="assets/img/silamom pay.jpg" alt="" class="img-fluid"></a>
-
-      <nav id="navbar" class="navbar order-last order-lg-0">
-        <ul>
-          <li><a class="active" href="">Home</a></li>
-          <li><a routerLink="/about">About Us</a></li>
-          <li><a routerLink="/services">Services</a></li>
-          <li><a routerLink="/team">Team</a></li>
-          <li><a routerLink="/contact">Contact</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-
-      <a routerLink="/login" class="get-started-btn">LOGIN</a>
-
+  <header id="header">
+    <div class="logo">
+      <a href="/">
+        <img src="assets/img/silamom pay.jpg" alt="SilamonPayAfrica.com">
+      </a>
     </div>
-  </header><!-- End Header -->
+    <div class="links">
+      <a href="/" id="link">Home</a>
+      <a href="/about" id="link">About Us</a>
+      <a href="/services" id="link">
+        Services
+        <i class="fa fa-angle-down"></i>
+      </a>
+      <a href="/team" id="link">Team</a>
+      <a href="/contact" id="link">Contact</a>
+    </div>
+    <div class="account">
+      <a id="link" href="#">Login</a>
+      <a href="#">
+        <button id="signup">Create Account</button>
+      </a>
+    </div>
+    <div class="burger">
+      <div class="div"></div>
+      <div class="div"></div>
+      <div class="div"></div>
+    </div>
+  </header>
+  <!-- End Header -->
   <main id="main">
 
 
     <div class="about-section">
-      <h1>About Us Page</h1>
-      <h3>We want to change the world one successful <br>transaction at a time</h3>
+      <h1></h1>
+      <h3></h3>
 
     </div>
 
-    <!-- ======= About Section Hero ======= -->
-    <div class="image-container-hero">
-      <img src="assets/img/about-people.png" alt="Cover Image">
-      <div class="centered-text">
-        <h1> Welcome to <SPAN>SILAMON-PAY-AFRICA,</SPAN> your trusted partner in the world of international financial
-          transactions.
-          We are more than just a financial services provider; we're your bridge to secure and seamless cross-border
-          money management.
-
-        </h1>
+    <section class="about-hero">
+      <div class="about-info">
+        <h1>Welcome to <br> <span>SILAMON-PAY-AFRICA</span></h1>
+        <p>Your trusted partner in the world of international financial transactions. We are more than just a financial
+          services provider. We're your bridge to secure and seamless cross-border money management.</p>
+        <p id="change">Changing the world one successful transaction at a time</p>
       </div>
-    </div> <!-- ======= End of About Section hero ======= -->
+      <div class="about-image"></div>
+    </section>
 
-    <!-- End About Section -->
-    <br>
-
-    <!-- =======  Section 1 ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-        <!-- image 1 -->
-        <div class="row">
-          <!-- right side -->
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <!-- <img src="assets/img/about.jpg" class="img-fluid" alt=""> -->
-            <img src="../../assets/img/gif-1.gif" alt="Image" class="img-fluid">
-
-          </div>
-          <!-- left side -->
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-
-
-
-            <br> <br><br><br><br>
-            <p> <b>We are an organization that places a strong emphasis on financial literacy in every<br> aspect of the
-                word.
-                Assisting individuals and businesses with a platform that they can use to navigate and optimize their
-                financial transactions across international borders. </b></p>
-          </div>
-        </div>
-
+    <section class="literacy">
+      <div class="literacy-image">
       </div>
-    </section><!-- End Section 1-->
-
-
-
-    <!-- ======= Section 2 ======= -->
-    <section class="section">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-md-4 ms-auto order-2">
-            <h3>Collect payments with Multicurrency Virtual Accounts</h3>
-            <p class="mb-4">Use our Multicurrency Accounts to accept payments for services,<br> convert them to your
-              local currency,
-              and
-              avoid excessive conversion <br> fees. silamon enables businesses such as logistics, consulting, SAAS,<br>
-              e-commerce, travel & hospitality, and others to collect payments in <br>multiple currencies via Virtual
-              Accounts without any hidden <br>charges.</p>
-            <p><a href="#" class="btn btn-primary">learn More</a></p>
-          </div>
-          <div class="col-md-6" data-aos="fade-right">
-            <img src="../../assets/img/autonomous-vehicle 1.jpg" class="img-fluid" alt="">
-          </div>
-        </div>
+      <div class="literacy-info">
+        <h4>Our organization prioritizes financial literacy and provides a platform for individuals and businesses to
+          efficiently manage their financial transactions internationally.</h4>
       </div>
-    </section><!-- End  Section 2 -->
-    <!-- section of card -->
-    <div class="card">
-      <div class="card-content">
-        <h2>We currently offer local and cross-border Pay-Outs across over 100 currencies, quick payment collection <br>
-          through multiple Pay-In methods, Agency Banking, POS Terminal, Utility Management and Identity <br> Management
-          via API.</h2>
-        <button type="button" class="btn btn-outline-primary"> ---Learn More</button>
+    </section>
 
+
+    <section class="infrastructure">
+      <div class="infrastructure-info">
+        <h4>Silamon offers secure online and offline payment solutions for fintechs, global businesses, and platforms. Its
+          services include payment acceptance, Pay-Outs, and financial services for businesses to offer their customers.
+        </h4>
       </div>
-
-    </div>
-
-    <!-- end of section card -->
-
-
-    <!-- ======= Section 1 ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-        <div class="row flex-row justify-content: flex-start">
-          <div class="col-lg-6 content flex-column" data-aos="fade-left" data-aos-delay="100">
-            <br><br>
-            <p>silamon is a payment infrastructure for <br> fintechs, global businesses and platforms. <br> silamon
-              provides online
-              and offline payment <br> solutions that help businesses to accept <br> payments securely, send Pay-Outs
-              and offer <br>
-              financial services to their customers.</p>
-          </div>
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100"
-            style="border-radius: 20px; background-color:dimgrey;">
-            <img src="../../assets/img/laptop.jpg" class="img-fluid" alt="">
-          </div>
-        </div>
+      <div class="infrastructure-image">
       </div>
-    </section><!-- End  Section 1 -->
-<br>
-<br>
+    </section>
 
-    s<!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
-      <div class="container" data-aos="zoom-in">
 
-        <div class="row">
-          <div class="col-lg-9 text-center text-lg-start">
-            <h3>Call To Action</h3>
-            <p>We are a team of experienced financial experts with a passion for innovation. Our founders envisioned a
-              world where financial transactions knew no boundaries, and we're here to bring that vision to life. With
-              deep industry knowledge and a commitment to staying at the forefront of financial technology, we empower
-              individuals and businesses to explore new horizons</p>
-            
-          </div>
-          <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
-          </div>
-        </div>
-
+    <section class="team">
+      <div class="team-info">
+        
+        <p>We are a team of experienced financial experts focused on innovation. Our goal is to remove boundaries in
+          financial transactions and make our founders' vision a reality. With extensive industry knowledge and a
+          dedication to staying at the forefront of financial technology, we empower individuals and businesses to explore
+          new opportunities.</p><a href="/contact">
+          <button>Get in touch</button>
+        </a>
       </div>
-    </section><!-- End Cta Section -->
-    <!-- end of section card -->
+    </section>
 
-
-
-
-    <!-- section of card -->
-    <div class="card">
-      <div class="card-content">
-        <h2>We currently offer local and cross-border Pay-Outs across over 100 currencies, quick payment collection <br>
-          through multiple Pay-In methods, Agency Banking, POS Terminal, Utility Management and Identity <br> Management
-          via API.</h2>
-        <button type="button" class="btn btn-outline-primary"> ---Learn More</button>
-
+    <section class="suite">
+      <div class="suite-info">
+        <h4>Our full suite of products is also offered via API for developers to innovate and businesses to scale up and
+          provide the best payment offerings.</h4>
+        <button>Read Documentation</button>
       </div>
-
-    </div>
-
-    <!-- end of section card -->
-
-    <!-- ======= Hero Section ======= -->
-    <div class="mission-section">
-      <section id="section-6" class="d-flex justify-content-center align-items-center">
-        <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
-          <h1>Our full suite of products is also offered via API for developers to innovate and businesses to scale up
-            and provide the best payment offerings.</h1>
-          <button type="button" class="btn btn-outline-primary"> ---Learn More</button>
-
-        </div>
-
-      </section><!-- End Hero -->
-
-      <div class="row-section">
-        <div class="image-container">
-          <img src="../../assets/img/Our-mission.jpg" alt="Image 1">
-          <img src="../../assets/img/card.jpg" alt="Image 2">
-        </div>
-      </div>
-    </div>
+    </section>
   </main>
   <!-- End #main -->
 
@@ -258,7 +155,7 @@
               Nairobi, NRB 535022<br>
               KENYA <br><br>
               <strong>Phone:</strong> +254700070008 <br>
-              <strong>Email:</strong> info@silamonpayafrica.com<br>
+              <strong>Email:</strong> info silamonpayafrica.com<br>
             </p>
           </div>
 

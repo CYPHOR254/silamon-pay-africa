@@ -1,49 +1,86 @@
 
-.row-section-3{
-    margin-top: 87px;
-}
-.section-4{
-    background-color: #fcf0d4;
-}
-#payments .section--businesses {
-    padding-bottom: 16rem;
-    padding-top: 0;
-}
-/* styles.css */
-.businesses__list {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+/* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
   }
   
-  .business {
-    margin: 10px;
+  /* Hide the images by default */
+  .mySlides {
+    display: none;
   }
   
-  .business__logo {
-    max-width: 100px; /* You can adjust the max-width as needed */
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
   }
   
-/* Media Query for Mobile View */
-@media (max-width: 768px) {
-    .businesses__list {
-      flex-direction: column;
-      align-items: center;
-    }
-  
-    .business {
-      margin: 10px 0; /* Adjust the margin for spacing */
-    }
-  
-    .business__logo {
-      max-width: 80px; /* Adjust for smaller screens */
-    }
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
   }
-  .about-6{
-    background-color: azure;
-  }
-  #section-6{
-    background-color: aliceblue;
-  }
-
   
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+  
+  /* Caption text */
+  .text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  /* Number text (1/3 etc) */
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+  
+  /* The dots/bullets/indicators */
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+  
+  /* Fading animation */
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }

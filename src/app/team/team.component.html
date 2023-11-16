@@ -43,110 +43,117 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top" style="background-color:white;">
-    <div class="container d-flex align-items-center">
-
-      <!-- <h1 class="logo me-auto"><a href="index.html">Mashule</a></h1> -->
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.html" class="logo me-auto "><img src="assets/img/silamom pay.jpg" alt="" class="img-fluid"></a>
-
-      <nav id="navbar" class="navbar order-last order-lg-0">
-        <ul>
-          <li><a class="active" href="">Home</a></li>
-          <li><a routerLink="/about">About Us</a></li>
-          <li><a routerLink="/services">Services</a></li>
-          <li><a routerLink="/team">Team</a></li>
-          <li><a routerLink="/contact">Contact</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-
-      <a routerLink="/login" class="get-started-btn">LOGIN</a>
-
+  <header id="header">
+    <div class="logo">
+      <a href="/">
+        <img src="assets/img/silamom pay.jpg" alt="SilamonPayAfrica.com">
+      </a>
     </div>
-  </header><!-- End Header -->
+    <div class="links">
+      <a href="/" id="link">Home</a>
+      <a href="/about" id="link">About Us</a>
+      <a href="/services" id="link">
+        Services
+        <i class="fa fa-angle-down"></i>
+      </a>
+      <a href="/team" id="link">Team</a>
+      <a href="/contact" id="link">Contact</a>
+    </div>
+    <div class="account">
+      <a id="link" href="#">Login</a>
+      <a href="#">
+        <button id="signup">Create Account</button>
+      </a>
+    </div>
+    <div class="burger">
+      <div class="div"></div>
+      <div class="div"></div>
+      <div class="div"></div>
+    </div>
+  </header>
+  <!-- End Header -->
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team section-bg">
-        <div class="container" data-aos="fade-up">
-  
-          <div class="section-title">
-            <h2>Team</h2>
+    <section class="team">
+      <h1>Meet the team that makes it all happen</h1>
+      <div class="team-box">
+        <div class="team-info">
+          <div>
+            <div class="team-image">
+              <img src="../../assets/img/eva.jpg" alt="">
+            </div>
+            <div class="team-details">
+              <h4>Eva Mwangi</h4>
+              <p>CEO</p>
+              <hr>
+              <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+              <div class="socials">
+                <i class="fa fa-twitter-square"></i>
+                <i class="fa fa-facebook-square"></i>
+                <i class="fa fa-instagram"></i>
+                <i class="fa fa-linkedin-square"></i>
+              </div>
+            </div>
           </div>
-  
-          <div class="row">
-  
-            <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="../../assets/img/eva.jpg" class="img-fluid" alt=""></div>
-                <div class="member-info">
-                  <h4>Eva Mwangi</h4>
-                  <span>Chief Executive Officer</span>
-                  <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
-                  <div class="social">
-                    <a href=""><i class="ri-twitter-fill"></i></a>
-                    <a href=""><i class="ri-facebook-fill"></i></a>
-                    <a href=""><i class="ri-instagram-fill"></i></a>
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-  
-            <div class="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="../../assets/img/team-2.jpg" class="img-fluid" alt=""></div>
-                <div class="member-info">
-                  <h4>Sarah Jhonson</h4>
-                  <span>Product Manager</span>
-                  <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
-                  <div class="social">
-                    <a href=""><i class="ri-twitter-fill"></i></a>
-                    <a href=""><i class="ri-facebook-fill"></i></a>
-                    <a href=""><i class="ri-instagram-fill"></i></a>
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-  
-            <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="../../assets/img/team-1.jpg" class="img-fluid" alt=""></div>
-                <div class="member-info">
-                  <h4>William Anderson</h4>
-                  <span>CTO</span>
-                  <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
-                  <div class="social">
-                    <a href=""><i class="ri-twitter-fill"></i></a>
-                    <a href=""><i class="ri-facebook-fill"></i></a>
-                    <a href=""><i class="ri-instagram-fill"></i></a>
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-  
-            <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="../../assets/img/team-1.jpg" class="img-fluid" alt=""></div>
-                <div class="member-info">
-                  <h4>Amanda Jepson</h4>
-                  <span>Accountant</span>
-                  <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                  <div class="social">
-                    <a href=""><i class="ri-twitter-fill"></i></a>
-                    <a href=""><i class="ri-facebook-fill"></i></a>
-                    <a href=""><i class="ri-instagram-fill"></i></a>
-                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-  
-          </div>
-  
         </div>
-      </section><!-- End Team Section -->
+        <div class="team-info">
+          <div>
+            <div class="team-image">
+              <img src="../../assets/img/portrait_2.jpg" alt="">
+            </div>
+            <div class="team-details">
+              <h4>Sarah Johnson</h4>
+              <p>Product Manager</p>
+              <hr>
+              <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+              <div class="socials">
+                <i class="fa fa-twitter-square"></i>
+                <i class="fa fa-facebook-square"></i>
+                <i class="fa fa-instagram"></i>
+                <i class="fa fa-linkedin-square"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="team-info">
+          <div>
+            <div class="team-image">
+              <img src="../../assets/img/team-1.jpg" alt="">
+            </div>
+            <div class="team-details">
+              <h4>William Anderson</h4>
+              <p>CTO</p>
+              <hr>
+              <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+              <div class="socials">
+                <i class="fa fa-twitter-square"></i>
+                <i class="fa fa-facebook-square"></i>
+                <i class="fa fa-instagram"></i>
+                <i class="fa fa-linkedin-square"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="team-info">
+          <div>
+            <div class="team-image">
+              <img src="../../assets/img/portrait.jpg" alt="">
+            </div>
+            <div class="team-details">
+              <h4>Amanda Jepson</h4>
+              <p>Accountant</p>
+              <hr>
+              <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+              <div class="socials">
+                <i class="fa fa-twitter-square"></i>
+                <i class="fa fa-facebook-square"></i>
+                <i class="fa fa-instagram"></i>
+                <i class="fa fa-linkedin-square"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Team Section -->
       
 
     <!-- ======= Footer ======= -->
